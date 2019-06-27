@@ -55,7 +55,7 @@ model.compile(loss='mean_squared_error',
     metrics=['mean_absolute_error', 'mean_squared_error'])
 
 #train model
-early_stop = keras.callbacks.EarlyStopping(monitor='val_loss', patience=100)
+early_stop = keras.callbacks.EarlyStopping(monitor='val_loss', patience=200)
 
 EPOCHS = 10000
 history = model.fit(normedTrainData, trainMpg, epochs=EPOCHS,
