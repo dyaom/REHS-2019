@@ -1,0 +1,335 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM
+9606	Homo sapiens	21	0	live	ABCA3	"ABC-C, ABC3, EST111653, LBM180, SMDP3"	ATP binding cassette subfamily A member 3	"ATP-binding cassette sub-family A member 3|ABC transporter 3|ABC-C transporter|ATP-binding cassette transporter 3|ATP-binding cassette, sub-family A (ABC1), member 3"	16p13.3	16	NC_000016.10	2275881	2340728	minus	33	601615
+9606	Homo sapiens	26090	0	live	ABHD12	"ABHD12A, BEM46L2, C20orf22, PHARC, dJ965G21.2, hABHD12"	abhydrolase domain containing 12	lysophosphatidylserine lipase ABHD12|2-arachidonoylglycerol hydrolase|2-arachidonoylglycerol hydrolase ABHD12|abhydrolase domain-containing protein 12|monoacylglycerol lipase ABHD12|oxidized phosphatidylserine lipase ABHD12	20p11.21	20	NC_000020.11	25294743	25390835	minus	16	613599
+9606	Homo sapiens	79611	0	live	ACSS3		acyl-CoA synthetase short chain family member 3	"acyl-CoA synthetase short-chain family member 3, mitochondrial|AMP-binding enzyme, 33217"	12q21.31	12	NC_000012.12	81078037	81261210	plus	19	614356
+9606	Homo sapiens	8754	0	live	ADAM9	"CORD9, MCMP, MDC9, Mltng"	ADAM metallopeptidase domain 9	disintegrin and metalloproteinase domain-containing protein 9|ADAM metallopeptidase domain 9 (meltrin gamma)|cellular disintegrin-related protein|cone rod dystrophy 9|metalloprotease/disintegrin/cysteine-rich protein 9|myeloma cell metalloproteinase	8p11.22	8	NC_000008.11	38996767	39105261	plus	25	602713
+9606	Homo sapiens	54507	0	live	ADAMTSL4	"ADAMTSL-4, ECTOL2, TSRC1"	ADAMTS like 4	ADAMTS-like protein 4|thrombospondin repeat-containing protein 1	1q21.2	1	NC_000001.11	150549369	150560937	plus	21	610113
+9606	Homo sapiens	55750	0	live	AGK	"CATC5, CTRCT38, MTDPS10, MULK"	acylglycerol kinase	"acylglycerol kinase, mitochondrial|hAGK|hsMuLK|multi-substrate lipid kinase|multiple substrate lipid kinase"	7q34	7	NC_000007.14	141551410	141662153	plus	19	610345
+9606	Homo sapiens	23746	0	live	AIPL1	"AIPL2, LCA4"	aryl hydrocarbon receptor interacting protein like 1	aryl-hydrocarbon-interacting protein-like 1	17p13.2	17	NC_000017.11	6423738	6435121	minus	6	604392
+9606	Homo sapiens	231	0	live	AKR1B1	"ADR, ALDR1, ALR2, AR"	aldo-keto reductase family 1 member B	aldo-keto reductase family 1 member B1|Lii5-2 CTCL tumor antigen|aldehyde reductase 1|aldose reductase|low Km aldose reductase	7q33	7	NC_000007.14	134442350	134459239	minus	11	103880
+9606	Homo sapiens	229	0	live	ALDOB	"ALDB, ALDO2"	"aldolase, fructose-bisphosphate B"	"fructose-bisphosphate aldolase B|aldolase 2|aldolase B, fructose-bisphosphatase|aldolase B, fructose-bisphosphate|liver-type aldolase"	9q31.1	9	NC_000009.12	101420560	101435774	minus	9	612724
+9606	Homo sapiens	328	0	live	APEX1	"APE, APE1, APEN, APEX, APX, HAP1, REF1"	apurinic/apyrimidinic endodeoxyribonuclease 1	DNA-(apurinic or apyrimidinic site) lyase|AP endonuclease class I|AP lyase|APEX nuclease (multifunctional DNA repair enzyme) 1|apurinic-apyrimidinic endonuclease 1|apurinic/apyrimidinic (abasic) endonuclease|deoxyribonuclease (apurinic or apyrimidinic)|protein REF-1|redox factor-1	14q11.2	14	NC_000014.9	20455226	20457767	plus	5	107748
+9606	Homo sapiens	348	0	live	APOE	"AD2, APO-E, ApoE4, LDLCQ5, LPG"	apolipoprotein E	apolipoprotein E|apolipoprotein E3	19q13.32	19	NC_000019.10	44905796	44909395	plus	6	107741
+9606	Homo sapiens	367	0	live	AR	"AIS8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM, AR"	androgen receptor	androgen receptor|dihydrotestosterone receptor|nuclear receptor subfamily 3 group C member 4	Xq12	X	NC_000023.11	67544021	67730619	plus	11	313700
+9606	Homo sapiens	596	0	live	BCL2	"Bcl-2, PPP1R50"	BCL2 apoptosis regulator	"apoptosis regulator Bcl-2|B-cell CLL/lymphoma 2|protein phosphatase 1, regulatory subunit 50"	18q21.33	18	NC_000018.10	63123346	63320280	minus	6	151430
+9606	Homo sapiens	631	0	live	BFSP1	"CP115, CP94, CTRCT33, LIFL-H"	beaded filament structural protein 1	"filensin|beaded filament structural protein 1, filensin|cytoskeletal protein, 115 KD|lens fiber cell beaded-filament structural protein CP 115|lens intermediate filament-like heavy"	20p12.1	20	NC_000020.11	17493905	17569220	minus	13	603307
+9606	Homo sapiens	8419	0	live	BFSP2	"CP47, CP49, CTRCT12, LIFL-L, PHAKOSIN"	beaded filament structural protein 2	"phakinin|49 kDa cytoskeletal protein|beaded filament protein CP49|beaded filament structural protein 2, phakinin|bfps2, Cytoskeletal protein, 49-kD|lens fiber cell beaded filament protein CP 47|lens fiber cell beaded filament protein CP 49|lens intermediate filament-like light"	3q22.1	3	NC_000003.12	133397882	133475208	plus	8	603212
+9606	Homo sapiens	641	0	live	BLM	"BS, MGRISCE1, RECQ2, RECQL2, RECQL3"	BLM RecQ like helicase	"Bloom syndrome protein|Bloom syndrome RecQ like helicase|Bloom syndrome, RecQ helicase-like|DNA helicase, RecQ-like type 2|recQ protein-like 3"	15q26.1	15	NC_000015.10	90717346	90816166	plus	25	604610
+9606	Homo sapiens	675	0	live	BRCA2	"BRCC2, BROVCA2, FACD, FAD, FAD1, FANCD, FANCD1, GLM3, PNCA2, XRCC11"	BRCA2 DNA repair associated	"breast cancer type 2 susceptibility protein|BRCA1/BRCA2-containing complex, subunit 2|Fanconi anemia group D1 protein|breast and ovarian cancer susceptibility gene, early onset|breast and ovarian cancer susceptibility protein 2|breast cancer 2 tumor suppressor|breast cancer 2, early onset|mutant BRCA2|truncated breast cancer 2"	13q13.1	13	NC_000013.11	32315480	32399672	plus	27	600185
+9606	Homo sapiens	775	0	live	CACNA1C	"CACH2, CACN2, CACNL1A1, CCHL1A1, CaV1.2, LQT8, TS, TS. LQT8"	calcium voltage-gated channel subunit alpha1 C	"voltage-dependent L-type calcium channel subunit alpha-1C|DHPR, alpha-1 subunit|calcium channel, L type, alpha-1 polypeptide, isoform 1, cardiac muscle|calcium channel, cardic dihydropyridine-sensitive, alpha-1 subunit|calcium channel, voltage-dependent, L type, alpha 1C subunit|voltage-dependent L-type Ca2+ channel alpha 1 subunit|voltage-gated L-type calcium channel Cav1.2 alpha 1 subunit, splice variant 10*"	12p13.33	12	NC_000012.12	1969552	2697950	plus	56	114205
+9606	Homo sapiens	810	0	live	CALML3	CLP	calmodulin like 3	calmodulin-like protein 3|caM-like protein|calmodulin-related protein NB-1	10p15.1	10	NC_000010.11	5524961	5526771	plus	1	114184
+9606	Homo sapiens	823	0	live	CAPN1	"CANP, CANP1, CANPL1, SPG76, muCANP, muCL"	calpain 1	"calpain-1 catalytic subunit|CANP 1|calcium-activated neutral proteinase 1|calpain 1, (mu/I) large subunit|calpain mu-type|calpain, large polypeptide L1|calpain-1 large subunit|cell proliferation-inducing gene 30 protein|cell proliferation-inducing protein 30|micromolar-calpain"	11q13.1	11	NC_000011.10	65181373	65212006	plus	25	114220
+9606	Homo sapiens	100506742	0	live	CASP12	"CASP-12P1, CASP12"	caspase 12 (gene/pseudogene)	inactive caspase-12|caspase 12 pseudogene 1	11q22.3	11	NC_000011.10	104885718	104898670	minus	9	608633
+9606	Homo sapiens	847	0	live	CAT		catalase	catalase|epididymis secretory sperm binding protein	11p13	11	NC_000011.10	34438934	34472060	plus	13	115500
+9606	Homo sapiens	878	0	live	CCA1	CTRCT7	"cataract, congenital, cerulean type, 1"		17q24	17						115660
+9606	Homo sapiens	92922	0	live	CCDC102A		coiled-coil domain containing 102A	coiled-coil domain-containing protein 102A	16q21	16	NC_000016.10	57512178	57538305	minus	10	
+9606	Homo sapiens	907	0	live	CCT		"cataract, congenital, total"			X						302200
+9606	Homo sapiens	7792	0	live	CCV	CTRCT8	"cataract, congenital, Volkmann type"		1p36	1						115665
+9606	Homo sapiens	128866	0	live	CHMP4B	"C20orf178, CHMP4A, CTPP3, CTRCT31, SNF7, SNF7-2, Shax1, VPS32B, Vps32-2, dJ553F4.4"	charged multivesicular body protein 4B	charged multivesicular body protein 4b|SNF7 homolog associated with Alix 1|Snf7 homologue associated with Alix 1|chromatin modifying protein 4B|chromatin-modifying protein 4b|hSnf7-2|hVps32-2|vacuolar protein-sorting-associated protein 32-2	20q11.22	20	NC_000020.11	33811348	33854366	plus	5	610897
+9606	Homo sapiens	81570	0	live	CLPB	"ANKCLB, HSP78, MEGCANN, MGCA7, SKD3"	"ClpB homolog, mitochondrial AAA ATPase chaperonin"	caseinolytic peptidase B protein homolog|ClpB caseinolytic peptidase B homolog|ankyrin-repeat containing bacterial clp fusion|suppressor of potassium transport defect 3|testicular secretory protein Li 11	11q13.4	11	NC_000011.10	72285495	72434684	minus	19	616254
+9606	Homo sapiens	80790	0	live	CMIP	TCMIP	c-Maf inducing protein	C-Maf-inducing protein|tc-Mip	16q23.2-q23.3	16	NC_000016.10	81445170	81711762	plus	27	610112
+9606	Homo sapiens	1301	0	live	COL11A1	"CO11A1, COLL6, STL2"	collagen type XI alpha 1 chain	"collagen alpha-1(XI) chain|collagen XI, alpha-1 polypeptide|collagen, type XI, alpha 1"	1p21.1	1	NC_000001.11	102876467	103108580	minus	71	120280
+9606	Homo sapiens	1302	0	live	COL11A2	"DFNA13, DFNB53, FBCG2, HKE5, OSMEDA, OSMEDB, PARP, STL3"	collagen type XI alpha 2 chain	"collagen alpha-2(XI) chain|collagen, type XI, alpha 2|pro-a2 chain of collagen type XI"	6p21.32	6	NC_000006.12	33162692	33193009	minus	70	120290
+9606	Homo sapiens	1280	0	live	COL2A1	"ANFH, AOM, COL11A3, SEDC, STL1"	collagen type II alpha 1 chain	"collagen alpha-1(II) chain|alpha-1 type II collagen|arthroophthalmopathy, progressive (Stickler syndrome)|cartilage collagen|chondrocalcin|collagen II, alpha-1 polypeptide|collagen, type II, alpha 1"	12q13.11	12	NC_000012.12	47972967	48006212	minus	57	120140
+9606	Homo sapiens	1282	0	live	COL4A1	"BSVD, BSVD1, RATOR"	collagen type IV alpha 1 chain	"collagen alpha-1(IV) chain|COL4A1 NC1 domain|arresten|collagen IV, alpha-1 polypeptide|collagen of basement membrane, alpha-1 chain"	13q34	13	NC_000013.11	110148963	110307157	minus	54	120130
+9606	Homo sapiens	1297	0	live	COL9A1	"DJ149L1.1.2, EDM6, MED, STL4"	collagen type IX alpha 1 chain	"collagen alpha-1(IX) chain|alpha-1(IX) collagen chain|cartilage-specific short collagen|collagen IX, alpha-1 polypeptide|collagen, type IX, alpha 1"	6q13	6	NC_000006.12	70215061	70303084	minus	41	120210
+9606	Homo sapiens	1298	0	live	COL9A2	"DJ39G22.4, EDM2, MED, STL5"	collagen type IX alpha 2 chain	"collagen alpha-2(IX) chain|alpha 2 type IX collagen|collagen IX, alpha-2 polypeptide|collagen, type IX, alpha 2"	1p34.2	1	NC_000001.11	40300487	40317653	minus	35	120260
+9606	Homo sapiens	1356	0	live	CP	CP-2	ceruloplasmin	ceruloplasmin|ceruloplasmin (ferroxidase)	3q24-q25.1	3	NC_000003.12	149162410	149222045	minus	22	117700
+9606	Homo sapiens	10814	0	live	CPLX2	"921-L, CPX-2, CPX2, Hfb1"	complexin 2	complexin-2|CPX II|complexin II|synaphin 1	5q35.2	5	NC_000005.10	175796533	175884021	plus	8	605033
+9606	Homo sapiens	1387	0	live	CREBBP	"CBP, KAT3A, MKHK1, RSTS, RSTS1"	CREB binding protein	CREB-binding protein	16p13.3	16	NC_000016.10	3725054	3880727	minus	33	600140
+9606	Homo sapiens	55118	0	live	CRTAC1	"ASPIC, ASPIC1, CEP-68, CEP68, LOTUS"	cartilage acidic protein 1	cartilage acidic protein 1|acidic secreted protein in cartilage|chondrocyte expressed protein 68 kDa CEP-68	10q24.2	10	NC_000010.11	97854711	98030828	minus	20	606276
+9606	Homo sapiens	1409	0	live	CRYAA	"CRYA1, CTRCT9, HSPB4"	crystallin alpha A	"alpha-crystallin A chain|crystallin, alpha-1|heat shock protein beta-4|human alphaA-crystallin (CRYA1)"	21q22.3	21	NC_000021.9	43169008	43172810	plus	4	123580
+9606	Homo sapiens	1410	0	live	CRYAB	"CMD1II, CRYA2, CTPP2, CTRCT16, HEL-S-101, HSPB5, MFM2"	crystallin alpha B	alpha-crystallin B chain|epididymis secretory protein Li 101|heat shock protein beta-5|heat-shock 20 kD like-protein|renal carcinoma antigen NY-REN-27|rosenthal fiber component	11q23.1	11	NC_000011.10	111908564	111923740	minus	6	123590
+9606	Homo sapiens	1411	0	live	CRYBA1	"CRYB1, CTRCT10"	crystallin beta A1	"beta-crystallin A3|beta crystallin A3 chain transcript CN|beta crystallin A3 chain transcript LAM|beta crystallin A3 chain transcript PS|beta crystallin A3 chain transcript TC|crystallin beta A3/A1|crystallin, beta A3|eye lens structural protein|truncated beta crystallin A3/A1 chain|truncated beta-crystallin A3"	17q11.2	17	NC_000017.11	29246857	29254494	plus	7	123610
+9606	Homo sapiens	1412	0	live	CRYBA2	CTRCT42	crystallin beta A2	beta-crystallin A2|eye lens structural protein	2q35	2	NC_000002.12	218990190	218993422	minus	5	600836
+9606	Homo sapiens	1413	0	live	CRYBA4	"CTRCT23, CYRBA4, MCOPCT4"	crystallin beta A4	"beta-crystallin A4|beta crystallin A4 chain transcript PS|beta crystallin alpha 4 chain|beta-A4 crystallin|crystallin, beta polypeptide A4|eye lens structural protein"	22q12.1	22	NC_000022.11	26607982	26630672	plus	7	123631
+9606	Homo sapiens	1414	0	live	CRYBB1	"CATCN3, CTRCT17"	crystallin beta B1	beta-crystallin B1|beta-B1 crystallin|eye lens structural protein	22q12.1	22	NC_000022.11	26599278	26618104	minus	6	600929
+9606	Homo sapiens	1415	0	live	CRYBB2	"CCA2, CRYB2, CRYB2A, CTRCT3, D22S665"	crystallin beta B2	beta-crystallin B2|CTA-221G9.7|beta-B2 crystallin|beta-crystallin Bp|eye lens structural protein	22q11.23	22	NC_000022.11	25211660	25231869	plus	7	123620
+9606	Homo sapiens	1417	0	live	CRYBB3	"CATCN2, CRYB3, CTRCT22"	crystallin beta B3	beta-crystallin B3|eye lens structural protein	22q11.23	22	NC_000022.11	25194244	25207617	plus	6	123630
+9606	Homo sapiens	1418	0	live	CRYGA	"CRY-g-A, CRYG1, CRYG5"	crystallin gamma A	"gamma-crystallin A|crystallin, gamma 1|gamma-crystallin 5"	2q33.3	2	NC_000002.12	208160740	208163589	minus	3	123660
+9606	Homo sapiens	1419	0	live	CRYGB	"CRYG2, CTRCT39"	crystallin gamma B	"gamma-crystallin B|crystallin, gamma 1-2"	2q33.3	2	NC_000002.12	208142573	208146327	minus	3	123670
+9606	Homo sapiens	1420	0	live	CRYGC	"CCL, CRYG3, CTRCT2"	crystallin gamma C	gamma-crystallin C|gamma-crystallin 2-1|gamma-crystallin 3	2q33.3	2	NC_000002.12	208128137	208139100	minus	4	123680
+9606	Homo sapiens	1421	0	live	CRYGD	"CACA, CCA3, CCP, CRYG4, CTRCT4, PCC, cry-g-D"	crystallin gamma D	gamma-crystallin D|gamma crystallin 4|gamma-D-crystallin	2q33.3	2	NC_000002.12	208121607	208124524	minus	3	123690
+9606	Homo sapiens	1427	0	live	CRYGS	"CRYG8, CTRCT20"	crystallin gamma S	"gamma-crystallin S|beta-crystallin S|crystallin, gamma 8"	3q27.3	3	NC_000003.12	186538443	186544380	minus	3	123730
+9606	Homo sapiens	1483	0	live	CTAA1	"CAP, CTPP5"	"cataract, anterior polar 1"		14q24-qter	14						115650
+9606	Homo sapiens	1484	0	live	CTAA2		"cataract, anterior polar 2"		17p13	17						601202
+9606	Homo sapiens	1501	0	live	CTNND2	"GT24, NPRAP"	catenin delta 2	"catenin delta-2|T-cell delta-catenin|catenin (cadherin-associated protein), delta 2 (neural plakophilin-related arm-repeat protein)|neurojungin"	5p15.2	5	NC_000005.10	10971836	11904446	minus	26	604275
+9606	Homo sapiens	81863	0	live	CTPL1	CAAR	"cataract, pulverulent (autosomal recessive, early-onset)"		9q13-q22	9						605749
+9606	Homo sapiens	10306	0	live	CTPP	"ARCC2, CPP, CTPA, CTPP1, ECK"	"Cataract, posterior polar"		1pter-p36.1	1						116600
+9606	Homo sapiens	791086	0	live	CTPP5		"Cataract, posterior polar, 5"									610634
+9606	Homo sapiens	80770	0	live	CTRCT25	"CCPSO, CCSSO"	"Cataract, central pouch-like, with sutural opacities"		15q21-q22	15						605728
+9606	Homo sapiens	266979	0	live	CTRCT27	CCNP	"Cataract, congenital, nuclear progressive"		2p12	2						607304
+9606	Homo sapiens	493862	0	live	CTRCT28	ARCC1	Cataract 28		6p12-q12	6						609026
+9606	Homo sapiens	101867602	0	live	CTRCT29		"Cataract 29, coralliform"		2pter-p24	2						115800
+9606	Homo sapiens	100302720	0	live	CTRCT34	CATC3	"Cataract, autosomal recessive congenital 3"									612968
+9606	Homo sapiens	619404	0	live	CTRCT35	CATCN1	"cataract, congenital nuclear, autosomal recessive"		19q13	19						609376
+9606	Homo sapiens	100861439	0	live	CTRCT37	CCA5	"Cataract, congenital cerulean type, 5"		12q24.2-q24.3	12						614422
+9606	Homo sapiens	1593	0	live	CYP27A1	"CP27, CTX, CYP27"	cytochrome P450 family 27 subfamily A member 1	"sterol 26-hydroxylase, mitochondrial|5-beta-cholestane-3-alpha, 7-alpha, 12-alpha-triol 26-hydroxylase|5-beta-cholestane-3-alpha, 7-alpha, 12-alpha-triol 27-hydroxylase|cholestanetriol 26-monooxygenase|cytochrome P-450C27/25|cytochrome P450 27|cytochrome P450, family 27, subfamily A, polypeptide 1|cytochrome P450, subfamily XXVIIA (steroid 27-hydroxylase, cerebrotendinous xanthomatosis), polypeptide 1|sterol 27-hydroxylase|vitamin D(3) 25-hydroxylase"	2q35	2	NC_000002.12	218781733	218815293	plus	9	606530
+9606	Homo sapiens	100188774	0	live	DFCTRPS		"Deafness, cataract, retinitis pigmentosa, and sperm abnormalities"			X						300719
+9606	Homo sapiens	56616	0	live	DIABLO	"DFNA64, SMAC"	diablo IAP-binding mitochondrial protein	"diablo homolog, mitochondrial|diablo-like protein|direct IAP-binding protein with low pI|second mitochondria-derived activator of caspase"	12q24.31	12	NC_000012.12	122207662	122227456	minus	8	605219
+9606	Homo sapiens	127343	0	live	DMBX1	"MBX, OTX3, PAXB"	diencephalon/mesencephalon homeobox 1	diencephalon/mesencephalon homeobox protein 1|homeoprotein MBX|orthodenticle homolog 3|paired-like homeobox protein DMBX1	1p33	1	NC_000001.11	46489836	46516216	plus	6	607410
+9606	Homo sapiens	1760	0	live	DMPK	"DM, DM1, DM1PK, DMK, MDPK, MT-PK"	DM1 protein kinase	myotonin-protein kinase|DM protein kinase|dystrophia myotonica protein kinase|myotonic dystrophy associated protein kinase|myotonin protein kinase A|thymopoietin homolog	19q13.32	19	NC_000019.10	45769709	45782490	minus	15	605377
+9606	Homo sapiens	1871	0	live	E2F3	E2F-3	E2F transcription factor 3	transcription factor E2F3	6p22.3	6	NC_000006.12	20401879	20493714	plus	11	600427
+9606	Homo sapiens	1946	0	live	EFNA5	"AF1, EFL5, EPLG7, GLC1M, LERK7, RAGS"	ephrin A5	ephrin-A5|AL-1|LERK-7|eph-related receptor tyrosine kinase ligand 7	5q21.3	5	NC_000005.10	107376889	107670937	minus	8	601535
+9606	Homo sapiens	2033	0	live	EP300	"KAT3B, MKHK2, RSTS2, p300"	E1A binding protein p300	"histone acetyltransferase p300|E1A-associated protein p300|E1A-binding protein, 300kD|histone butyryltransferase p300|histone crotonyltransferase p300|p300 HAT|protein propionyltransferase p300"	22q13.2	22	NC_000022.11	41092592	41180077	plus	31	602700
+9606	Homo sapiens	1969	0	live	EPHA2	"ARCC2, CTPA, CTPP1, CTRCT6, ECK"	EPH receptor A2	ephrin type-A receptor 2|epithelial cell receptor protein tyrosine kinase|soluble EPHA2 variant 1|tyrosine-protein kinase receptor ECK	1p36.13	1	NC_000001.11	16124337	16156104	minus	18	176946
+9606	Homo sapiens	2067	0	live	ERCC1	"COFS4, RAD10, UV20"	"ERCC excision repair 1, endonuclease non-catalytic subunit"	"DNA excision repair protein ERCC-1|excision repair cross-complementation group 1|excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)"	19q13.32	19	NC_000019.10	45407334	45451547	minus	13	126380
+9606	Homo sapiens	2068	0	live	ERCC2	"COFS2, EM9, TFIIH, TTD, TTD1, XPD"	"ERCC excision repair 2, TFIIH core complex helicase subunit"	"general transcription and DNA repair factor IIH helicase subunit XPD|BTF2 p80|CXPD|DNA excision repair protein ERCC-2|DNA repair protein complementing XP-D cells|TFIIH 80 kDa subunit|TFIIH basal transcription factor complex 80 kDa subunit|TFIIH basal transcription factor complex helicase XPB subunit|TFIIH basal transcription factor complex helicase XPD subunit|TFIIH basal transcription factor complex helicase subunit|TFIIH p80|TFIIH subunit XPD|basic transcription factor 2 80 kDa subunit|excision repair cross-complementation group 2|excision repair cross-complementing rodent repair deficiency, complementation group 2|xeroderma pigmentosum complementary group D|xeroderma pigmentosum group D-complementing protein"	19q13.32	19	NC_000019.10	45349837	45370647	minus	25	126340
+9606	Homo sapiens	2074	0	live	ERCC6	"ARMD5, CKN2, COFS, COFS1, CSB, CSB-PGBD3, POF11, RAD26, UVSS1"	"ERCC excision repair 6, chromatin remodeling factor"	"DNA excision repair protein ERCC-6|ERCC6-PGBD3 fusion protein|ATP-dependent helicase ERCC6|Chimeric CSB-PGBD3 protein|Chimeric ERCC6-PGBD3 protein|Cockayne syndrome group B protein|cockayne syndrome protein CSB|excision repair cross-complementation group 6|excision repair cross-complementing rodent repair deficiency, complementation group 6"	10q11.23	10	NC_000010.11	49454470	49539538	minus	23	609413
+9606	Homo sapiens	2099	0	live	ESR1	"ER, ESR, ESRA, ESTRR, Era, NR3A1"	estrogen receptor 1	estrogen receptor|E2 receptor alpha|ER-alpha|estradiol receptor|estrogen nuclear receptor alpha|estrogen receptor alpha E1-E2-1-2|estrogen receptor alpha E1-N2-E2-1-2|nuclear receptor subfamily 3 group A member 1|oestrogen receptor alpha	6q25.1-q25.2	6	NC_000006.12	151654148	152129619	plus	23	133430
+9606	Homo sapiens	2100	0	live	ESR2	"ER-BETA, ESR-BETA, ESRB, ESTRB, Erb, NR3A2, ODG8"	estrogen receptor 2	"estrogen receptor beta|estrogen receptor beta 4|estrogen receptor beta splice variant, ERbeta2delta7|estrogen receptor beta splice variant, ERbeta4delta7|estrogen receptor beta splice variant, ERbeta6|estrogen receptor beta splice variant, ERbeta6delta7|estrogen receptor beta splice variant, ERbeta7|estrogen receptor beta splice variant, ERbeta7delta7|estrogen receptor beta splice variant, ERbetaEx. 4L|estrogen receptor beta splice variant, ERbetaEx. 6L|nuclear receptor subfamily 3 group A member 2|oestrogen receptor beta"	14q23.2-q23.3	14	NC_000014.9	64226707	64338631	minus	18	601663
+9606	Homo sapiens	374393	0	live	FAM111B	"CANP, POIKTMP"	family with sequence similarity 111 member B	protein FAM111B|cancer-associated nucleoprotein	11q12.1	11	NC_000011.10	59107185	59127415	plus	4	615584
+9606	Homo sapiens	84668	0	live	FAM126A	"DRCTNNB1A, HCC, HLD5, HYCC1"	family with sequence similarity 126 member A	"hyccin|down regulated by Ctnnb1, a|down-regulated by CTNNB1 protein A"	7p15.3	7	NC_000007.14	22895848	23014133	minus	14	610531
+9606	Homo sapiens	26235	0	live	FBXL4	"FBL4, FBL5, MTDPS13"	F-box and leucine rich repeat protein 4	F-box/LRR-repeat protein 4	6q16.1-q16.2	6	NC_000006.12	98868535	98948006	minus	12	605654
+9606	Homo sapiens	2335	0	live	FN1	"CIG, ED-B, FINC, FN, FNZ, GFND, GFND2, LETS, MSF, SMDCF"	fibronectin 1	fibronectin|cold-insoluble globulin|epididymis secretory sperm binding protein|migration-stimulating factor	2q35	2	NC_000002.12	215360440	215436167	minus	46	135600
+9606	Homo sapiens	54914	0	live	FOCAD	KIAA1797	focadhesin	focadhesin	9p21.3	9	NC_000009.12	20658309	20995955	plus	50	614606
+9606	Homo sapiens	2301	0	live	FOXE3	"AAT11, ASGD2, CTRCT34, FKHL12, FREAC8"	forkhead box E3	"forkhead box protein E3|FREAC-8|forkhead, drosophila, homolog-like 12|forkhead-related protein FKHL12|forkhead-related transcription factor 8"	1p33	1	NC_000001.11	47416285	47418052	plus	1	601094
+9606	Homo sapiens	2512	0	live	FTL	"LFTD, NBIA3"	ferritin light chain	"ferritin light chain|epididymis secretory sperm binding protein|ferritin L subunit|ferritin L-chain|ferritin light polypeptide-like 3|ferritin, light polypeptide"	19q13.33	19	NC_000019.10	48963941	48966879	plus	5	134790
+9606	Homo sapiens	79068	0	live	FTO	"ALKBH9, BMIQ14, GDFD"	FTO alpha-ketoglutarate dependent dioxygenase	alpha-ketoglutarate-dependent dioxygenase FTO|AlkB homolog 9|U6 small nuclear RNA (2'-O-methyladenosine-N(6)-)-demethylase FTO|U6 small nuclear RNA N(6)-methyladenosine-demethylase FTO|fat mass and obesity associated|fat mass and obesity-associated protein|m6A(m)-demethylase FTO|mRNA (2'-O-methyladenosine-N(6)-)-demethylase FTO|mRNA N(6)-methyladenosine demethylase FTO|tRNA N1-methyl adenine demethylase FTO	16q12.2	16	NC_000016.10	53703963	54121941	plus	16	610966
+9606	Homo sapiens	79443	0	live	FYCO1	"CATC2, CTRCT18, RUFY3, ZFYVE7"	FYVE and coiled-coil domain containing 1	FYVE and coiled-coil domain-containing protein 1|RUN and FYVE domain containing 3|zinc finger FYVE domain-containing protein 7	3p21.31	3	NC_000003.12	45917903	45995824	minus	21	607182
+9606	Homo sapiens	2539	0	live	G6PD	G6PD1	glucose-6-phosphate dehydrogenase	glucose-6-phosphate 1-dehydrogenase|epididymis secretory sperm binding protein	Xq28	X	NC_000023.11	154531390	154547569	minus	14	305900
+9606	Homo sapiens	2584	0	live	GALK1	"GALK, GK1, HEL-S-19"	galactokinase 1	galactokinase|epididymis secretory protein Li 19|galactose kinase	17q25.1	17	NC_000017.11	75757894	75765192	minus	8	604313
+9606	Homo sapiens	2592	0	live	GALT		galactose-1-phosphate uridylyltransferase	galactose-1-phosphate uridylyltransferase|UDP-glucose--hexose-1-phosphate uridylyltransferase|gal-1-P uridylyltransferase|galactose-1-phosphate uridyl transferase	9p13.3	9	NC_000009.12	34646589	34651035	plus	11	606999
+9606	Homo sapiens	8139	0	live	GAN	"GAN1, KLHL16"	gigaxonin	gigaxonin|epididymis secretory sperm binding protein|kelch-like family member 16|kelch-like protein 16	16q23.2	16	NC_000016.10	81314941	81380198	plus	11	605379
+9606	Homo sapiens	2651	0	live	GCNT2	"CCAT, CTRCT13C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O19.2, bA421M1.1, GCNT2"	glucosaminyl (N-acetyl) transferase 2 (I blood group)	"N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase|I beta-1,6-N-acetylglucosaminyltransferase|Ii blood group|beta-1,6-N-acetylglucosaminyltransferase 2|glucosaminyl (N-acetyl) transferase 2, I-branching enzyme (I blood group)"	6p24.3-p24.2	6	NC_000006.12	10521283	10629368	plus	12	600429
+9606	Homo sapiens	2671	0	live	GFER	"ALR, ERV1, HERV1, HPO, HPO1, HPO2, HSS"	"growth factor, augmenter of liver regeneration"	FAD-linked sulfhydryl oxidase ALR|ERV1 homolog|erv1-like growth factor|hepatic regenerative stimulation substance|hepatopoietin protein	16p13.3	16	NC_000016.10	1984193	1987749	plus	3	600924
+9606	Homo sapiens	2700	0	live	GJA3	"CTRCT14, CX46, CZP3"	gap junction protein alpha 3	"gap junction alpha-3 protein|connexin-46|gap junction alpha 3|gap junction protein, alpha 3, 46kDa"	13q12.11	13	NC_000013.11	20138252	20161327	minus	3	121015
+9606	Homo sapiens	2703	0	live	GJA8	"CAE, CAE1, CTRCT1, CX50, CZP1, MP70"	gap junction protein alpha 8	gap junction alpha-8 protein|cell surface glycoprotein|connexin 50|gap junction alpha 8|gap junction membrane channel protein alpha-8|gap junction protein alpha 8 50kDa|lens fiber protein MP70|lens intrinsic membrane protein MP70	1q21.2	1	NC_000001.11	147902795	147915287	plus	3	600897
+9606	Homo sapiens	645538	0	live	GOT2P1	GOT2L1	glutamic-oxaloacetic transaminase 2 pseudogene 1	"glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2) (GOT2) pseudogene|glutamic-oxaloacetic transaminase 2-like 1 pseudogene"	1p32.3	1	NC_000001.11	55367465	55368774	plus	0	
+9606	Homo sapiens	2719	0	live	GPC3	"DGSX, GTR2-2, MXR7, OCI-5, SDYS, SGB, SGBS, SGBS1"	glypican 3	glypican-3|glypican proteoglycan 3|heparan sulphate proteoglycan|intestinal protein OCI-5|secreted glypican-3	Xq26.2	X	NC_000023.11	133535745	133985646	minus	11	300037
+9606	Homo sapiens	2239	0	live	GPC4	"K-glypican, KPTS"	glypican 4	glypican-4|dJ900E8.1 (glypican 4)|glypican proteoglycan 4	Xq26.2	X	NC_000023.11	133300103	133415489	minus	9	300168
+9606	Homo sapiens	2876	0	live	GPX1	"GPXD, GSHPX1"	glutathione peroxidase 1	glutathione peroxidase 1|GSHPx-1|cellular glutathione peroxidase	3p21.31	3	NC_000003.12	49357171	49358600	minus	2	138320
+9606	Homo sapiens	2941	0	live	GSTA4	"GSTA4-4, GTA4"	glutathione S-transferase alpha 4	glutathione S-transferase A4|GST class-alpha member 4|S-(hydroxyalkyl)glutathione lyase A4|glutathione S-alkyltransferase A4|glutathione S-aralkyltransferase A4|glutathione S-aryltransferase A4|glutathione S-transferase A4-4|glutathione transferase A4-4	6p12.2	6	NC_000006.12	52977952	52995332	minus	7	605450
+9606	Homo sapiens	2944	0	live	GSTM1	"GST1-1, GSTM1a-1a, GSTM1b-1b, GTH4, GTM1, H-B, MU, MU-1, GSTM1"	glutathione S-transferase mu 1	glutathione S-transferase Mu 1|GST HB subunit 4|GST class-mu 1|HB subunit 4|S-(hydroxyalkyl)glutathione lyase|glutathione S-alkyltransferase|glutathione S-aralkyltransferase|glutathione S-aryltransferase|glutathione S-transferase M1	1p13.3	1	NC_000001.11	109687817	109693745	plus	8	138350
+9606	Homo sapiens	119391	0	live	GSTO2	"GSTO 2-2, bA127L20.1"	glutathione S-transferase omega 2	glutathione S-transferase omega-2|GSTO-2|MMA(V) reductase|bA127L20.1 (novel glutathione-S-transferase)|glutathione S-transferase omega 2-2|glutathione-S-transferase-like protein|glutathione-dependent dehydroascorbate reductase|monomethylarsonic acid reductase	10q25.1	10	NC_000010.11	104267626	104304950	plus	9	612314
+9606	Homo sapiens	2950	0	live	GSTP1	"DFN7, FAEES3, GST3, GSTP, HEL-S-22, PI"	glutathione S-transferase pi 1	"glutathione S-transferase P|GST class-pi|GSTP1-1|deafness, X-linked 7|epididymis secretory protein Li 22|fatty acid ethyl ester synthase III"	11q13.2	11	NC_000011.10	67583595	67586653	plus	7	134660
+9606	Homo sapiens	2952	0	live	GSTT1		glutathione S-transferase theta 1	glutathione S-transferase theta-1|GST class-theta-1|glutathione transferase T1-1	22q11.23	22						600436
+9606	Homo sapiens	283120	0	live	H19	"ASM, ASM1, BWS, D11S813E, LINC00008, MIR675HG, NCRNA00008, WT2"	H19 imprinted maternally expressed transcript	"H19, imprinted maternally expressed transcript (non-protein coding)|H19, imprinted maternally expressed untranslated mRNA|MIR675 host|adult skeletal muscle|long intergenic non-protein coding RNA 8"	11p15.5	11	NC_000011.10	1995176	2001466	minus	6	103280
+9606	Homo sapiens	3092	0	live	HIP1	"HIP-I, ILWEQ, SHON, SHONbeta, SHONgamma"	huntingtin interacting protein 1	huntingtin-interacting protein 1|huntingtin-interacting protein I	7q11.23	7	NC_000007.14	75533298	75738976	minus	35	601767
+9606	Homo sapiens	3299	0	live	HSF4	"CTM, CTRCT5"	heat shock transcription factor 4	heat shock factor protein 4|HSF 4|HSTF 4|hHSF4	16q22.1	16	NC_000016.10	67163761	67169941	plus	15	602438
+9606	Homo sapiens	3304	0	live	HSPA1B	"HSP70-1, HSP70-1B, HSP70-2, HSP70.1, HSP70.2, HSP72, HSPA1, HSX70"	heat shock protein family A (Hsp70) member 1B	heat shock 70 kDa protein 1B|HSP70-1/HSP70-2|HSP70.1/HSP70.2|Heat shock 70 kDa protein 1|Heat shock 70 kDa protein 1A|heat shock 70 kDa protein 1/2|heat shock 70 kDa protein 1A/1B|heat shock 70 kDa protein 2|heat shock 70kD protein 1B|heat shock 70kDa protein 1B	6p21.33	6	NC_000006.12	31827738	31830254	plus	1	603012
+9606	Homo sapiens	55699	0	live	IARS2	"CAGSSS, ILERS"	"isoleucyl-tRNA synthetase 2, mitochondrial"	"isoleucine--tRNA ligase, mitochondrial|isoleucine tRNA ligase 2, mitochondrial|isoleucine-tRNA synthetase 2, mitochondrial|isoleucyl-tRNA synthetase, mitochondrial|mitochondrial isoleucine tRNA synthetase"	1q41	1	NC_000001.11	220094132	220148041	plus	23	612801
+9606	Homo sapiens	3383	0	live	ICAM1	"BB2, CD54, P3.58"	intercellular adhesion molecule 1	"intercellular adhesion molecule 1|ICAM-1|cell surface glycoprotein P3.58|epididymis secretory sperm binding protein|intercellular adhesion molecule 1 (CD54), human rhinovirus receptor|major group rhinovirus receptor"	19p13.2	19	NC_000019.10	10271120	10286615	plus	7	147840
+9606	Homo sapiens	3620	0	live	IDO1	"IDO, IDO-1, INDO"	"indoleamine 2,3-dioxygenase 1"	"indoleamine 2,3-dioxygenase 1|indolamine 2,3 dioxygenase|indole 2,3-dioxygenase|indoleamine-pyrrole 2,3-dioxygenase"	8p11.21	8	NC_000008.11	39913891	39928790	plus	10	147435
+9606	Homo sapiens	3481	0	live	IGF2	"C11orf43, GRDF, IGF-II, PP9974"	insulin like growth factor 2	insulin-like growth factor II|T3M-11-derived growth factor|insulin-like growth factor 2 (somatomedin A)|insulin-like growth factor type 2|preptin	11p15.5	11	NC_000011.10	2129112	2149603	minus	9	147470
+9606	Homo sapiens	7881	0	live	KCNAB1	"AKR6A3, KCNA1B, KV-BETA-1, Kvb1.3, hKvBeta3, hKvb3"	potassium voltage-gated channel subfamily A member regulatory beta subunit 1	"voltage-gated potassium channel subunit beta-1|K(+) channel subunit beta-1|K+ channel Beta1a chain|potassium channel beta 3 chain|potassium channel beta3 subunit|potassium channel shaker chain beta 1a|potassium channel, voltage gated subfamily A regulatory beta subunit 1|potassium voltage-gated channel, shaker-related subfamily, beta member 1"	3q25.31	3	NC_000003.12	156118216	156542648	plus	21	601141
+9606	Homo sapiens	3769	0	live	KCNJ13	"KIR1.4, KIR7.1, LCA16, SVD"	potassium voltage-gated channel subfamily J member 13	"inward rectifier potassium channel 13|inward rectifier K(+) channel Kir7.1|potassium channel, inwardly rectifying subfamily J, member 13|potassium inwardly-rectifying channel, subfamily J, member 13"	2q37.1	2	NC_000002.12	232765802	232776565	minus	3	603208
+9606	Homo sapiens	10984	0	live	KCNQ1OT1	"KCNQ1-AS2, KCNQ10T1, Kncq1, KvDMR1, KvLQT1-AS, LIT1, NCRNA00012"	KCNQ1 opposite strand/antisense transcript 1	KCNQ1 antisense RNA 2 (non-protein coding)|KCNQ1 opposite strand/antisense transcript 1 (non-protein coding)|KCNQ1 overlapping transcript 1 (non-protein coding)|long QT intronic transcript 1	11p15.5	11	NC_000011.10	2608328	2699998	minus	1	604115
+9606	Homo sapiens	9817	0	live	KEAP1	"INrf2, KLHL19"	kelch like ECH associated protein 1	kelch-like ECH-associated protein 1|KEAP1 delta C|cytosolic inhibitor of Nrf2|kelch-like family member 19|kelch-like protein 19	19p13.2	19	NC_000019.10	10486125	10503356	minus	9	606016
+9606	Homo sapiens	3831	0	live	KLC1	"KLC, KNS2, KNS2A"	kinesin light chain 1	kinesin light chain 1|kinesin 2 60/70kDa|medulloblastoma antigen MU-MB-2.50	14q32.33	14	NC_000014.9	103629188	103701551	plus	18	600025
+9606	Homo sapiens	3938	0	live	LCT	"LAC, LPH, LPH1"	lactase	lactase-phlorizin hydrolase|lactase-glycosylceramidase|lactase-phlorizin hydrolase-1	2q21.3	2	NC_000002.12	135787850	135837195	minus	17	603202
+9606	Homo sapiens	221496	0	live	LEMD2	"CTRCT42, LEM2, NET25, dJ482C21.1"	LEM domain containing 2	LEM domain-containing protein 2|hLEM2|lamina-associated polypeptide-emerin-MAN1 domain containing 2	6p21.31	6	NC_000006.12	33771213	33794274	minus	10	616312
+9606	Homo sapiens	51557	0	live	LGSN	"GLULD1, LGS"	"lengsin, lens protein with glutamine synthetase domain"	lengsin|glutamate-ammonia ligase (glutamine synthase) domain containing 1|glutamate-ammonia ligase domain-containing protein 1	6q12	6	NC_000006.12	63275951	63567921	minus	16	611470
+9606	Homo sapiens	3982	0	live	LIM2	"CTRCT19, MP17, MP19"	lens intrinsic membrane protein 2	"lens fiber membrane intrinsic protein|MP18|MP20|lens intrinsic membrane protein 2, 19kDa"	19q13.41	19	NC_000019.10	51379909	51387974	minus	5	154045
+9606	Homo sapiens	8825	0	live	LIN7A	"LIN-7A, LIN7, MALS-1, MALS1, TIP-33, VELI1"	"lin-7 homolog A, crumbs cell polarity complex component"	protein lin-7 homolog A|mammalian lin-seven protein 1|tax interaction protein 33|vertebrate LIN7 homolog 1	12q21.31	12	NC_000012.12	80792520	80937915	minus	7	603380
+9606	Homo sapiens	101927616	0	live	LINC02375		long intergenic non-protein coding RNA 2375		12q24.32	12	NC_000012.12	127324155	127340072	minus	3	
+9606	Homo sapiens	4000	0	live	LMNA	"CDCD1, CDDC, CMD1A, CMT2B1, EMD2, FPL, FPLD, FPLD2, HGPS, IDC, LDP1, LFP, LGMD1B, LMN1, LMNC, LMNL1, MADA, PRO1"	lamin A/C	lamin|70 kDa lamin|epididymis secretory sperm binding protein|lamin A/C-like 1|mandibuloacral dysplasia type A|prelamin-A/C|renal carcinoma antigen NY-REN-32	1q22	1	NC_000001.11	156082546	156140089	plus	17	150330
+9606	Homo sapiens	4047	0	live	LSS	"CTRCT44, HYPT14, OSC"	lanosterol synthase	"lanosterol synthase|2,3-epoxysqualene-lanosterol cyclase|epididymis secretory sperm binding protein|hOSC|lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)|oxidosqualene--lanosterol cyclase"	21q22.3	21	NC_000021.9	46188446	46228824	minus	23	600909
+9606	Homo sapiens	4094	0	live	MAF	"AYGRP, CCA4, CTRCT21, c-MAF"	MAF bZIP transcription factor	transcription factor Maf|Avian musculoaponeurotic fibrosarcoma (MAF) protooncogene|T lymphocyte c-maf long form|c-maf proto-oncogene|proto-oncogene c-Maf|v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog	16q23.2	16	NC_000016.10	79202624	79601952	minus	7	177075
+9606	Homo sapiens	378938	0	live	MALAT1	"HCN, LINC00047, NCRNA00047, NEAT2, PRO2853"	metastasis associated lung adenocarcinoma transcript 1	hepcarcin|long intergenic non-protein coding RNA 47|metastasis associated lung adenocarcinoma transcript 1 (non-protein coding)|nuclear enriched abundant transcript 2|nuclear paraspeckle assembly transcript 2 (non-protein coding)	11q13.1	11	NC_000011.10	65497738	65506516	plus	2	607924
+9606	Homo sapiens	4214	0	live	MAP3K1	"MAPKKK1, MEKK, MEKK 1, MEKK1, SRXY6"	mitogen-activated protein kinase kinase kinase 1	"mitogen-activated protein kinase kinase kinase 1|MAP/ERK kinase kinase 1|MAPK/ERK kinase kinase 1|MEK kinase 1|mitogen-activated protein kinase kinase kinase 1, E3 ubiquitin protein ligase"	5q11.2	5	NC_000005.10	56815543	56896152	plus	22	600982
+9606	Homo sapiens	1432	0	live	MAPK14	"CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA"	mitogen-activated protein kinase 14	mitogen-activated protein kinase 14|CSAID-binding protein|MAP kinase 14|MAP kinase Mxi2|MAP kinase p38 alpha|MAX-interacting protein 2|cytokine suppressive anti-inflammatory drug binding protein|mitogen-activated protein kinase p38 alpha|p38 MAP kinase|p38 mitogen activated protein kinase|p38alpha Exip|stress-activated protein kinase 2A	6p21.31	6	NC_000006.12	36027677	36122964	plus	22	600289
+9606	Homo sapiens	8130	0	live	MCOPCT1	CATM	"cataract, congenital, with microphthalmia"		16p13.3	16						156850
+9606	Homo sapiens	4208	0	live	MEF2C	"C5DELq14.3, DEL5q14.3"	myocyte enhancer factor 2C	"myocyte-specific enhancer factor 2C|MADS box transcription enhancer factor 2, polypeptide C"	5q14.3	5	NC_000005.10	88717117	88904105	minus	21	600662
+9606	Homo sapiens	4284	0	live	MIP	"AQP0, CTRCT15, LIM126, MP26, MIP"	major intrinsic protein of lens fiber	lens fiber major intrinsic protein|aquaporin 0	12q13.3	12	NC_000012.12	56449502	56456553	minus	8	154050
+9606	Homo sapiens	406942	0	live	MIR150	"MIRN150, miRNA150, mir-150"	microRNA 150	hsa-mir-150	19q13.33	19	NC_000019.10	49500785	49500868	minus	1	611114
+9606	Homo sapiens	406960	0	live	MIR184	"EDICT, MIRN184, miR-184"	microRNA 184	hsa-mir-184	15q25.1	15	NC_000015.10	79209788	79209871	plus	1	613146
+9606	Homo sapiens	406987	0	live	MIR204	"MIRN204, RDICC, miRNA204, mir-204"	microRNA 204	hsa-mir-204	9q21.12	9	NC_000009.12	70809975	70810084	minus	1	610942
+9606	Homo sapiens	406991	0	live	MIR21	"MIRN21, hsa-mir-21, miR-21, miRNA21"	microRNA 21		17q23.1	17	NC_000017.11	59841266	59841337	plus	1	611020
+9606	Homo sapiens	407006	0	live	MIR221	"MIRN221, miRNA221, mir-221"	microRNA 221	hsa-mir-221	Xp11.3	X	NC_000023.11	45746157	45746266	minus	1	300568
+9606	Homo sapiens	407015	0	live	MIR26A1	"MIR26A, MIRN26A1, mir-26a-1"	microRNA 26a-1	hsa-mir-26a-1	3p22.2	3	NC_000003.12	37969404	37969480	plus	1	612151
+9606	Homo sapiens	407017	0	live	MIR26B	"MIRN26B, hsa-mir-26b, miR-26b"	microRNA 26b		2q35	2	NC_000002.12	218402646	218402722	plus	1	612152
+9606	Homo sapiens	166785	0	live	MMAA	cblA	metabolism of cobalamin associated A	"methylmalonic aciduria type A protein, mitochondrial|methylmalonic aciduria (cobalamin deficiency) cblA type|mutant adenosylcobalamin"	4q31.21	4	NC_000004.12	145619385	145660033	plus	9	607481
+9606	Homo sapiens	407029	0	live	MIR30A	"MIRN30A, mir-30a"	microRNA 30a	hsa-mir-30a	6q13	6	NC_000006.12	71403551	71403621	minus	1	612329
+9606	Homo sapiens	326625	0	live	MMAB	"ATR, CFAP23, cblB, cob"	metabolism of cobalamin associated B	"corrinoid adenosyltransferase|ATP:cob(I)alamin adenosyltransferase|ATP:corrinoid adenosyltransferase|aquocob(I)alamin vitamin B12s adenosyltransferase|cilia and flagella associated protein 23|cob(I)yrinic acid a,c-diamide adenosyltransferase, mitochondrial|cob(II)alamin adenosyltransferase|cob(II)yrinic acid a,c-diamide adenosyltransferase|cobinamide/cobalamin adenosyltransferase|methylmalonic aciduria (cobalamin deficiency) cblB type|methylmalonic aciduria type B protein"	12q24.11	12	NC_000012.12	109553715	109573580	minus	13	607568
+9606	Homo sapiens	4330	0	live	MN1	"MGCR, MGCR1, MGCR1-PEN, dJ353E16.2"	"MN1 proto-oncogene, transcriptional regulator"	transcriptional activator MN1|meningioma (disrupted in balanced translocation) 1|meningioma (translocation balanced)|meningioma chromosome region 1|probable tumor suppressor protein MN1	22q12.1	22	NC_000022.11	27748277	27801756	minus	2	156100
+9606	Homo sapiens	6307	0	live	MSMO1	"DESP4, ERG25, MCCPD, SC4MOL"	methylsterol monooxygenase 1	methylsterol monooxygenase 1|C-4 methylsterol oxidase	4q32.3	4	NC_000004.12	165327666	165343164	plus	6	607545
+9606	Homo sapiens	4482	0	live	MSRA	PMSR	methionine sulfoxide reductase A	mitochondrial peptide methionine sulfoxide reductase|cytosolic methionine-S-sulfoxide reductase|peptide Met(O) reductase|peptide met (O) reductase|peptide-methionine (S)-S-oxide reductase	8p23.1	8	NC_000008.11	10054224	10428891	plus	12	601250
+9606	Homo sapiens	4524	0	live	MTHFR		methylenetetrahydrofolate reductase	"methylenetetrahydrofolate reductase|5,10-methylenetetrahydrofolate reductase (NADPH)|methylenetetrahydrofolate reductase (NAD(P)H)"	1p36.22	1	NC_000001.11	11785730	11806103	minus	12	607093
+9606	Homo sapiens	4598	0	live	MVK	"LRBP, MK, MVLK, POROK3"	mevalonate kinase	mevalonate kinase|LH receptor mRNA-binding protein|mevalonate kinase 1	12q24.11	12	NC_000012.12	109573461	109598125	plus	13	251170
+9606	Homo sapiens	4624	0	live	MYH6	"ASD3, CMD1EE, CMH14, MYHC, MYHCA, SSS3, alpha-MHC"	myosin heavy chain 6	"myosin-6|myHC-alpha|myosin heavy chain, cardiac muscle alpha isoform|myosin, heavy polypeptide 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)"	14q11.2	14	NC_000014.9	23381990	23408277	minus	39	160710
+9606	Homo sapiens	4627	0	live	MYH9	"BDPLT6, DFNA17, EPSTS, FTNS, MATINS, MHA, NMHC-II-A, NMMHC-IIA, NMMHCA"	myosin heavy chain 9	"myosin-9|cellular myosin heavy chain, type A|myosin, heavy chain 9, non-muscle|non-muscle myosin heavy chain 9|non-muscle myosin heavy chain A|non-muscle myosin heavy chain IIa|non-muscle myosin heavy polypeptide 9|nonmuscle myosin heavy chain II-A"	22q12.3	22	NC_000022.11	36281277	36388067	minus	41	160775
+9606	Homo sapiens	10	0	live	NAT2	"AAC2, NAT-2, PNAT"	N-acetyltransferase 2	arylamine N-acetyltransferase 2|N-acetyltransferase 2 (arylamine N-acetyltransferase)|N-acetyltransferase type 2|arylamide acetylase 2	8p22	8	NC_000008.11	18386585	18401219	plus	3	612182
+9606	Homo sapiens	57447	0	live	NDRG2	SYLD	NDRG family member 2	protein NDRG2|N-myc downstream regulator 2|N-myc downstream-regulated gene 2 protein|NDR1-related protein NDR2|cytoplasmic protein Ndr1|syld709613 protein	14q11.2	14	NC_000014.9	21016763	21070872	minus	24	605272
+9606	Homo sapiens	4810	0	live	NHS	"CTRCT40, CXN, SCML1"	NHS actin remodeling regulator	Nance-Horan syndrome protein|Nance-Horan syndrome (congenital cataracts and dental anomalies)|congenital cataracts and dental anomalies protein	Xp22.2-p22.13	X	NC_000023.11	17375200	17735994	plus	11	300457
+9606	Homo sapiens	4843	0	live	NOS2	"HEP-NOS, INOS, NOSA, NOS2"	nitric oxide synthase 2	"nitric oxide synthase, inducible|NOS, type II|hepatocyte NOS|inducible NO synthase|inducible NOS|nitric oxide synthase 2, inducible|nitric oxide synthase 2A (inducible, hepatocytes)|nitric oxide synthase, macrophage|peptidyl-cysteine S-nitrosylase NOS2"	17q11.2	17	NC_000017.11	27756766	27800529	minus	27	163730
+9606	Homo sapiens	115861	0	live	NXNL1	"RDCVF, TXNL6"	nucleoredoxin like 1	nucleoredoxin-like protein 1|rod-derived cone viability factor|thioredoxin-like 6|thioredoxin-like protein 6	19p13.11	19	NC_000019.10	17455425	17460926	minus	2	608791
+9606	Homo sapiens	4952	0	live	OCRL	"INPP5F, LOCR, NPHL2-1, OCRL1, OCRL"	OCRL inositol polyphosphate-5-phosphatase	inositol polyphosphate 5-phosphatase OCRL-1|Lowe oculocerebrorenal syndrome protein|oculocerebrorenal syndrome of Lowe|phosphatidylinositol polyphosphate 5-phosphatase	Xq26.1	X	NC_000023.11	129540259	129592556	plus	24	300535
+9606	Homo sapiens	4968	0	live	OGG1	"HMMH, HOGG1, MUTM, OGH1"	8-oxoguanine DNA glycosylase	N-glycosylase/DNA lyase|8-hydroxyguanine DNA glycosylase|AP lyase|DNA-apurinic or apyrimidinic site lyase|OGG1 type 1f	3p25.3	3	NC_000003.12	9749944	9788246	plus	11	601982
+9606	Homo sapiens	80207	0	live	OPA3	MGA3	outer mitochondrial membrane lipid metabolism regulator OPA3	"optic atrophy 3 protein|OPA3 outer mitochondrial membrane lipid metabolism regulator|Optic atrophy 3 (Iraqi-Jewish 'optic atrophy plus')|optic atrophy 3 (autosomal recessive, with chorea and spastic paraplegia)"	19q13.32	19	NC_000019.10	45527427	45584802	minus	4	606580
+9606	Homo sapiens	55214	0	live	P3H2	"LEPREL1, MCVD, MLAT4"	prolyl 3-hydroxylase 2	prolyl 3-hydroxylase 2|leprecan-like 1|myxoid liposarcoma-associated protein 4|procollagen-proline 3-dioxygenase 2|prolyl 3-hydroxylase 3	3q28	3	NC_000003.12	189956728	190122437	minus	17	610341
+9606	Homo sapiens	142	0	live	PARP1	"ADPRT, ADPRT 1, ADPRT1, ARTD1, PARP, PARP-1, PPOL, pADPRT-1"	poly(ADP-ribose) polymerase 1	"poly [ADP-ribose] polymerase 1|ADP-ribosyltransferase (NAD+; poly (ADP-ribose) polymerase)|ADP-ribosyltransferase NAD(+)|ADP-ribosyltransferase diphtheria toxin-like 1|DNA ADP-ribosyltransferase PARP1|NAD(+) ADP-ribosyltransferase 1|poly (ADP-ribose) polymerase family, member 1|poly(ADP-ribose) synthetase|poly(ADP-ribosyl)transferase|poly[ADP-ribose] synthase 1|protein poly-ADP-ribosyltransferase PARP1"	1q42.12	1	NC_000001.11	226360691	226408093	minus	23	173870
+9606	Homo sapiens	5080	0	live	PAX6	"AN, AN2, ASGD5, D11S812E, FVH1, MGDA, WAGR"	paired box 6	paired box protein Pax-6|aniridia type II protein|oculorhombin|paired box homeotic gene-6	11p13	11	NC_000011.10	31784792	31817961	minus	25	607108
+9606	Homo sapiens	5111	0	live	PCNA	ATLD2	proliferating cell nuclear antigen	proliferating cell nuclear antigen|DNA polymerase delta auxiliary protein|cyclin	20p12.3	20	NC_000020.11	5114953	5126622	minus	7	176740
+9606	Homo sapiens	10846	0	live	PDE10A	"ADSD2, HSPDE10A, IOLOD, LINC0047319, PDE10A"	phosphodiesterase 10A	"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A|3',5' cAMP/cGMP phosphodiesterase|dJ416F21.1 (phosphodiesterase 10A)|phosphodiesterase 10A1 (PDE10A1)|phosphodiesterase 10A7 (PDE10A7)"	6q27	6	NC_000006.12	165327287	165988115	minus	31	610652
+9606	Homo sapiens	5309	0	live	PITX3	"ASGD1, ASMD, ASOD, CTPP4, CTRCT11, PTX3"	paired like homeodomain 3	pituitary homeobox 3|homeobox protein PITX3	10q24.32	10	NC_000010.11	102230189	102241512	minus	4	602669
+9606	Homo sapiens	5423	0	live	POLB		DNA polymerase beta	"DNA polymerase beta|DNA pol beta|DNA polymerase beta subunit|polymerase (DNA directed), beta|polymerase (DNA) beta"	8p11.21	8	NC_000008.11	42338452	42371810	plus	16	174760
+9606	Homo sapiens	5444	0	live	PON1	"ESA, MVCD5, PON"	paraoxonase 1	serum paraoxonase/arylesterase 1|A-esterase 1|K-45|PON 1|aromatic esterase 1|arylesterase 1|arylesterase B-type|esterase A|paraoxonase B-type|serum aryldiakylphosphatase|serum aryldialkylphosphatase 1	7q21.3	7	NC_000007.14	95297676	95324532	minus	9	168820
+9606	Homo sapiens	5467	0	live	PPARD	"FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB"	peroxisome proliferator activated receptor delta	peroxisome proliferator-activated receptor delta|PPAR-beta|PPAR-delta|PPARD/MYO1D fusion|nuclear hormone receptor 1|nuclear receptor subfamily 1 group C member 2|peroxisome proliferator-activated receptor beta	6p21.31	6	NC_000006.12	35342558	35428191	plus	13	600409
+9606	Homo sapiens	8499	0	live	PPFIA2		PTPRF interacting protein alpha 2	"liprin-alpha-2|protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 2"	12q21.31	12	NC_000012.12	81257975	81759749	minus	41	603143
+9606	Homo sapiens	5499	0	live	PPP1CA	"PP-1A, PP1A, PP1alpha, PPP1A"	protein phosphatase 1 catalytic subunit alpha	"serine/threonine-protein phosphatase PP1-alpha catalytic subunit|protein phosphatase 1, catalytic subunit, alpha isoform|protein phosphatase 1, catalytic subunit, alpha isozyme|serine/threonine protein phosphatase PP1-alpha 1 catalytic subunit|testicular tissue protein Li 155"	11q13.2	11	NC_000011.10	67398183	67401858	minus	7	176875
+9606	Homo sapiens	5515	0	live	PPP2CA	"NEDLBA, PP2Ac, PP2CA, PP2Calpha, RP-C"	protein phosphatase 2 catalytic subunit alpha	"serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform|PP2A-alpha|protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform|protein phosphatase 2, catalytic subunit, alpha isozyme|replication protein C|serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform"	5q31.1	5	NC_000005.10	134194332	134226073	minus	8	176915
+9606	Homo sapiens	10935	0	live	PRDX3	"AOP-1, AOP1, HBC189, MER5, PRO1748, SP-22, prx-III"	peroxiredoxin 3	"thioredoxin-dependent peroxide reductase, mitochondrial|antioxidant protein 1|epididymis secretory sperm binding protein|peroxiredoxin III|protein MER5 homolog"	10q26.11	10	NC_000010.11	119167699	119178865	minus	7	604769
+9606	Homo sapiens	57716	0	live	PRX	CMT4F	periaxin	periaxin	19q13.2	19	NC_000019.10	40393762	40414718	minus	9	605725
+9606	Homo sapiens	11122	0	live	PTPRT	RPTPrho	protein tyrosine phosphatase receptor type T	receptor-type tyrosine-protein phosphatase T|R-PTP-T|RPTP-rho|receptor protein tyrosine phosphatase|receptor-type tyrosine-protein phosphatase rho	20q12-q13.11	20	NC_000020.11	42029959	43189906	minus	37	608712
+9606	Homo sapiens	7837	0	live	PXDN	"ASGD7, COPOA, D2S448, D2S448E, MG50, PRG2, PXN, VPO"	peroxidasin	peroxidasin homolog|melanoma-associated antigen MG50|p53-responsive gene 2 protein|vascular peroxidase 1	2p25.3	2	NC_000002.12	1631887	1744852	minus	24	605158
+9606	Homo sapiens	22931	0	live	RAB18	"RAB18LI1, WARBM3"	"RAB18, member RAS oncogene family"	ras-related protein Rab-18|RAB18 small GTPase	10p12.1	10	NC_000010.11	27504174	27542239	plus	8	602207
+9606	Homo sapiens	22930	0	live	RAB3GAP1	"P130, RAB3GAP30, WARBM1, RAB3GAP1"	RAB3 GTPase activating protein catalytic subunit 1	rab3 GTPase-activating protein catalytic subunit|RAB3 GTPase activating protein subunit 1 (catalytic)|RAB3 GTPase-activating protein 130 kDa subunit|rab3-GAP p130	2q21.3	2	NC_000002.12	135052281	135176667	plus	28	602536
+9606	Homo sapiens	25782	0	live	RAB3GAP2	"RAB3-GAP150, RAB3GAP150, SPG69, WARBM2, p150"	RAB3 GTPase activating non-catalytic protein subunit 2	rab3 GTPase-activating protein non-catalytic subunit|RAB3 GTPase activating protein subunit 2 (non-catalytic)|RGAP-iso|rab3 GTPase-activating protein 150 kDa subunit|rab3-GAP p150|rab3-GAP regulatory subunit	1q41	1	NC_000001.11	220148293	220272453	minus	35	609275
+9606	Homo sapiens	9104	0	live	RGN	"GNL, HEL-S-41, RC, SMP30"	regucalcin	regucalcin|epididymis secretory protein Li 41|gluconolactonase|senescence marker protein 30	Xp11.3	X	NC_000023.11	47078355	47093314	plus	8	300212
+9606	Homo sapiens	9628	0	live	RGS6	"GAP, HA117, S914"	regulator of G protein signaling 6	regulator of G-protein signaling 6|regulator of G-protein signalling 6	14q24.2	14	NC_000014.9	71867397	72632478	plus	40	603894
+9606	Homo sapiens	6401	0	live	SELE	"CD62E, ELAM, ELAM1, ESEL, LECAM2"	selectin E	E-selectin|CD62 antigen-like family member E|ELAM-1|endothelial adhesion molecule 1|endothelial leukocyte adhesion molecule 1|leukocyte endothelial cell adhesion molecule 2	1q24.2	1	NC_000001.11	169722640	169734079	minus	14	131210
+9606	Homo sapiens	6402	0	live	SELL	"CD62L, LAM1, LECAM1, LEU8, LNHR, LSEL, LYAM1, PLNHR, TQ1"	selectin L	L-selectin|CD62 antigen-like family member L|gp90-MEL|leukocyte surface antigen Leu-8|leukocyte-endothelial cell adhesion molecule 1|lymph node homing receptor|lymphocyte adhesion molecule 1|pln homing receptor	1q24.2	1	NC_000001.11	169690667	169711620	minus	9	153240
+9606	Homo sapiens	6403	0	live	SELP	"CD62, CD62P, GMP140, GRMP, LECAM3, PADGEM, PSEL"	selectin P	"P-selectin|CD62 antigen-like family member P|GMP-140|granule membrane protein 140|granule membrane protein 140kDa|granulocyte membrane protein|leukocyte-endothelial cell adhesion molecule 3|platelet activation dependent granule-external membrane protein|platelet alpha-granule membrane protein|selectin P (granule membrane protein 140kDa, antigen CD62)"	1q24.2	1	NC_000001.11	169588849	169630125	minus	18	173610
+9606	Homo sapiens	23094	0	live	SIPA1L3	"CTRCT45, SPAL3, SPAR3"	signal induced proliferation associated 1 like 3	signal-induced proliferation-associated 1-like protein 3|SIPA1-like protein 3|SPA-1-like protein 3|spine-associated RapGAP 3	19q13.13-q13.2	19	NC_000019.10	37906822	38208369	plus	24	616655
+9606	Homo sapiens	23411	0	live	SIRT1	"SIR2, SIR2L1, SIR2alpha"	sirtuin 1	NAD-dependent protein deacetylase sirtuin-1|SIR2-like protein 1|regulatory protein SIR2 homolog 1|sirtuin type 1	10q21.3	10	NC_000010.11	67884656	67918390	plus	11	604479
+9606	Homo sapiens	4990	0	live	SIX6	"MCOPCT2, ODRMD, OPTX2, Six9"	SIX homeobox 6	homeobox protein SIX6|homeodomain protein OPTX2|optic homeobox 2|sine oculis homeobox homolog 6|sine oculis homeobox protein 6|sine oculis homeobox-like protein 6	14q23.1	14	NC_000014.9	60509146	60512850	plus	2	606326
+9606	Homo sapiens	387700	0	live	SLC16A12	"CJMG, CRT2, CTRCT47, MCT12"	solute carrier family 16 member 12	monocarboxylate transporter 12|creatine transporter 2|monocarboxylic acid transporter 12	10q23.31	10	NC_000010.11	89430299	89536029	minus	9	611910
+9606	Homo sapiens	8671	0	live	SLC4A4	"HNBC1, KNBC, NBC1, NBC2, NBCe1-A, SLC4A5, hhNMC, kNBC1, pNBC"	solute carrier family 4 member 4	"electrogenic sodium bicarbonate cotransporter 1|Na(+)/HCO3(-) cotransporter|sodium bicarbonate cotransporter 1 (sodium bicarbonate cotransporter, kidney; sodium bicarbonate cotransporter, pancreas)|solute carrier family 4 (sodium bicarbonate cotransporter), member 4|solute carrier family 4, sodium bicarbonate cotransporter, member 4, brain type|solute carrier family 4, sodium bicarbonate cotransporter, member 5"	4q13.3	4	NC_000004.12	71062646	71572087	plus	36	603345
+9606	Homo sapiens	6535	0	live	SLC6A8	"CCDS1, CRT, CRTR, CT1, CTR5"	solute carrier family 6 member 8	"sodium- and chloride-dependent creatine transporter 1|creatine transporter 1|creatine transporter SLC6A8 variant D|solute carrier family 6 (neurotransmitter transporter), member 8|solute carrier family 6 (neurotransmitter transporter, creatine), member 8"	Xq28	X	NC_000023.11	153687926	153696593	plus	14	300036
+9606	Homo sapiens	6615	0	live	SNAI1	"SLUGH2, SNA, SNAH, SNAIL, SNAIL1, dJ710H13.1"	snail family transcriptional repressor 1	zinc finger protein SNAI1|protein sna|protein snail homolog 1|snail 1 homolog|snail 1 zinc finger protein|snail family zinc finger 1|snail homolog 1	20q13.13	20	NC_000020.11	49982980	49988886	plus	3	604238
+9606	Homo sapiens	6647	0	live	SOD1	"ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer"	superoxide dismutase 1	"superoxide dismutase [Cu-Zn]|Cu/Zn superoxide dismutase|SOD, soluble|epididymis secretory protein Li 44|indophenoloxidase A|superoxide dismutase 1, soluble|superoxide dismutase, cystolic"	21q22.11	21	NC_000021.9	31659622	31668931	plus	5	147450
+9606	Homo sapiens	6648	0	live	SOD2	"IPO-B, IPOB, MNSOD, MVCD6, Mn-SOD"	superoxide dismutase 2	"superoxide dismutase [Mn], mitochondrial|Mn superoxide dismutase|epididymis secretory sperm binding protein|indophenoloxidase B|manganese-containing superoxide dismutase|mangano-superoxide dismutase|superoxide dismutase 2, mitochondrial"	6q25.3	6	NC_000006.12	159669069	159762281	minus	10	147460
+9606	Homo sapiens	6649	0	live	SOD3	EC-SOD	superoxide dismutase 3	"extracellular superoxide dismutase [Cu-Zn]|superoxide dismutase 3, extracellular|testicular tissue protein Li 175"	4p15.2	4	NC_000004.12	24795478	24800845	plus	3	185490
+9606	Homo sapiens	6809	0	live	STX3	STX3A	syntaxin 3	syntaxin-3|syntaxin 3A	11q12.1	11	NC_000011.10	59755374	59805879	plus	14	600876
+9606	Homo sapiens	128637	0	live	TBC1D20	"C20orf140, WARBM4"	TBC1 domain family member 20	TBC1 domain family member 20	20p13	20	NC_000020.11	435477	462553	minus	10	611663
+9606	Homo sapiens	23424	0	live	TDRD7	"CATC4, PCTAIRE2BP, TRAP"	tudor domain containing 7	tudor domain-containing protein 7|PCTAIRE2-binding protein|epididymis secretory sperm binding protein|tudor repeat associator with PCTAIRE 2	9q22.33	9	NC_000009.12	97412096	97496125	plus	17	611258
+9606	Homo sapiens	7040	0	live	TGFB1	"CED, DPD1, IBDIMDE, LAP, TGFB, TGFbeta"	transforming growth factor beta 1	transforming growth factor beta-1 proprotein|TGF-beta-1|latency-associated peptide|prepro-transforming growth factor beta-1	19q13.2	19	NC_000019.10	41330323	41353922	minus	7	190180
+9606	Homo sapiens	7042	0	live	TGFB2	"G-TSF, LDS4, TGF-beta2"	transforming growth factor beta 2	transforming growth factor beta-2 proprotein|BSC-1 cell growth inhibitor|cetermin|glioblastoma-derived T-cell suppressor factor|polyergin|prepro-transforming growth factor beta-2	1q41	1	NC_000001.11	218345284	218444619	plus	8	190220
+9606	Homo sapiens	7043	0	live	TGFB3	"ARVD, ARVD1, LDS5, RNHF, TGF-beta3"	transforming growth factor beta 3	transforming growth factor beta-3 proprotein|prepro-transforming growth factor beta-3	14q24.3	14	NC_000014.9	75958061	75983011	minus	8	190230
+9606	Homo sapiens	55002	0	live	TMCO3	C13orf11	transmembrane and coiled-coil domains 3	transmembrane and coiled-coil domain-containing protein 3|putative LAG1-interacting protein	13q34	13	NC_000013.11	113490738	113550229	plus	23	617134
+9606	Homo sapiens	283953	0	live	TMEM114		transmembrane protein 114	transmembrane protein 114	16p13.2	16	NC_000016.10	8526549	8590511	minus	8	611579
+9606	Homo sapiens	84302	0	live	TMEM246	C9orf125	transmembrane protein 246	transmembrane protein 246|transmembrane protein C9orf125	9q31.1	9	NC_000009.12	101473158	101489195	minus	5	
+9606	Homo sapiens	101928470	0	live	TMEM246-AS1		TMEM246 antisense RNA 1		9q31.1	9	NC_000009.12	101468439	101481506	plus	5	
+9606	Homo sapiens	7157	0	live	TP53	"BCC7, BMFS5, LFS1, P53, TRP53"	tumor protein p53	cellular tumor antigen p53|antigen NY-CO-13|mutant tumor protein 53|p53 tumor suppressor|phosphoprotein p53|transformation-related protein 53|tumor protein 53|tumor supressor p53	17p13.1	17	NC_000017.11	7668402	7687550	minus	12	191170
+9606	Homo sapiens	80036	0	live	TRPM3	"GON-2, LTRPC3, MLSN2"	transient receptor potential cation channel subfamily M member 3	transient receptor potential cation channel subfamily M member 3|long transient receptor potential channel 3|melastatin-2	9q21.12-q21.13	9	NC_000009.12	70529060	71446971	minus	30	608961
+9606	Homo sapiens	55000	0	live	TUG1	"LINC00080, NCRNA00080, TI-227H"	taurine up-regulated 1	TUG1 noncoding RNA|long intergenic non-protein coding RNA 80|taurine up-regulated 1 (non-protein coding)|taurine upregulated gene 1	22q12.2	22	NC_000022.11	30969211	30979395	plus	4	614971
+9606	Homo sapiens	7345	0	live	UCHL1	"HEL-117, HEL-S-53, NDGOA, PARK5, PGP 9.5, PGP9.5, PGP95, SPG79, Uch-L1"	ubiquitin C-terminal hydrolase L1	ubiquitin carboxyl-terminal hydrolase isozyme L1|epididymis luminal protein 117|epididymis secretory protein Li 53|neuron cytoplasmic protein 9.5|ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)|ubiquitin thioesterase L1|ubiquitin thiolesterase	4p13	4	NC_000004.12	41256928	41268455	plus	9	191342
+9606	Homo sapiens	146862	0	live	UNC45B	"CMYA4, CTRCT43, SMUNC45, UNC-45B, UNC45"	unc-45 myosin chaperone B	protein unc-45 homolog B|cardiomyopathy associated 4|striated muscle UNC45|unc-45 homolog B	17q12	17	NC_000017.11	35147793	35189345	plus	20	611220
+9606	Homo sapiens	1462	0	live	VCAN	"CSPG2, ERVR, GHAP, PG-M, WGN, WGN1"	versican	versican core protein|chondroitin sulfate proteoglycan core protein 2|glial hyaluronate-binding protein|large fibroblast proteoglycan|versican proteoglycan	5q14.2-q14.3	5	NC_000005.10	83471674	83582303	plus	15	118661
+9606	Homo sapiens	7422	0	live	VEGFA	"MVCD1, VEGF, VPF"	vascular endothelial growth factor A	vascular endothelial growth factor A|vascular endothelial growth factor A121|vascular endothelial growth factor A165|vascular permeability factor	6p21.1	6	NC_000006.12	43770209	43786487	plus	9	192240
+9606	Homo sapiens	7431	0	live	VIM		vimentin	vimentin|epididymis secretory sperm binding protein	10p13	10	NC_000010.11	17228241	17237593	plus	10	193060
+9606	Homo sapiens	7466	0	live	WFS1	"CTRCT41, WFRS, WFS, WFSL"	wolframin ER transmembrane glycoprotein	wolframin|Wolfram syndrome 1 (wolframin)	4p16.1	4	NC_000004.12	6260368	6303265	plus	10	606201
+9606	Homo sapiens	7473	0	live	WNT3	"INT4, TETAMS"	Wnt family member 3	"proto-oncogene Wnt-3|WNT-3 proto-oncogene protein|proto-oncogene Int-4 homolog|wingless-type MMTV integration site family, member 3"	17q21.31-q21.32	17	NC_000017.11	46762506	46818692	minus	5	165330
+9606	Homo sapiens	7486	0	live	WRN	"RECQ3, RECQL2, RECQL3"	WRN RecQ like helicase	"Werner syndrome ATP-dependent helicase|DNA helicase, RecQ-like type 3|Werner syndrome RecQ like helicase|Werner syndrome, RecQ helicase-like|exonuclease WRN|recQ protein-like 2"	8p12	8	NC_000008.11	31033262	31175871	plus	38	604611
+9606	Homo sapiens	7490	0	live	WT1	"AWT1, GUD, NPHS4, WAGR, WIT-2, WT33"	WT1 transcription factor	Wilms tumor protein|Wilms tumor 1	11p13	11	NC_000011.10	32387775	32435539	minus	12	607102
+9606	Homo sapiens	7508	0	live	XPC	"RAD4, XP3C, p125, XPC"	"XPC complex subunit, DNA damage recognition and repair factor"	"DNA repair protein complementing XP-C cells|mutant xeroderma pigmentosum group C|xeroderma pigmentosum, complementation group C"	3p25.1	3	NC_000003.12	14145145	14178672	minus	18	613208
+9606	Homo sapiens	7515	0	live	XRCC1	"RCC, SCAR26"	X-ray repair cross complementing 1	DNA repair protein XRCC1|X-ray repair complementing defective repair in Chinese hamster cells 1|X-ray repair cross-complementing protein 1	19q13.31	19	NC_000019.10	43543312	43575578	minus	17	194360
+9606	Homo sapiens	64132	0	live	XYLT2	"PXYLT2, SOS, XT-II, XT2, xylT-II"	xylosyltransferase 2	xylosyltransferase 2|UDP-D-xylose:proteoglycan core protein beta-D-xylosyltransferase|peptide O-xylosyltransferase 1|protein xylosyltransferase 2|xylosyltransferase II	17q21.33	17	NC_000017.11	50346032	50361185	plus	12	608125
+9606	Homo sapiens	9839	0	live	ZEB2	"HSPC082, SIP-1, SIP1, SMADIP1, ZFHX1B"	zinc finger E-box binding homeobox 2	zinc finger E-box-binding homeobox 2|SMAD interacting protein 1|Smad-interacting protein 1|zinc finger homeobox 1b	2q22.3	2	NC_000002.12	144384081	144520119	minus	11	605802
+9606	Homo sapiens	59348	0	live	ZNF350	"ZBRK1, ZFQR"	zinc finger protein 350	zinc finger protein 350|KRAB zinc finger protein ZFQR|zinc finger and BRCA1-interacting protein with a KRAB domain 1|zinc finger protein ZBRK1	19q13.41	19	NC_000019.10	51964340	51986856	minus	9	605422
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
