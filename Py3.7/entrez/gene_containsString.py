@@ -22,17 +22,15 @@ print('fetched data')
 entData = entFile.read()
 print('read data')
 
-output = open('gene_summaries.txt', 'w')
+output = open('gene_containsCataract.txt', 'w')
 newGeneStart = 0
 newGeneEnd = 0
 while newGeneEnd != -1:
     newGeneEnd = entData.find('Entrezgene', newGeneStart+1)
-    startInd = entData.find('summary "', newGeneStart, newGeneEnd)
-    if startInd == -1:
-        summary = ""
+    if entData[newGeneStart:newGeneEnd].find('cataract') != -1:
+        status = 'YES'
     else:
-        endInd = entData.find('"', startInd+9)
-        summary = entData[startInd+9:endInd].replace('\n', '')
-    output.write(summary + '\n')
+        status = 'no'
+    output.write(status + '\n')
     newGeneStart = newGeneEnd
 output.close()
