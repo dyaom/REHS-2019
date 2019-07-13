@@ -1,0 +1,53 @@
+# nodes	P-value	Process																																							
+37	7.33E-07	lens fiber cell differentiation		2.01E-02	CRTAC1	KRT3	OPTC	KRT12	CRYBB2	CRYBA4	CRYGS	BFSP1	CRYBA1	CRYBB1	CRYAA	LGSN	LIM2	CRYGD	MIP	BFSP2	ENSG00000258955	C8orf47	ANGPTL7	APOD	RARRES1	UPK1B	ENSG00000197320	ENSG00000264433	CPAMD8	PLCB4	ENSG00000264514	DEFB4B	KRT24	CRYBB3	DAPL1	KCNE4	TMPRSS11D	PCP4	ENSG00000237821	LCTL	ENSG00000188477
+8	0.228959891	negative regulation of endodermal cell differentiation		3.34E-03	COL11A1	COL5A2	COL5A1	ADAMTS12	DACT1	TGFB2	SPARC	COL4A1																													
+7	0.348176266	telomeric D-loop disassembly		4.83E-03	BLM	TTF2	HEATR1	C4orf21	WRN	FANCB	BRCA2																														
+7	0.348503842	replication fork protection		2.07E-02	BLM	FANCI	WDR76	BRCA1	KIAA1524	BRCA2	FAM111B																														
+7	0.349313602			 >0.05	ERCC1	PPARD	ENSG00000261925	ENSG00000240045	KLHL40	DUSP13	LOC100129518																														
+6	0.180112753			 >0.05	TMCO3	HDLBP	CHPF2	MYH9	SEC24D	GALNT10																															
+6	0.207531553			 >0.05	ABHD12	WFS1	PLD3	TMEM184B	CRELD1	MYO1C																															
+6	0.180112753	positive regulation of oxidoreductase activity		6.62E-03	APOE	COLEC11	RGN	POR	OAF	SLC47A1																															
+6	0.179658669	G-quadruplex DNA unwinding		1.93E-02	BLM	TOP2A	LARS	WRN	RBL1	TOPBP1																															
+6	0.182355669			 >0.05	WDR76	BRCA1	KIAA1524	BRCA2	SMC2	FAM111B																															
+6	0.182355669				LOC101930349	SLC16A12	SLC4A4	CYS1	AQP1	OGDHL																															
+6	0.278710582				ERCC1	PPARD	NAB2	ENSG00000261925	ENSG00000240045	KLHL40																															
+6	0.182798832				ABHD12	WFS1	PVRL2	PLD3	TMEM184B	CRELD1																															
+6	0.532246163				APAF1	MAPK14	IRAK3	CR1	VCAN	ZEB2																															
+6	0.532419928				COL11A1	ENSG00000220884	ENSG00000250927	MEST	GPC3	IGF2																															
+6	0.179658669				GPC3	AGTR2	SULT1E1	FREM1	WT1	DACH1																															
+5	0.456813331				CACHD1	HIP1	TTC28	SH3PXD2B	MN1																																
+5	0.334711209				CAT	DUSP10	RFX8	AVPR1A	FTO																																
+5	0.334711209				MMAA	HENMT1	RIIAD1	TPK1	POLB																																
+5	0.333215017				BLM	DNA2	HELLS	NCAPG	BRCA2																																
+5	0.333215017				CPLX2	LOC101928619	ENSG00000261496	UNC13A	PTPRT																																
+5	0.333215017				CPLX2	CHN1	NAPB	SCN2B	KCNAB1																																
+5	0.333215017				EFNA5	ANP32E	POGLUT1	RQCD1	TP53																																
+5	0.334711209				CPA3	FTO	ZNF521	MAMDC2	SELP																																
+5	0.333215017				UNC45B	SRL	SGCA	AFAP1L1	PITX3																																
+5	0.334711209				GPC3	ZNRF3	FRAS1	LGR4	NHS																																
+5	0.45667206				ESRRA	KEAP1	ECSIT	MAF1	SLC6A8																																
+5	0.333215017				LIN7A	P2RY13	GCA	TLR2	SELL																																
+5	0.333215017				MMAA	PARL	B3GNT2	ARMC2	MSRA																																
+5	0.333215017				SLC6A8	ATG9A	HK1	PI4K2A	TBC1D20																																
+5	0.333215017				SNAI1	ZNF394	ENSG00000215190	DUXA	ZNF350																																
+4	0.561522679				DPP6	KCNAB1	FRMPD4	PTPRT																																	
+4	0.561522679				CALML3	RIPK4	TACSTD2	EPHA2																																	
+4	0.561522679				ZDHHC12	GSTP1	LYPLA2	PPP1CA																																	
+4	0.56194502				ACSS3	2-Mar	BHMT2	ALDOB																																	
+4	0.322276085				CACNA1C	PLA2G5	MYZAP	ENSG00000254453																																	
+4	0.561522679				CAT	CPA3	CD33	SELP																																	
+4	0.561522679				CCDC102A	ENSG00000213753	FKRP	OPA3																																	
+4	0.561522679				CCDC102A	FKRP	TMEM129	LEMD2																																	
+4	0.56194502				CMIP	MGRN1	PRR12	SIPA1L3																																	
+4	0.5				SMO	COL2A1	SNORA11E	PKDCC																																	
+4	0.56194502				CPLX2	STXBP1	SCAMP5	TMEM246																																	
+4	0.56194502				FBXL4	RALGAPB	LOC441155	XPC																																	
+4	0.561522679				FOCAD	CANX	GFPT1	RAB3GAP1																																	
+4	0.56194502				FTL	S100A4	ENSG00000244459	GPX1																																	
+4	0.5				PODXL	ENSG00000253507	GPC4	LEFTY1																																	
+4	0.561522679				GCNT2	PODXL	SEMA6A	HIP1																																	
+4	0.5				PODXL	GPC4	LEFTY1	CECR2																																	
+4	0.56194502				IDO1	CMPK2	DDX58	TDRD7																																	
+4	0.56194502				KEAP1	TOMM40L	ZNF672	OPA3																																	
+4	0.797671619				ENSG00000240045	KEAP1	FEM1A	LOC100129518																																	
+4	0.561522679				ZNF664	OCRL	FAM199X	RAB3GAP1																																	
