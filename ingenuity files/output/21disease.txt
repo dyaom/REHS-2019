@@ -1,0 +1,91 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital cataract	1.04E-04	CRYBA4,CRYBB2	2
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Visual System Development and Function	Morphogenesis of camera-type eye	1.45E-04	CRYBA4,CRYBB2	2
+Infectious Diseases	Viral entry by respiratory syncytial virus	3.16E-04	DEFB4A/DEFB4B	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Sutural cataract with punctate and cerulean opacities	3.16E-04	CRYBB2	1
+Cell-To-Cell Signaling and Interaction	Activation of skin cell lines	3.16E-04	DEFB4A/DEFB4B	1
+Cell Death and Survival	Killing of Helicobacter pylori	3.16E-04	DEFB4A/DEFB4B	1
+Hereditary Disorder,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Susceptibility to asthma-related traits type 7	3.16E-04	CHI3L1	1
+Cell Death and Survival	Killing of Streptococcus pneumoniae strain 6b	3.16E-04	DEFB4A/DEFB4B	1
+Cell Death and Survival	Killing of Streptococcus pneumoniae strain 3	3.16E-04	DEFB4A/DEFB4B	1
+Cell-mediated Immune Response,Cell-To-Cell Signaling and Interaction,Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response,Lymphoid Tissue Structure and Development	Chemoattraction of effector T lymphocytes	3.16E-04	DEFB4A/DEFB4B	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract type 23	3.16E-04	CRYBA4	1
+Cell Death and Survival	Killing of Propionibacterium acnes	3.16E-04	DEFB4A/DEFB4B	1
+Cell Death and Survival	Killing of Moraxella catarrhalis	6.32E-04	DEFB4A/DEFB4B	1
+Cell Death and Survival,Organismal Survival	Survival of Francisella novicida	6.32E-04	DEFB4A/DEFB4B	1
+Cellular Movement,Nervous System Development and Function	Migration of cortical astrocytes	6.32E-04	CHI3L1	1
+Cell Death and Survival	Killing of Campylobacter jejuni	6.32E-04	DEFB4A/DEFB4B	1
+Visual System Development and Function	Vision	7.81E-04	CRYBA4,CRYBB2	2
+Antimicrobial Response	Inactivation of HIV-1	9.47E-04	DEFB4A/DEFB4B	1
+Cellular Movement	Invasion of astrocytes	9.47E-04	CHI3L1	1
+Cell Death and Survival	Killing of Haemophilus influenzae	1.58E-03	DEFB4A/DEFB4B	1
+Cellular Function and Maintenance	Function of plasmacytoid dendritic cells	1.58E-03	CHI3L1	1
+Immunological Disease	Systemic autoimmune syndrome	1.80E-03	CHI3L1,CRYBA4,CRYBB2,DAPL1	4
+Infectious Diseases	Activation of Influenza A virus	1.89E-03	TMPRSS11D	1
+Cell-To-Cell Signaling and Interaction,Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Recruitment of neutrophils	2.21E-03	CHI3L1,DEFB4A/DEFB4B	2
+Cell Morphology,Cellular Development,Tissue Development	Tubulation of skin cell lines	2.52E-03	CHI3L1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Hidradenitis suppurativa	2.52E-03	DEFB4A/DEFB4B	1
+Cell Death and Survival,Organismal Survival	Survival of Francisella tularensis	2.52E-03	DEFB4A/DEFB4B	1
+Cellular Movement,Hematological System Development and Function,Hypersensitivity Response,Immune Cell Trafficking,Inflammatory Response	Migration of bone marrow-derived mast cells	2.84E-03	DEFB4A/DEFB4B	1
+Dermatological Diseases and Conditions,Immunological Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Advanced stage atopic dermatitis	2.84E-03	DEFB4A/DEFB4B	1
+Infectious Diseases	Production of Influenza A virus	3.15E-03	TMPRSS11D	1
+Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Migration of monocyte-derived macrophages	3.78E-03	DEFB4A/DEFB4B	1
+Infectious Diseases	Infection by respiratory syncytial virus	4.41E-03	DEFB4A/DEFB4B	1
+Dermatological Diseases and Conditions,Immunological Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Moderate atopic dermatitis	4.41E-03	DEFB4A/DEFB4B	1
+Cellular Movement,Digestive System Development and Function	Migration of intestinal cell lines	4.73E-03	DEFB4A/DEFB4B	1
+Cell-mediated Immune Response,Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response,Lymphoid Tissue Structure and Development	Chemotaxis of memory T lymphocytes	4.73E-03	DEFB4A/DEFB4B	1
+Infectious Diseases,Organismal Development	Growth of Influenza A virus	5.36E-03	TMPRSS11D	1
+Cell Death and Survival	Killing of Staphylococcus aureus	5.67E-03	DEFB4A/DEFB4B	1
+Cell Death and Survival,Nervous System Development and Function	Survival of astrocytes	6.62E-03	CHI3L1	1
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Activation of antigen presenting cells	7.20E-03	CHI3L1,DEFB4A/DEFB4B	2
+Infectious Diseases,Respiratory Disease	Infection of lung cancer cell lines	7.24E-03	DEFB4A/DEFB4B	1
+Cellular Movement	Migration of macrophage cancer cell lines	7.24E-03	DEFB4A/DEFB4B	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Release of leukotriene C4	7.56E-03	DEFB4A/DEFB4B	1
+Dermatological Diseases and Conditions,Inflammatory Disease,Organismal Injury and Abnormalities	Acne vulgaris	8.19E-03	DEFB4A/DEFB4B	1
+Cardiovascular Disease	Plaque	8.50E-03	CHI3L1	1
+Infectious Diseases	Infection of carcinoma cell lines	8.50E-03	DEFB4A/DEFB4B	1
+Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Familial schizophrenia	8.81E-03	CHI3L1	1
+Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Migration of bone marrow-derived macrophages	9.75E-03	DEFB4A/DEFB4B	1
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Activation of phagocytes	9.90E-03	CHI3L1,DEFB4A/DEFB4B	2
+Cellular Movement,Hematological System Development and Function,Hypersensitivity Response,Immune Cell Trafficking,Inflammatory Response	Chemotaxis of mast cells	1.01E-02	DEFB4A/DEFB4B	1
+Connective Tissue Disorders,Immunological Disease,Inflammatory Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Systemic lupus erythematosus	1.01E-02	CRYBA4,CRYBB2	2
+Cellular Movement,Hair and Skin Development and Function	Migration of skin cell lines	1.13E-02	CHI3L1	1
+Lipid Metabolism,Small Molecule Biochemistry	Synthesis of prostaglandin D2	1.13E-02	DEFB4A/DEFB4B	1
+Hematological System Development and Function,Lymphoid Tissue Structure and Development,Tissue Morphology	Quantity of Th2 cells	1.13E-02	CHI3L1	1
+Cardiovascular System Development and Function,Cell Morphology,Cellular Development,Organismal Development,Tissue Development	Tubulation of endothelial cell lines	1.60E-02	CHI3L1	1
+Molecular Transport,Small Molecule Biochemistry	Release of histamine	1.60E-02	DEFB4A/DEFB4B	1
+Cellular Function and Maintenance,Hematological System Development and Function	Function of Th2 cells	1.60E-02	CHI3L1	1
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of lens	1.66E-02	CRYBB2	1
+Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking	Migration of leukocyte cell lines	1.66E-02	DEFB4A/DEFB4B	1
+Drug Metabolism,Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Release of prostaglandin E2	1.69E-02	DEFB4A/DEFB4B	1
+Cell-To-Cell Signaling and Interaction,Cellular Movement,Hematological System Development and Function,Hypersensitivity Response,Immune Cell Trafficking	Recruitment of eosinophils	1.69E-02	CHI3L1	1
+Infectious Diseases	Replication of RNA virus	1.76E-02	DEFB4A/DEFB4B,TMPRSS11D	2
+Cellular Function and Maintenance,Connective Tissue Development and Function,Skeletal and Muscular System Development and Function,Tissue Development	Function of osteoclasts	1.91E-02	CHI3L1	1
+Connective Tissue Disorders,Inflammatory Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Rheumatic Disease	1.91E-02	CHI3L1,CRYBA4,CRYBB2	3
+Cellular Compromise,Inflammatory Response	Degranulation of leukocyte cell lines	2.10E-02	DEFB4A/DEFB4B	1
+Cancer,Organismal Injury and Abnormalities	Mixed neoplasia	2.11E-02	DAPL1,KRT24,TMPRSS11D	3
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities,Reproductive System Disease	Primary ovarian cancer	2.41E-02	CHI3L1	1
+Cell Morphology,Hematological System Development and Function,Immunological Disease,Inflammatory Response	Abnormal morphology of macrophages	2.50E-02	CHI3L1	1
+Cellular Compromise,Inflammatory Response	Degranulation of cells	2.53E-02	CHI3L1,DEFB4A/DEFB4B	2
+Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Chemotaxis of dendritic cells	2.81E-02	DEFB4A/DEFB4B	1
+Cellular Development,Cellular Growth and Proliferation,Hematological System Development and Function,Lymphoid Tissue Structure and Development,Organ Development,Tissue Development	Proliferation of splenocytes	2.90E-02	CHI3L1	1
+Humoral Immune Response,Protein Synthesis	Quantity of IgE	2.99E-02	CHI3L1	1
+Organismal Survival	Viability	3.12E-02	DEFB4A/DEFB4B	1
+Cancer,Hematological Disease,Immunological Disease,Organismal Injury and Abnormalities	Hodgkin lymphoma	3.15E-02	CHI3L1	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Microphthalmia	3.24E-02	CRYBB2	1
+Dermatological Diseases and Conditions,Immunological Disease,Inflammatory Disease,Organismal Injury and Abnormalities	Lichen planus	3.24E-02	DEFB4A/DEFB4B	1
+Cardiovascular System Development and Function,Cellular Movement	Migration of endothelial cell lines	3.36E-02	CHI3L1	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities,Reproductive System Disease	Ovarian cancer	3.77E-02	CHI3L1,KRT24,TMPRSS11D	3
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Activation of dendritic cells	3.97E-02	DEFB4A/DEFB4B	1
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Hyperplasia of epidermis	4.13E-02	DEFB4A/DEFB4B	1
+Immunological Disease	Delayed hypersensitive reaction	4.46E-02	DEFB4A/DEFB4B	1
+Infectious Diseases	Replication of HIV-1	4.55E-02	DEFB4A/DEFB4B	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Plaque psoriasis	4.58E-02	DEFB4A/DEFB4B	1
+Cancer,Organismal Injury and Abnormalities	Angiogenesis of tumor	4.76E-02	CHI3L1	1
+Cellular Movement	Migration of colorectal cancer cell lines	4.83E-02	DEFB4A/DEFB4B	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Chronic psoriasis	4.83E-02	DEFB4A/DEFB4B	1
+Cell Morphology,Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Keratinization of epidermis	4.89E-02	KRT24	1
+Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Atrial fibrillation	4.92E-02	CHI3L1	1
+Inflammatory Response	Inflammatory response	4.99E-02	CHI3L1,DEFB4A/DEFB4B	2

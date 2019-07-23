@@ -1,0 +1,5 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+ID	Molecules in Network	Score	Focus Molecules	Top Diseases and Functions	
+1	Acaa1b,Acot1,AGXT2,ALDOB,Apoc3,arachidonyl-coenzyme A,carnitine,CRYL1,DPEP1,Egfr-Erbb2,ERBB2,Erbb2-Erbb3 dimer,Flg,GABP,Gpd,GRB2,HNF4A,HNF4α dimer,Hrnr,KHK,miR-762 (and other miRNAs w/seed GGGCUGG),oleoyl-coenzyme A,PBLD,PDZK1,PPARA,PRAP1,SLC23A1,Sprr1b,Sprr2d,Sprr2e,Sprr2f,Sprr2h,Sprr2i,Sprr2k,Timd2	26	9	[Carbohydrate Metabolism, Lipid Metabolism, Small Molecule Biochemistry]
+2	beta-galactosidase,beta-glucosidase,galactosylceramidase,GBA3,glucosylceramidase,NEU2,PRKCSH,TNS2	3	1	[Carbohydrate Metabolism, Lipid Metabolism, Small Molecule Biochemistry]

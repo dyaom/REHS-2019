@@ -1,0 +1,109 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Upstream Regulator	Molecule Type	p-value of overlap	Target molecules in dataset	Mechanistic Network	
+D-galactose	chemical - endogenous mammalian	6.92E-06	CRYBA4,CRYBB2	 
+PHA-666859	chemical - kinase inhibitor	6.92E-06	CRYBA4,CRYBB2	 
+MAF	transcription regulator	1.95E-04	CRYBA4,CRYBB2	 
+JAK1	kinase	2.00E-04	CHI3L1,DEFB4A/DEFB4B	 
+ganglioside GM2	chemical - endogenous mammalian	3.22E-04	DEFB4A/DEFB4B	 
+fluticasone propionate	chemical drug	1.29E-03	CHI3L1,DEFB4A/DEFB4B	 
+ganglioside GD1b	chemical - endogenous mammalian	1.61E-03	DEFB4A/DEFB4B	 
+MEFV	other	1.93E-03	DEFB4A/DEFB4B	 
+ganglioside GD1a	chemical - endogenous mammalian	2.57E-03	DEFB4A/DEFB4B	 
+ganglioside GM1	chemical - endogenous mammalian	2.57E-03	DEFB4A/DEFB4B	 
+SC-58125	chemical drug	2.57E-03	DEFB4A/DEFB4B	 
+ganglioside	chemical - endogenous mammalian	2.89E-03	DEFB4A/DEFB4B	 
+ganglioside GT1	chemical - endogenous mammalian	2.89E-03	DEFB4A/DEFB4B	 
+ganglioside GD3	chemical - endogenous mammalian	2.89E-03	DEFB4A/DEFB4B	 
+TOLLIP	other	2.89E-03	DEFB4A/DEFB4B	 
+tyrphostin AG 127	chemical - kinase inhibitor	2.89E-03	DEFB4A/DEFB4B	 
+NFKB1	transcription regulator	3.21E-03	CHI3L1,DEFB4A/DEFB4B	 
+STAT1/3/5 dimer	complex	3.86E-03	CHI3L1	 
+miR-516b-5p (miRNAs w/seed UCUGGAG)	mature microRNA	4.45E-03	CRYBB2,KRT24,TMPRSS11D	 
+lauric acid	chemical - endogenous mammalian	4.82E-03	DEFB4A/DEFB4B	 
+IL1	group	5.00E-03	CHI3L1,DEFB4A/DEFB4B	 
+IRAK2	kinase	5.14E-03	DEFB4A/DEFB4B	 
+IL-17f dimer	complex	5.46E-03	DEFB4A/DEFB4B	 
+FABP5	transporter	5.46E-03	DEFB4A/DEFB4B	 
+IL17R	complex	5.78E-03	DEFB4A/DEFB4B	 
+helenalin	chemical - endogenous non-mammalian	5.78E-03	DEFB4A/DEFB4B	 
+NOD1	other	6.10E-03	DEFB4A/DEFB4B	 
+TLR1	transmembrane receptor	6.42E-03	DEFB4A/DEFB4B	 
+IL13	cytokine	6.57E-03	CHI3L1,DEFB4A/DEFB4B	 
+ETS	group	6.74E-03	CHI3L1	 
+NFIX	transcription regulator	7.06E-03	CHI3L1	 
+TLR6	transmembrane receptor	7.06E-03	DEFB4A/DEFB4B	 
+IL17a dimer	complex	7.38E-03	DEFB4A/DEFB4B	 
+MBD1	transcription regulator	7.38E-03	CRYBB2	 
+RELA	transcription regulator	7.71E-03	CHI3L1,DEFB4A/DEFB4B	 
+NFKBIZ	transcription regulator	8.02E-03	DEFB4A/DEFB4B	 
+NfkB1-RelA	complex	8.34E-03	DEFB4A/DEFB4B	 
+ADAMTS12	peptidase	8.34E-03	CHI3L1	 
+IL17C	cytokine	8.66E-03	DEFB4A/DEFB4B	 
+SUMO1	enzyme	9.62E-03	CRYBB2	 
+Nuclear factor 1	group	9.94E-03	CHI3L1	 
+miR-499b-5p (miRNAs w/seed CAGACUU)	mature microRNA	1.03E-02	CRYBA4,TMPRSS11D	 
+ELANE	peptidase	1.19E-02	DEFB4A/DEFB4B	 
+TLR5	transmembrane receptor	1.22E-02	DEFB4A/DEFB4B	 
+DACH1	transcription regulator	1.22E-02	DEFB4A/DEFB4B	 
+IRAK1	kinase	1.28E-02	DEFB4A/DEFB4B	 
+SP1	transcription regulator	1.31E-02	CHI3L1,CRYBB2	 
+corticosteroid	chemical drug	1.31E-02	DEFB4A/DEFB4B	 
+OSM	cytokine	1.40E-02	CHI3L1,DEFB4A/DEFB4B	 
+SPHK1	kinase	1.47E-02	DEFB4A/DEFB4B	 
+miR-92b-5p (miRNAs w/seed GGGACGG)	mature microRNA	1.54E-02	CHI3L1,TMPRSS11D	 
+lipopolysaccharide	chemical drug	1.65E-02	CHI3L1,CRYBA4,DEFB4A/DEFB4B	 
+SHC1	other	1.73E-02	DAPL1	 
+NFKBIB	transcription regulator	1.73E-02	DEFB4A/DEFB4B	 
+CD36	transmembrane receptor	1.76E-02	DEFB4A/DEFB4B	 
+vitamin D	chemical drug	1.79E-02	DEFB4A/DEFB4B	 
+MAP2K7	kinase	1.82E-02	CRYBA4	 
+CD14	transmembrane receptor	1.85E-02	DEFB4A/DEFB4B	 
+N-acetylmuramyl-L-alanyl-D-isoglutamine	chemical - endogenous non-mammalian	1.95E-02	DEFB4A/DEFB4B	 
+USF2	transcription regulator	2.01E-02	CHI3L1	 
+Sn50 peptide	chemical toxicant	2.04E-02	DEFB4A/DEFB4B	 
+PIK3CA	kinase	2.11E-02	DEFB4A/DEFB4B	 
+MBD2	transcription regulator	2.11E-02	CRYBB2	 
+NR5A1	ligand-dependent nuclear receptor	2.14E-02	TMPRSS11D	 
+Bay 11-7082	chemical - kinase inhibitor	2.17E-02	CHI3L1	 
+miR-320e (miRNAs w/seed AAGCUGG)	mature microRNA	2.20E-02	CHI3L1,DAPL1	 
+TRAF6	enzyme	2.20E-02	DEFB4A/DEFB4B	 
+lipoteichoic acid	chemical - endogenous non-mammalian	2.20E-02	DEFB4A/DEFB4B	 
+miR-9-5p (and other miRNAs w/seed CUUUGGU)	mature microRNA	2.25E-02	DEFB4A/DEFB4B,TMPRSS11D	 
+TRAF3IP2	other	2.33E-02	DEFB4A/DEFB4B	 
+MDM2	transcription regulator	2.36E-02	DEFB4A/DEFB4B	 
+NOD2	other	2.36E-02	DEFB4A/DEFB4B	 
+miR-3612 (and other miRNAs w/seed GGAGGCA)	mature microRNA	2.37E-02	CRYBA4,CRYBB2,TMPRSS11D	 
+BTNL2	transmembrane receptor	2.39E-02	DAPL1	 
+RELB	transcription regulator	2.39E-02	CHI3L1	 
+miR-135b-3p (and other miRNAs w/seed UGUAGGG)	mature microRNA	2.46E-02	CHI3L1,TMPRSS11D	 
+MAP3K7	kinase	2.48E-02	DEFB4A/DEFB4B	 
+MAP2K1/2	group	2.55E-02	CHI3L1	 
+CXCL8	cytokine	2.58E-02	DEFB4A/DEFB4B	 
+USF1	transcription regulator	2.58E-02	CHI3L1	 
+PP2/AG1879 tyrosine kinase inhibitor	chemical - kinase inhibitor	2.61E-02	DEFB4A/DEFB4B	 
+MBD3	other	2.61E-02	CRYBB2	 
+zinc	chemical drug	2.64E-02	TMPRSS11D	 
+miR-2053 (miRNAs w/seed UGUUAAU)	mature microRNA	2.93E-02	KRT24	 
+YBX1	transcription regulator	2.96E-02	DEFB4A/DEFB4B	 
+miR-3191-5p (miRNAs w/seed UCUCUGG)	mature microRNA	2.99E-02	CRYBB2,TMPRSS11D	 
+ETV5	transcription regulator	3.08E-02	CHI3L1	 
+Ifn gamma	complex	3.11E-02	CHI3L1	 
+bee venom	chemical - endogenous non-mammalian	3.11E-02	CRYBA4	 
+miR-518c-5p (miRNAs w/seed CUCUGGA)	mature microRNA	3.17E-02	CRYBB2,TMPRSS11D	 
+miR-298 (miRNAs w/seed GCAGAAG)	mature microRNA	3.17E-02	CRYBA4,KRT24	 
+caffeic acid phenethyl ester	chemical drug	3.30E-02	DEFB4A/DEFB4B	 
+IL1B	cytokine	3.42E-02	CHI3L1,DEFB4A/DEFB4B	 
+peptidoglycan	chemical - endogenous non-mammalian	3.52E-02	DEFB4A/DEFB4B	 
+hyaluronic acid	chemical - endogenous mammalian	3.61E-02	DEFB4A/DEFB4B	 
+oleic acid	chemical - endogenous mammalian	3.71E-02	DEFB4A/DEFB4B	 
+MECP2	transcription regulator	3.80E-02	CRYBB2	 
+GSK3B	kinase	3.80E-02	DEFB4A/DEFB4B	 
+IL22	cytokine	3.89E-02	DEFB4A/DEFB4B	 
+IL12 (family)	group	3.96E-02	DEFB4A/DEFB4B	 
+Sb202190	chemical - kinase inhibitor	3.99E-02	DEFB4A/DEFB4B	 
+JAK2	kinase	4.02E-02	DEFB4A/DEFB4B	 
+reactive oxygen species	chemical toxicant	4.02E-02	DEFB4A/DEFB4B	 
+Tnf (family)	group	4.70E-02	DEFB4A/DEFB4B	 
+Pam3-Cys-Ser-Lys4	chemical reagent	4.92E-02	DEFB4A/DEFB4B	 
+TWIST1	transcription regulator	4.95E-02	CHI3L1	 

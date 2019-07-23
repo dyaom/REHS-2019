@@ -1,0 +1,14 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Ingenuity Canonical Pathways	 -log(p-value)	Ratio	z-score	Molecules
+Sucrose Degradation V (Mammalian)	5.18E00	2.22E-01	NaN	ALDOB,KHK
+Glycine Biosynthesis III	3.04E00	5E-01	NaN	AGXT2
+D-glucuronate Degradation I	2.87E00	3.33E-01	NaN	CRYL1
+Lactose Degradation III	2.57E00	1.67E-01	NaN	GBA3
+Leukotriene Biosynthesis	2.23E00	7.69E-02	NaN	DPEP1
+Vitamin-C Transport	2.14E00	6.25E-02	NaN	SLC23A1
+Maturity Onset Diabetes of Young (MODY) Signaling	2.03E00	4.76E-02	NaN	ALDOB
+Glycolysis I	1.93E00	3.85E-02	NaN	ALDOB
+Gluconeogenesis I	1.93E00	3.85E-02	NaN	ALDOB
+Eicosanoid Signaling	1.55E00	1.56E-02	NaN	DPEP1
+Antioxidant Action of Vitamin C	1.33E00	9.35E-03	NaN	SLC23A1

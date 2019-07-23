@@ -1,0 +1,90 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital cataract	3.13E-24	BFSP1,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS,MIP	11
+Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract disease	1.22E-22	BFSP1,BFSP2,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS,LIM2,MIP	13
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant cataract disease	1.44E-18	BFSP2,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBB2,CRYBB3,CRYGD,CRYGS	8
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Hereditary Eye Disease	2.64E-17	BFSP1,BFSP2,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS,KRT12,KRT3,LIM2,MIP	14
+Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract	2.83E-16	BFSP1,CRYAA/CRYAA2,CRYBA1,CRYBA4,LIM2,MIP	6
+Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract	1.90E-13	BFSP1,CRYAA/CRYAA2,CRYBA2,CRYBB1,CRYBB3	5
+Visual System Development and Function	Vision	7.87E-13	BFSP2,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,CRYGD,KRT12,MIP	8
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Familial congenital cataract	1.17E-12	BFSP1,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBB1,CRYBB3	6
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive cataract disease	6.01E-11	BFSP1,CRYAA/CRYAA2,CRYBB1,CRYBB3,LIM2	5
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital nuclear cataract	6.15E-11	CRYAA/CRYAA2,CRYBA2,CRYBB1,CRYBB3	4
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Formation of eye	2.44E-10	BFSP1,BFSP2,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,CRYGD,CRYGS,KRT12,LIM2	10
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of anterior segment of the eye	1.70E-09	BFSP1,BFSP2,CRYAA/CRYAA2,CRYBB2,CRYGS,KRT12	6
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of lens	2.10E-09	BFSP1,BFSP2,CRYAA/CRYAA2,CRYBB2,CRYGS	5
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Visual System Development and Function	Morphogenesis of camera-type eye	3.65E-09	CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,LIM2	5
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital cataract	4.22E-09	BFSP1,CRYAA/CRYAA2,CRYBB1,CRYBB3	4
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Tissue Morphology,Visual System Development and Function	Morphology of lens tissue	1.10E-08	BFSP1,BFSP2,CRYAA/CRYAA2,CRYGS	4
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant nuclear cataract	1.95E-08	CRYAA/CRYAA2,CRYBA2,CRYBB3	3
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital zonular cataract	5.45E-08	CRYAA/CRYAA2,CRYBA1,CRYBA4	3
+Embryonic Development,Organismal Development	Development of head	1.04E-07	BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,CRYGD,CRYGS,KRT12,LIM2	11
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant congenital eye anomaly	2.69E-07	CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBB3	4
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital eye anomaly	7.29E-07	BFSP1,CRYAA/CRYAA2,CRYBB1,CRYBB3	4
+Ophthalmic Disease,Organismal Injury and Abnormalities	Punctate cataract disease	1.03E-06	BFSP1,CRYGD	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant Meesmann corneal dystrophy	1.03E-06	KRT12,KRT3	2
+Cell Morphology,Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Tissue Morphology,Visual System Development and Function	Abnormal morphology of lens fiber cells	1.48E-06	BFSP1,BFSP2,CRYGS	3
+Ophthalmic Disease,Organismal Injury and Abnormalities	Exfoliative glaucoma	2.50E-06	APOD,CRYBA1,LGSN	3
+Ophthalmic Disease,Organismal Injury and Abnormalities	Cortical cataract	3.09E-06	BFSP1,LIM2	2
+Ophthalmic Disease,Organismal Injury and Abnormalities	Glaucoma	4.24E-06	ANGPTL7,APOD,CRYBA1,LGSN	4
+Ophthalmic Disease,Organismal Injury and Abnormalities	Juvenile cataract	1.03E-05	BFSP1,CRYGD	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant perinuclear cataract	2.16E-05	CRYAA/CRYAA2,CRYBA1	2
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Microcornea	2.87E-05	CRYAA/CRYAA2,CRYGD	2
+Cellular Assembly and Organization,Cellular Function and Maintenance	Organization of intermediate filament cytoskeleton	1.56E-04	BFSP2,KRT3	2
+Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of head	3.39E-04	BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBB2,CRYGS,KRT12	7
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Microphthalmia-anophthalmia-coloboma spectrum	4.07E-04	BFSP1,CRYAA/CRYAA2,CRYBB2	3
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant multiple types cataract 22	1.04E-03	CRYBB3	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital zonular cataract with sutural opacities 10	1.04E-03	CRYBA1	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Sutural cataract with punctate and cerulean opacities	1.04E-03	CRYBB2	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear lamellar cataract 9	1.04E-03	CRYAA/CRYAA2	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract type 42	1.04E-03	CRYBA2	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Multiple types cataract 20	1.04E-03	CRYGS	1
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Tissue Morphology,Visual System Development and Function	Opacity of lens tissue	1.04E-03	CRYAA/CRYAA2	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive cortical pulverulent cataract 19	1.04E-03	LIM2	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Progressive juvenile onset punctate cataract	1.04E-03	CRYGD	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital nuclear cataract type 3	1.04E-03	CRYBB1	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Multiple types cataract 12	1.04E-03	BFSP2	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar with sutural opacities cataract 15	1.04E-03	MIP	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive childhood-onset cortical cataract	1.04E-03	BFSP1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract 9 with microcornea	1.04E-03	CRYAA/CRYAA2	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive total cataract 9 with microcornea	1.04E-03	CRYAA/CRYAA2	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract 4 with microcornea	1.04E-03	CRYGD	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant cataract with microcornea	1.04E-03	CRYAA/CRYAA2	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital nuclear cataract type 2	1.04E-03	CRYBB3	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract type 23	1.04E-03	CRYBA4	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract type 33	1.04E-03	BFSP1	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Punctate lamellar cataract type 33	1.04E-03	BFSP1	1
+Cellular Assembly and Organization,Cellular Compromise	Disruption of keratin intermediate filaments	2.07E-03	KRT12	1
+Cell Death and Survival	Disintegration of secondary lens fiber cells	2.07E-03	CRYAA/CRYAA2	1
+Cell Death and Survival	Apoptosis of lens epithelium	3.11E-03	CRYAA/CRYAA2	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Uptake of arachidonic acid	3.11E-03	APOD	1
+Cellular Function and Maintenance	Regulation of smooth muscle cells	4.15E-03	APOD	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Microphthalmia	5.18E-03	CRYAA/CRYAA2,CRYBB2	2
+Nervous System Development and Function,Neurological Disease,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of olfactory tract	6.21E-03	CRTAC1	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Large intestine adenocarcinoma	8.63E-03	ANGPTL7,APOD,BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBB1,CRYBB2,CRYBB3,CRYGD,KRT12,KRT3,LGSN,LIM2,MIP,OPTC,UPK1B	19
+Cancer,Organismal Injury and Abnormalities	Abdominal neoplasm	1.08E-02	ANGPTL7,APOD,BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,ERICH5,KRT12,KRT3,LGSN,LIM2,MIP,OPTC,RARRES1,UPK1B	22
+Cancer,Organismal Injury and Abnormalities	Extracranial solid tumor	1.09E-02	ANGPTL7,APOD,BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS,ERICH5,KRT12,KRT3,LGSN,LIM2,MIP,OPTC,RARRES1,UPK1B	23
+Cell Morphology,Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Keratinization of epidermis	1.16E-02	KRT12,KRT3	2
+Endocrine System Development and Function,Endocrine System Disorders,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Nodular goiter	1.24E-02	APOD	1
+Cardiovascular System Development and Function,Organismal Development	Formation of neovessel	1.34E-02	OPTC	1
+Connective Tissue Disorders,Immunological Disease,Inflammatory Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Systemic lupus erythematosus	1.48E-02	CRYAA/CRYAA2,CRYBA4,CRYBB2	3
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Activation of monocyte-derived dendritic cells	1.65E-02	CRYAA/CRYAA2	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Digestive organ tumor	1.73E-02	ANGPTL7,APOD,BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,ERICH5,KRT12,KRT3,LGSN,LIM2,MIP,OPTC,UPK1B	21
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Tissue Morphology,Visual System Development and Function	Abnormal morphology of corneal epithelial tissue	1.85E-02	KRT12	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Clearance of triacylglycerol	1.85E-02	APOD	1
+Molecular Transport	Transport of water	2.26E-02	MIP	1
+Cellular Development,Tissue Development,Visual System Development and Function	Differentiation of lens fiber cells	2.26E-02	CRYGD	1
+Cancer,Organismal Injury and Abnormalities	Abdominal adenocarcinoma	2.52E-02	ANGPTL7,APOD,BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBB1,CRYBB2,CRYBB3,CRYGD,ERICH5,KRT12,KRT3,LGSN,LIM2,MIP,OPTC,UPK1B	20
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Transport of bile acid	2.87E-02	MIP	1
+Post-Translational Modification	Aggregation of protein	2.97E-02	CRYAA/CRYAA2	1
+Cancer,Organismal Injury and Abnormalities	Carcinoma	3.11E-02	ANGPTL7,APOD,BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS,ERICH5,KRT12,KRT3,LGSN,LIM2,MIP,OPTC,RARRES1,UPK1B	22
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Concentration of arachidonic acid	3.17E-02	APOD	1
+Cardiovascular System Development and Function,Cell Death and Survival,Skeletal and Muscular System Development and Function	Cell viability of cardiomyocytes	3.37E-02	APOD	1
+Cardiovascular System Development and Function,Organ Morphology,Skeletal and Muscular System Development and Function,Tissue Morphology	Quantity of cardiomyocytes	3.47E-02	APOD	1
+Cancer,Organismal Injury and Abnormalities	Abdominal cancer	3.61E-02	ANGPTL7,APOD,BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBB1,CRYBB2,CRYBB3,CRYGD,ERICH5,KRT12,KRT3,LGSN,LIM2,MIP,OPTC,RARRES1,UPK1B	21
+Cellular Assembly and Organization,Nervous System Development and Function	Fasciculation of axons	3.77E-02	CRTAC1	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Coloboma	4.17E-02	BFSP1	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Digestive system cancer	4.26E-02	ANGPTL7,APOD,BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBB1,CRYBB2,CRYBB3,CRYGD,ERICH5,KRT12,KRT3,LGSN,LIM2,MIP,OPTC,UPK1B	20
+Behavior	Motor learning	4.77E-02	APOD	1
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Cutaneous melanoma	4.91E-02	ANGPTL7,APOD,BFSP1,BFSP2,CRYBB2,CRYGD,ERICH5,KRT12,KRT3,LGSN,LIM2,MIP,OPTC,UPK1B	14

@@ -1,0 +1,12 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Ingenuity Canonical Pathways	 -log(p-value)	Ratio	z-score	Molecules
+Role of IL-17A in Psoriasis	2.39E00	7.69E-02	NaN	DEFB4A/DEFB4B
+Differential Regulation of Cytokine Production in Intestinal Epithelial Cells by IL-17A and IL-17F	2.14E00	4.35E-02	NaN	DEFB4A/DEFB4B
+Oncostatin M Signaling	1.87E00	2.33E-02	NaN	CHI3L1
+IL-17A Signaling in Airway Cells	1.69E00	1.54E-02	NaN	DEFB4A/DEFB4B
+TREM1 Signaling	1.63E00	1.33E-02	NaN	DEFB4A/DEFB4B
+IL-17 Signaling	1.6E00	1.23E-02	NaN	DEFB4A/DEFB4B
+Th17 Activation Pathway	1.55E00	1.1E-02	NaN	DEFB4A/DEFB4B
+Neuroprotective Role of THOP1 in Alzheimer's Disease	1.44E00	8.62E-03	NaN	TMPRSS11D
+Glucocorticoid Receptor Signaling	9.91E-01	2.97E-03	NaN	KRT24
