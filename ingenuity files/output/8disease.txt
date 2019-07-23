@@ -1,0 +1,142 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital cataract	5.60E-20	BFSP1,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS,MIP	10
+Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract disease	2.08E-18	BFSP1,BFSP2,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS,LIM2,MIP	12
+Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract	2.06E-15	BFSP1,CRYAA/CRYAA2,CRYBA1,CRYBA4,LIM2,MIP	6
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Hereditary Eye Disease	7.10E-15	BFSP1,BFSP2,CPAMD8,CRYAA/CRYAA2,CRYBA1,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS,KRT12,KRT3,LIM2,MIP	14
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant cataract disease	7.73E-15	BFSP2,CRYAA/CRYAA2,CRYBA1,CRYBB2,CRYBB3,CRYGD,CRYGS	7
+Visual System Development and Function	Vision	1.82E-13	BFSP2,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,CRYGD,KRT12,MIP,PLCB4	9
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Formation of eye	1.97E-11	BFSP1,BFSP2,CPAMD8,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,CRYGD,CRYGS,KRT12,LCTL,LIM2	12
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of lens	9.83E-11	BFSP1,BFSP2,CRYAA/CRYAA2,CRYBB2,CRYGS,LCTL	6
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of anterior segment of the eye	2.13E-10	BFSP1,BFSP2,CRYAA/CRYAA2,CRYBB2,CRYGS,KRT12,LCTL	7
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive cataract disease	3.02E-10	BFSP1,CRYAA/CRYAA2,CRYBB1,CRYBB3,LIM2	5
+Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract	6.54E-10	BFSP1,CRYAA/CRYAA2,CRYBB1,CRYBB3	4
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Familial congenital cataract	1.40E-09	BFSP1,CRYAA/CRYAA2,CRYBA1,CRYBB1,CRYBB3	5
+Embryonic Development,Organismal Development	Development of head	4.66E-09	BFSP1,BFSP2,CPAMD8,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,CRYGD,CRYGS,KRT12,LCTL,LIM2,PLCB4	14
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital cataract	1.49E-08	BFSP1,CRYAA/CRYAA2,CRYBB1,CRYBB3	4
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Visual System Development and Function	Morphogenesis of camera-type eye	1.81E-08	CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,LIM2	5
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Tissue Morphology,Visual System Development and Function	Morphology of lens tissue	3.88E-08	BFSP1,BFSP2,CRYAA/CRYAA2,CRYGS	4
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital nuclear cataract	1.38E-07	CRYAA/CRYAA2,CRYBB1,CRYBB3	3
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital zonular cataract	1.38E-07	CRYAA/CRYAA2,CRYBA1,CRYBA4	3
+Ophthalmic Disease,Organismal Injury and Abnormalities	Punctate cataract disease	1.89E-06	BFSP1,CRYGD	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant Meesmann corneal dystrophy	1.89E-06	KRT12,KRT3	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital eye anomaly	2.54E-06	BFSP1,CRYAA/CRYAA2,CRYBB1,CRYBB3	4
+Cell Morphology,Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Tissue Morphology,Visual System Development and Function	Abnormal morphology of lens fiber cells	3.75E-06	BFSP1,BFSP2,CRYGS	3
+Ophthalmic Disease,Organismal Injury and Abnormalities	Cortical cataract	5.68E-06	BFSP1,LIM2	2
+Ophthalmic Disease,Organismal Injury and Abnormalities	Exfoliative glaucoma	6.31E-06	APOD,CRYBA1,LGSN	3
+Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of head	1.02E-05	BFSP1,BFSP2,CRTAC1,CRYAA/CRYAA2,CRYBB2,CRYGS,KRT12,LCTL,PCP4,PLCB4	10
+Ophthalmic Disease,Organismal Injury and Abnormalities	Glaucoma	1.46E-05	ANGPTL7,APOD,CRYBA1,LGSN	4
+Ophthalmic Disease,Organismal Injury and Abnormalities	Juvenile cataract	1.89E-05	BFSP1,CRYGD	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant nuclear cataract	2.83E-05	CRYAA/CRYAA2,CRYBB3	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant perinuclear cataract	3.96E-05	CRYAA/CRYAA2,CRYBA1	2
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Microcornea	5.28E-05	CRYAA/CRYAA2,CRYGD	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant congenital eye anomaly	5.86E-05	CRYAA/CRYAA2,CRYBA1,CRYBB3	3
+Endocrine System Development and Function,Endocrine System Disorders,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Nodular goiter	1.24E-04	APOD,PCP4	2
+Cellular Assembly and Organization,Cellular Function and Maintenance	Organization of intermediate filament cytoskeleton	2.86E-04	BFSP2,KRT3	2
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Microphthalmia-anophthalmia-coloboma spectrum	9.95E-04	BFSP1,CRYAA/CRYAA2,CRYBB2	3
+Cancer,Organismal Injury and Abnormalities	Abdominal neoplasm	1.37E-03	ANGPTL7,APOD,BFSP1,BFSP2,CPAMD8,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,DAPL1,DEFB4A/DEFB4B,ERICH5,KCNE4,KRT12,KRT24,KRT3,LCTL,LGSN,LIM2,MIP,OPTC,PCP4,PLCB4,RARRES1,TMPRSS11D,UPK1B	30
+Cell Morphology,Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Keratinization of epidermis	1.38E-03	KRT12,KRT24,KRT3	3
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant multiple types cataract 22	1.40E-03	CRYBB3	1
+Infectious Diseases	Viral entry by respiratory syncytial virus	1.40E-03	DEFB4A/DEFB4B	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear lamellar cataract 9	1.40E-03	CRYAA/CRYAA2	1
+Cell-To-Cell Signaling and Interaction	Activation of skin cell lines	1.40E-03	DEFB4A/DEFB4B	1
+Cell Death and Survival	Killing of Helicobacter pylori	1.40E-03	DEFB4A/DEFB4B	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive cortical pulverulent cataract 19	1.40E-03	LIM2	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital nuclear cataract type 3	1.40E-03	CRYBB1	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Multiple types cataract 12	1.40E-03	BFSP2	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar with sutural opacities cataract 15	1.40E-03	MIP	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive childhood-onset cortical cataract	1.40E-03	BFSP1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive total cataract 9 with microcornea	1.40E-03	CRYAA/CRYAA2	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract 4 with microcornea	1.40E-03	CRYGD	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Anterior segment dysgenesis 8	1.40E-03	CPAMD8	1
+Cell-mediated Immune Response,Cell-To-Cell Signaling and Interaction,Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response,Lymphoid Tissue Structure and Development	Chemoattraction of effector T lymphocytes	1.40E-03	DEFB4A/DEFB4B	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract type 23	1.40E-03	CRYBA4	1
+Cell Death and Survival	Killing of Propionibacterium acnes	1.40E-03	DEFB4A/DEFB4B	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract type 33	1.40E-03	BFSP1	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Punctate lamellar cataract type 33	1.40E-03	BFSP1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital zonular cataract with sutural opacities 10	1.40E-03	CRYBA1	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Sutural cataract with punctate and cerulean opacities	1.40E-03	CRYBB2	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Multiple types cataract 20	1.40E-03	CRYGS	1
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Tissue Morphology,Visual System Development and Function	Opacity of lens tissue	1.40E-03	CRYAA/CRYAA2	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Progressive juvenile onset punctate cataract	1.40E-03	CRYGD	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Auriculocondylar syndrome type 2	1.40E-03	PLCB4	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract 9 with microcornea	1.40E-03	CRYAA/CRYAA2	1
+Cell Death and Survival	Killing of Streptococcus pneumoniae strain 6b	1.40E-03	DEFB4A/DEFB4B	1
+Cell Death and Survival	Killing of Streptococcus pneumoniae strain 3	1.40E-03	DEFB4A/DEFB4B	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant cataract with microcornea	1.40E-03	CRYAA/CRYAA2	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital nuclear cataract type 2	1.40E-03	CRYBB3	1
+Behavior	Motor learning	1.97E-03	APOD,PCP4	2
+Cancer,Organismal Injury and Abnormalities	Extracranial solid tumor	2.25E-03	ANGPTL7,APOD,BFSP1,BFSP2,CPAMD8,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS,DAPL1,DEFB4A/DEFB4B,ERICH5,KCNE4,KRT12,KRT24,KRT3,LCTL,LGSN,LIM2,MIP,OPTC,PCP4,PLCB4,RARRES1,TMPRSS11D,UPK1B	31
+Cell Death and Survival	Killing of Moraxella catarrhalis	2.80E-03	DEFB4A/DEFB4B	1
+Cellular Assembly and Organization,Cellular Compromise	Disruption of keratin intermediate filaments	2.80E-03	KRT12	1
+Cell Death and Survival,Organismal Survival	Survival of Francisella novicida	2.80E-03	DEFB4A/DEFB4B	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Auriculocondylar syndrome type 1	2.80E-03	PLCB4	1
+Cell Death and Survival	Disintegration of secondary lens fiber cells	2.80E-03	CRYAA/CRYAA2	1
+Cell Death and Survival	Killing of Campylobacter jejuni	2.80E-03	DEFB4A/DEFB4B	1
+Organismal Injury and Abnormalities,Reproductive System Disease	Adenomyosis	3.62E-03	KCNE4,PLCB4	2
+Cell Death and Survival	Apoptosis of lens epithelium	4.19E-03	CRYAA/CRYAA2	1
+Antimicrobial Response	Inactivation of HIV-1	4.19E-03	DEFB4A/DEFB4B	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Uptake of arachidonic acid	4.19E-03	APOD	1
+Cancer,Organismal Injury and Abnormalities	Abdominal cancer	5.32E-03	ANGPTL7,APOD,BFSP1,BFSP2,CPAMD8,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBB1,CRYBB2,CRYBB3,CRYGD,DAPL1,DEFB4A/DEFB4B,ERICH5,KCNE4,KRT12,KRT24,KRT3,LCTL,LGSN,LIM2,MIP,OPTC,PCP4,PLCB4,RARRES1,TMPRSS11D,UPK1B	29
+Cellular Function and Maintenance	Regulation of smooth muscle cells	5.58E-03	APOD	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Long-term potentiation of excitatory synapses	5.58E-03	PCP4	1
+Neurological Disease	Abnormal function of nervous system	5.59E-03	APOD,PLCB4	2
+Cancer,Organismal Injury and Abnormalities	Carcinoma	6.10E-03	ANGPTL7,APOD,BFSP1,BFSP2,CPAMD8,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS,DAPL1,DEFB4A/DEFB4B,ERICH5,KCNE4,KRT12,KRT24,KRT3,LCTL,LGSN,LIM2,MIP,OPTC,PCP4,PLCB4,RARRES1,TMPRSS11D,UPK1B	30
+Cell-To-Cell Signaling and Interaction	Signaling of leukocyte cell lines	6.98E-03	PLCB4	1
+Cell Death and Survival	Killing of Haemophilus influenzae	6.98E-03	DEFB4A/DEFB4B	1
+Infectious Diseases	Activation of Influenza A virus	8.37E-03	TMPRSS11D	1
+Nervous System Development and Function,Neurological Disease,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of olfactory tract	8.37E-03	CRTAC1	1
+Cancer,Organismal Injury and Abnormalities	Abdominal adenocarcinoma	8.67E-03	ANGPTL7,APOD,BFSP1,BFSP2,CPAMD8,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBB1,CRYBB2,CRYBB3,CRYGD,DEFB4A/DEFB4B,ERICH5,KCNE4,KRT12,KRT24,KRT3,LCTL,LGSN,LIM2,MIP,OPTC,PCP4,PLCB4,TMPRSS11D,UPK1B	27
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Microphthalmia	9.28E-03	CRYAA/CRYAA2,CRYBB2	2
+Cancer,Organismal Injury and Abnormalities	Abdominal carcinoma	1.00E-02	ANGPTL7,APOD,BFSP1,BFSP2,CPAMD8,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBB1,CRYBB2,CRYBB3,CRYGD,DAPL1,DEFB4A/DEFB4B,ERICH5,KCNE4,KRT12,KRT24,KRT3,LCTL,LGSN,LIM2,MIP,OPTC,PCP4,PLCB4,TMPRSS11D,UPK1B	28
+Dermatological Diseases and Conditions,Infectious Diseases,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Hidradenitis suppurativa	1.11E-02	DEFB4A/DEFB4B	1
+Cell Death and Survival,Organismal Survival	Survival of Francisella tularensis	1.11E-02	DEFB4A/DEFB4B	1
+Cellular Movement,Hematological System Development and Function,Hypersensitivity Response,Immune Cell Trafficking,Inflammatory Response	Migration of bone marrow-derived mast cells	1.25E-02	DEFB4A/DEFB4B	1
+Dermatological Diseases and Conditions,Immunological Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Advanced stage atopic dermatitis	1.25E-02	DEFB4A/DEFB4B	1
+Nervous System Development and Function	Pupillary light reflex	1.25E-02	PLCB4	1
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Activation of dendritic cells	1.38E-02	CRYAA/CRYAA2,DEFB4A/DEFB4B	2
+Cell Morphology,Cellular Movement,Nervous System Development and Function	Innervation of Purkinje cells	1.39E-02	PLCB4	1
+Infectious Diseases	Production of Influenza A virus	1.39E-02	TMPRSS11D	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Large intestine adenocarcinoma	1.40E-02	ANGPTL7,APOD,BFSP1,BFSP2,CPAMD8,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBB1,CRYBB2,CRYBB3,CRYGD,KCNE4,KRT12,KRT3,LCTL,LGSN,LIM2,MIP,OPTC,PCP4,PLCB4,TMPRSS11D,UPK1B	24
+Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Migration of monocyte-derived macrophages	1.67E-02	DEFB4A/DEFB4B	1
+Cell-To-Cell Signaling and Interaction	Signaling of macrophages	1.67E-02	PLCB4	1
+Cardiovascular System Development and Function,Organismal Development	Formation of neovessel	1.80E-02	OPTC	1
+Infectious Diseases	Infection by respiratory syncytial virus	1.94E-02	DEFB4A/DEFB4B	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Long term synaptic depression of cerebellum	1.94E-02	PLCB4	1
+Dermatological Diseases and Conditions,Immunological Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Moderate atopic dermatitis	1.94E-02	DEFB4A/DEFB4B	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Chronic psoriasis	2.00E-02	DEFB4A/DEFB4B,PCP4	2
+Cellular Movement,Digestive System Development and Function	Migration of intestinal cell lines	2.08E-02	DEFB4A/DEFB4B	1
+Cell-mediated Immune Response,Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response,Lymphoid Tissue Structure and Development	Chemotaxis of memory T lymphocytes	2.08E-02	DEFB4A/DEFB4B	1
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Cutaneous melanoma	2.13E-02	ANGPTL7,APOD,BFSP1,BFSP2,CPAMD8,CRYBB2,CRYGD,ERICH5,KRT12,KRT24,KRT3,LGSN,LIM2,MIP,OPTC,PCP4,PLCB4,TMPRSS11D,UPK1B	19
+Cancer,Organismal Injury and Abnormalities	Mixed neoplasia	2.13E-02	CRTAC1,CRYBA1,DAPL1,KCNE4,KRT24,MIP,TMPRSS11D	7
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Activation of monocyte-derived dendritic cells	2.22E-02	CRYAA/CRYAA2	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Release of eicosanoid	2.25E-02	APOD,DEFB4A/DEFB4B	2
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Psoriasis	2.31E-02	APOD,DEFB4A/DEFB4B,PCP4,RARRES1	4
+Infectious Diseases,Organismal Development	Growth of Influenza A virus	2.35E-02	TMPRSS11D	1
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Tissue Morphology,Visual System Development and Function	Abnormal morphology of corneal epithelial tissue	2.49E-02	KRT12	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Clearance of triacylglycerol	2.49E-02	APOD	1
+Cell Death and Survival	Killing of Staphylococcus aureus	2.49E-02	DEFB4A/DEFB4B	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Digestive organ tumor	2.66E-02	ANGPTL7,APOD,BFSP1,BFSP2,CPAMD8,CRTAC1,CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,ERICH5,KCNE4,KRT12,KRT24,KRT3,LCTL,LGSN,LIM2,MIP,OPTC,PCP4,PLCB4,TMPRSS11D,UPK1B	27
+Molecular Transport	Transport of water	3.03E-02	MIP	1
+Cellular Development,Tissue Development,Visual System Development and Function	Differentiation of lens fiber cells	3.03E-02	CRYGD	1
+Organismal Functions	Hypoactivity of mice	3.12E-02	APOD,PLCB4	2
+Infectious Diseases,Respiratory Disease	Infection of lung cancer cell lines	3.17E-02	DEFB4A/DEFB4B	1
+Cellular Movement	Migration of macrophage cancer cell lines	3.17E-02	DEFB4A/DEFB4B	1
+Connective Tissue Disorders,Immunological Disease,Inflammatory Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Systemic lupus erythematosus	3.30E-02	CRYAA/CRYAA2,CRYBA4,CRYBB2	3
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Release of leukotriene C4	3.31E-02	DEFB4A/DEFB4B	1
+Dermatological Diseases and Conditions,Inflammatory Disease,Organismal Injury and Abnormalities	Acne vulgaris	3.58E-02	DEFB4A/DEFB4B	1
+Nervous System Development and Function,Neurological Disease,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of telencephalon	3.68E-02	CRTAC1,PCP4	2
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Abnormal synaptic transmission	3.71E-02	PLCB4	1
+Infectious Diseases	Infection of carcinoma cell lines	3.71E-02	DEFB4A/DEFB4B	1
+Cell-To-Cell Signaling and Interaction,Inflammatory Response	Response of bone marrow-derived macrophages	3.85E-02	PLCB4	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Transport of bile acid	3.85E-02	MIP	1
+Post-Translational Modification	Aggregation of protein	3.98E-02	CRYAA/CRYAA2	1
+Neurological Disease	Short stride length	4.12E-02	PLCB4	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Concentration of arachidonic acid	4.25E-02	APOD	1
+Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Migration of bone marrow-derived macrophages	4.25E-02	DEFB4A/DEFB4B	1
+Cellular Movement,Hematological System Development and Function,Hypersensitivity Response,Immune Cell Trafficking,Inflammatory Response	Chemotaxis of mast cells	4.38E-02	DEFB4A/DEFB4B	1
+Cell Morphology,Developmental Disorder,Embryonic Development,Organismal Development,Tissue Morphology	Abnormal morphology of granule neuron progenitor cells	4.52E-02	PLCB4	1
+Cardiovascular System Development and Function,Cell Death and Survival,Skeletal and Muscular System Development and Function	Cell viability of cardiomyocytes	4.52E-02	APOD	1
+Cardiovascular System Development and Function,Organ Morphology,Skeletal and Muscular System Development and Function,Tissue Morphology	Quantity of cardiomyocytes	4.65E-02	APOD	1
+Lipid Metabolism,Small Molecule Biochemistry	Synthesis of prostaglandin D2	4.92E-02	DEFB4A/DEFB4B	1

@@ -1,0 +1,4 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+ID	Molecules in Network	Score	Focus Molecules	Top Diseases and Functions	
+1	ARSI,Ccl27a,CD163L1,CHI3L1,COL16A1,CRYBA4,CRYBB2,CUL4B,D-galactose,DAPL1,DEFB114,DEFB4A/DEFB4B,estriol,glycosylphosphatidylinositol,IL-17f dimer,IL13,IL17a dimer,Il31,KRT24,L-lactic acid,lauric acid,Mbl1,miR-3612 (and other miRNAs w/seed GGAGGCA),miR-4271 (and other miRNAs w/seed GGGGAAG),mir-650,N-arachidonoyl-dopamine,NNMT,SCAVENGER receptor CLASS A,sesamol,sPla2,TCHH,TMPRSS11D,TMPRSS7,TNF,VPREB3	21	7	[Cell Death and Survival, Hereditary Disorder, Inflammatory Disease]

@@ -1,0 +1,5 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+ID	Molecules in Network	Score	Focus Molecules	Top Diseases and Functions	
+1	ACAN,ANGPTL7,AQP1,AQP4,CASP6,Complement,CRTAC1,CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGC,CRYGD,CRYGS,Cu2 ,D-galactose,DNAJB9,EFEMP1,GJA3,GLRX2,HSF4,HSP,KL,MAF,MAFA,MIP,OPTC,Relaxin,SERPINF1,TRAPPC9,Vegf	34	13	[Developmental Disorder, Ophthalmic Disease, Organismal Injury and Abnormalities]
+2	ALG3,APOD,Bcl9-Cbp/p300-Ctnnb1-Lef/Tcf,BFSP1,BFSP2,CTNNB1,Cxcl15,CYLD,Cytokeratin,ERICH5,ESD,Foxo,HSD17B2,KRT12,KRT23,KRT25,KRT27,KRT3,KRT34,LGSN,LIM2,LMNA,MFSD5,miR-182-5p (and other miRNAs w/seed UUGGCAA),miR-4269 (and other miRNAs w/seed CAGGCAC),MTOR,OTUD7A,p160,phosphorylcholine,RARA,RARRES1,TNFRSF10C,TRAF,TRAF6,UPK1B	23	10	[Cell Morphology, Embryonic Development, Hair and Skin Development and Function]

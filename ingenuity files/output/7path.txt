@@ -1,0 +1,13 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Ingenuity Canonical Pathways	 -log(p-value)	Ratio	z-score	Molecules
+Glucocorticoid Receptor Signaling	1.33E00	5.93E-03	NaN	KRT12,KRT3
+LXR/RXR Activation	9.28E-01	8.26E-03	NaN	APOD
+Atherosclerosis Signaling	9.17E-01	8.06E-03	NaN	APOD
+FXR/RXR Activation	9.1E-01	7.94E-03	NaN	APOD
+IL-12 Signaling and Production in Macrophages	8.89E-01	7.52E-03	NaN	APOD
+Aldosterone Signaling in Epithelial Cells	8.15E-01	6.29E-03	NaN	CRYAA/CRYAA2
+eNOS Signaling	8.12E-01	6.25E-03	NaN	MIP
+Production of Nitric Oxide and Reactive Oxygen Species in Macrophages	7.47E-01	5.29E-03	NaN	APOD
+Clathrin-mediated Endocytosis Signaling	7.38E-01	5.15E-03	NaN	APOD
+Protein Ubiquitination Pathway	6.06E-01	3.66E-03	NaN	CRYAA/CRYAA2

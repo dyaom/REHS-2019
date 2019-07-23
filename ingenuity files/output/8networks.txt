@@ -1,0 +1,6 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+ID	Molecules in Network	Score	Focus Molecules	Top Diseases and Functions	
+1	APOD,beta-estradiol,CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGC,CRYGD,CRYGS,D-galactose,estriol,ethylene glycol,KCNE4,Keratin,Krt10,KRT12,KRT222,KRT24,KRT3,KRT33A,KRT37,LGSN,MIP,miR-1273h-5p (and other miRNAs w/seed UGGGAGG),miR-1896 (and other miRNAs w/seed GGUGGGU),miR-4723-5p (and other miRNAs w/seed GGGGGAG),Mpo,Rps6ka5,SSTR4,TMPRSS11D,YJEFN3	41	16	[Developmental Disorder, Ophthalmic Disease, Organismal Injury and Abnormalities]
+2	2'-fucosyllactose,ADCYAP1,ADRA1,ANGPTL7,CDH2,chondroitin sulfate E,CPAMD8,CRTAC1,DAPL1,ERBB,ERICH5,Fc receptor,FGFR2,Il3r,Il8r,KLB,LCTL,LIM2,MTOR,OPTC,PKC (α,β,γ,δ,ε,ι),PLCB4,polyphosphate,PRKCA,proprotein convertase,riboflavin,SHC1,Synapsin,TNFRSF10C,TP63,Trk Receptor,Troponin t,UPK1B,Vegf,Vegfr dimer	23	10	[Cellular Movement, Embryonic Development, Organismal Development]
+3	AIRN,BDNF-AS,BFSP1,BFSP2,C16-dihydroceramide,CDKN2B-AS1,d18:0/24:0 dihydroceramide,DEFB4A/DEFB4B,FTX,GNAS-AS1,HEIH_NR_045680.1,IFNG,IPW,JPX,KRASP1,LINC00581_NR_103790.1,LINC00853,LUCAT1,MALAT1,Myhs,NRON,PCAT1,PCP4,PTCSC1,PTENP1-AS_NR_103745.2,Raet1b,RARRES1,RBM5-AS1,RPS6KA2-AS1,SIX3-AS1 variant 1,TLR3,TNF,TRDV2,TRERNA1,TUNAR	10	5	[Antimicrobial Response, Cell Death and Survival, Inflammatory Response]

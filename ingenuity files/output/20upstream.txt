@@ -1,0 +1,69 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Upstream Regulator	Molecule Type	p-value of overlap	Target molecules in dataset	Mechanistic Network	
+BSG	transporter	1.77E-04	ALDOB,PRAP1	 
+PPARA	ligand-dependent nuclear receptor	6.96E-04	ALDOB,KHK,PBLD	 
+LHX1	transcription regulator	7.98E-04	ALDOB,PDZK1	 
+PDZK1IP1	other	2.48E-03	PDZK1	 
+PKD1	ion channel	2.76E-03	DPEP1,PRAP1	 
+uridine	chemical - endogenous mammalian	3.31E-03	ALDOB	 
+FGF23	growth factor	4.96E-03	PDZK1	 
+HNF4α dimer	complex	5.78E-03	ALDOB	 
+Hnf3	group	5.78E-03	ALDOB	 
+miR-6792-5p (miRNAs w/seed UAAGCAG)	mature microRNA	6.16E-03	PBLD,PDZK1	 
+miR-569 (miRNAs w/seed GUUAAUG)	mature microRNA	6.41E-03	PBLD,PDZK1	 
+AQP1	transporter	6.60E-03	ALDOB	 
+IL10RA	transmembrane receptor	6.91E-03	ALDOB,DPEP1	 
+SCP2	transporter	7.84E-03	PDZK1	 
+miR-382-3p (miRNAs w/seed AUCAUUC)	mature microRNA	8.07E-03	ALDOB,PBLD	 
+miR-3108-3p (and other miRNAs w/seed GUCUAGG)	mature microRNA	8.35E-03	ALDOB,PRAP1	 
+GW7647	chemical drug	9.89E-03	SLC23A1	 
+miR-466d-5p (and other miRNAs w/seed GUGUGUG)	mature microRNA	9.91E-03	DPEP1,KHK,PBLD	 
+RNF31	enzyme	1.07E-02	PDZK1	 
+miR-6746-3p (miRNAs w/seed AGCCGCC)	mature microRNA	1.09E-02	PBLD,PDZK1	 
+miR-509-3p (miRNAs w/seed GAUUGGU)	mature microRNA	1.18E-02	ALDOB,PBLD	 
+carbohydrate	chemical - endogenous mammalian	1.19E-02	KHK	 
+MLXIPL	transcription regulator	1.24E-02	KHK	 
+miR-513c-5p (and other miRNAs w/seed UCUCAAG)	mature microRNA	1.31E-02	AGXT2,PBLD	 
+miR-548p (miRNAs w/seed AGCAAAA)	mature microRNA	1.31E-02	CRYL1,PBLD	 
+miR-4705 (and other miRNAs w/seed CAAUCAC)	mature microRNA	1.33E-02	CRYL1,PDZK1	 
+miR-4703-3p (miRNAs w/seed GUAGUUG)	mature microRNA	1.42E-02	PDZK1,SLC23A1	 
+miR-24-1-5p (and other miRNAs w/seed GCCUACU)	mature microRNA	1.42E-02	DPEP1,PBLD	 
+miR-380-3p (and other miRNAs w/seed AUGUAGU)	mature microRNA	1.45E-02	PDZK1,SLC23A1	 
+miR-6835-3p (miRNAs w/seed AAAGCAC)	mature microRNA	1.68E-02	ALDOB,PDZK1	 
+miR-1234-3p (and other miRNAs w/seed CGGCCUG)	mature microRNA	1.87E-02	CRYL1,PRAP1	 
+miR-4503 (miRNAs w/seed UUAAGCA)	mature microRNA	1.93E-02	PBLD,PDZK1	 
+miR-512-5p (miRNAs w/seed ACUCAGC)	mature microRNA	2.02E-02	ALDOB,CRYL1	 
+FIGLA	transcription regulator	2.29E-02	PDZK1	 
+miR-410-5p (and other miRNAs w/seed GGUUGUC)	mature microRNA	2.41E-02	AGXT2,ALDOB	 
+HOXD10	transcription regulator	2.58E-02	AGXT2	 
+BCL2L1	other	2.66E-02	PRAP1	 
+miR-3616-5p (and other miRNAs w/seed UGAAGUG)	mature microRNA	2.73E-02	PBLD,SLC23A1	 
+miR-6079 (miRNAs w/seed UGGAAGC)	mature microRNA	2.92E-02	CRYL1,PBLD	 
+miR-3921 (and other miRNAs w/seed CUCUGAG)	mature microRNA	2.97E-02	AGXT2,KHK	 
+miR-3130-5p (and other miRNAs w/seed ACCCAGU)	mature microRNA	3.02E-02	ALDOB,PDZK1	 
+cadmium	chemical toxicant	3.06E-02	AGXT2	 
+GCG	other	3.14E-02	PDZK1	 
+hemin	chemical - endogenous mammalian	3.26E-02	ALDOB	 
+miR-3913-3p (miRNAs w/seed GACAUCA)	mature microRNA	3.32E-02	AGXT2,PDZK1	 
+TRAF2	enzyme	3.34E-02	PRAP1	 
+miR-653-3p (and other miRNAs w/seed UCACUGG)	mature microRNA	3.56E-02	AGXT2,CRYL1	 
+miR-9-5p (and other miRNAs w/seed CUUUGGU)	mature microRNA	3.68E-02	ALDOB,PDZK1	 
+TCF	group	3.71E-02	DPEP1	 
+miR-2053 (miRNAs w/seed UGUUAAU)	mature microRNA	3.75E-02	PDZK1	 
+uric acid	chemical - endogenous mammalian	3.83E-02	KHK	 
+miR-3198 (and other miRNAs w/seed UGGAGUC)	mature microRNA	4.04E-02	DPEP1,PBLD	 
+TNFSF10	cytokine	4.06E-02	PRAP1	 
+miR-3909 (and other miRNAs w/seed GUCCUCU)	mature microRNA	4.13E-02	DPEP1,PBLD	 
+miR-6132 (and other miRNAs w/seed GCAGGGC)	mature microRNA	4.15E-02	CRYL1,DPEP1,SLC23A1	 
+miR-503-5p (miRNAs w/seed AGCAGCG)	mature microRNA	4.30E-02	ALDOB,PBLD	 
+miR-1537-5p (miRNAs w/seed GCUGUAA)	mature microRNA	4.30E-02	ALDOB,CRYL1	 
+Esrra	transcription regulator	4.34E-02	ALDOB	 
+miR-6841-3p (miRNAs w/seed CCUUGCA)	mature microRNA	4.36E-02	DPEP1,SLC23A1	 
+NCOA2	transcription regulator	4.50E-02	KHK	 
+2,4,5,2',4',5'-hexachlorobiphenyl	chemical toxicant	4.50E-02	SLC23A1	 
+miR-4659a-3p (and other miRNAs w/seed UUCUUCU)	mature microRNA	4.58E-02	AGXT2,PDZK1	 
+miR-6818-5p (miRNAs w/seed UGUGUGA)	mature microRNA	4.66E-02	ALDOB,PBLD	 
+trans-hydroxytamoxifen	chemical drug	4.74E-02	PDZK1	 
+HNF1B	transcription regulator	4.78E-02	ALDOB	 
+miR-646 (miRNAs w/seed AGCAGCU)	mature microRNA	4.85E-02	ALDOB,PDZK1	 

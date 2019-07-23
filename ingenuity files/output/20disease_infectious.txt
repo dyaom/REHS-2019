@@ -1,0 +1,75 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by E. coli	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Klebsiella	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Peptococcus	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Bacteroides fragilis	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Peptostreptococcus	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Staphylococcus epidermidis	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Propionibacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Morganella morganii	4.51E-04	DPEP1	1
+Hematological Disease,Infectious Diseases	Escherichia coli septicemia	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by fusobacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Staphylococcus aureus	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Citrobacter	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Klebsiella	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Morganella morganii	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by fusobacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Enterobacter	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Propionibacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Serratia marcescens	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Acinetobacter	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Haemophilus parainfluenzae	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Staphylococcus aureus	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Proteus	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Klebsiella	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Gardnerella vaginalis	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Peptococcus	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Providencia rettgeri	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Bifidobacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Proteus vulgaris	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Eubacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Staphylococcus epidermidis	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Acinetobacter	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Enterobacter	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Providencia rettgeri	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Bifidobacterium	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Clostridium	4.51E-04	DPEP1	1
+Infectious Diseases,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Healthcare-associated bacterial pneumonia	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by E. coli	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Pseudomonas aeruginosa	4.51E-04	DPEP1	1
+Hematological Disease,Infectious Diseases	Klebsiella septicemia	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	E. coli gynecologic infection	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Morganella morganii	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Enterococcus faecalis	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Staphylococcus epidermidis	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Staphylococcus aureus	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Proteus vulgaris	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Enterococcus faecalis gynecologic infection	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Peptostreptococcus gynecologic infection	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Streptococcus agalactiae gynecologic infection	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Bacteroides fragilis gynecologic infection	4.51E-04	DPEP1	1
+Infectious Diseases	Peptostreptococcus intra-abdominal infection	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Serratia	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Peptococcus	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Enterobacter	4.51E-04	DPEP1	1
+Infectious Diseases	Bacteroides fragilis intra-abdominal infection	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Haemophilus influenzae	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Staphylococcus aureus	4.51E-04	DPEP1	1
+Infectious Diseases,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Ventilator associated bacterial pneumonia	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Citrobacter	9.02E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Proteus	9.02E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Enterobacter	9.02E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Enterococcus faecalis	9.02E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Enterococcus faecalis	9.02E-04	DPEP1	1
+Infectious Diseases	Pseudomonas aeruginosa intra-abdominal infection	9.02E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Klebsiella	9.02E-04	DPEP1	1
+Infectious Diseases	E. coli intra-abdominal infection	9.02E-04	DPEP1	1
+Infectious Diseases	Complicated intra-abdominal infection	9.02E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by E. coli	1.35E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Klebsiella	1.35E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Pseudomonas aeruginosa	1.35E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Enterobacter	1.35E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Staphylococcus aureus	1.35E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Uncomplicated urinary tract infection	3.60E-03	DPEP1	1

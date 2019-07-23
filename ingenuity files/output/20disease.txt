@@ -1,0 +1,128 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Carbohydrate Metabolism,Small Molecule Biochemistry	Metabolism of D-fructose	1.10E-06	ALDOB,KHK	2
+Metabolic Disease,Organismal Injury and Abnormalities,Renal and Urological Disease	Aminoaciduria	1.92E-05	AGXT2,SLC23A1	2
+Molecular Transport	Transport of nitrogenous base	9.61E-05	PDZK1,SLC23A1	2
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by E. coli	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Klebsiella	4.51E-04	DPEP1	1
+Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities,Renal and Urological Disease	Beta-aminoisobutyric aciduria	4.51E-04	AGXT2	1
+Metabolic Disease,Organismal Injury and Abnormalities	Fructose intolerance	4.51E-04	ALDOB	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Peptococcus	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Bacteroides fragilis	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Peptostreptococcus	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Staphylococcus epidermidis	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Propionibacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Morganella morganii	4.51E-04	DPEP1	1
+Hematological Disease,Infectious Diseases	Escherichia coli septicemia	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by fusobacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Staphylococcus aureus	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Citrobacter	4.51E-04	DPEP1	1
+Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Essential fructosuria	4.51E-04	KHK	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Klebsiella	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Morganella morganii	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by fusobacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Enterobacter	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Propionibacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Serratia marcescens	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Acinetobacter	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Haemophilus parainfluenzae	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Staphylococcus aureus	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Proteus	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Klebsiella	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Gardnerella vaginalis	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Peptococcus	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Providencia rettgeri	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Bifidobacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Proteus vulgaris	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Eubacterium	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Staphylococcus epidermidis	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Acinetobacter	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Enterobacter	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Providencia rettgeri	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Bifidobacterium	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Clostridium	4.51E-04	DPEP1	1
+Infectious Diseases,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Healthcare-associated bacterial pneumonia	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by E. coli	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Pseudomonas aeruginosa	4.51E-04	DPEP1	1
+Organismal Injury and Abnormalities	Bleeding of parenchyma	4.51E-04	SLC23A1	1
+Hematological Disease,Infectious Diseases	Klebsiella septicemia	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	E. coli gynecologic infection	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Morganella morganii	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Enterococcus faecalis	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Staphylococcus epidermidis	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Staphylococcus aureus	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Proteus vulgaris	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Enterococcus faecalis gynecologic infection	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Peptostreptococcus gynecologic infection	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Streptococcus agalactiae gynecologic infection	4.51E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Bacteroides fragilis gynecologic infection	4.51E-04	DPEP1	1
+Infectious Diseases	Peptostreptococcus intra-abdominal infection	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Serratia	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Peptococcus	4.51E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Enterobacter	4.51E-04	DPEP1	1
+Infectious Diseases	Bacteroides fragilis intra-abdominal infection	4.51E-04	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Haemophilus influenzae	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Staphylococcus aureus	4.51E-04	DPEP1	1
+Infectious Diseases,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Ventilator associated bacterial pneumonia	4.51E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Citrobacter	9.02E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Proteus	9.02E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Enterobacter	9.02E-04	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Enterococcus faecalis	9.02E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Enterococcus faecalis	9.02E-04	DPEP1	1
+Carbohydrate Metabolism,Small Molecule Biochemistry	Phosphorylation of D-fructose	9.02E-04	KHK	1
+Infectious Diseases	Pseudomonas aeruginosa intra-abdominal infection	9.02E-04	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Klebsiella	9.02E-04	DPEP1	1
+Infectious Diseases	E. coli intra-abdominal infection	9.02E-04	DPEP1	1
+Infectious Diseases	Complicated intra-abdominal infection	9.02E-04	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by E. coli	1.35E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Klebsiella	1.35E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Pseudomonas aeruginosa	1.35E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Enterobacter	1.35E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Staphylococcus aureus	1.35E-03	DPEP1	1
+Cardiovascular System Development and Function,Organismal Development	Re-endothelialization of carotid artery	1.35E-03	PDZK1	1
+Organismal Injury and Abnormalities,Renal and Urological Disease	Abnormal renal clearance	1.80E-03	SLC23A1	1
+Carbohydrate Metabolism,Molecular Transport,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Uptake of ascorbic acid	1.80E-03	SLC23A1	1
+Gastrointestinal Disease	Abnormal absorption of vitamin	1.80E-03	SLC23A1	1
+Carbohydrate Metabolism,Molecular Transport	Transport of dehydroascorbic acid	2.25E-03	SLC23A1	1
+Cardiovascular Disease,Inflammatory Disease,Organismal Injury and Abnormalities	Endocarditis	2.25E-03	DPEP1	1
+Amino Acid Metabolism,Small Molecule Biochemistry	Synthesis of glycine	2.25E-03	AGXT2	1
+Molecular Transport,Nucleic Acid Metabolism,Small Molecule Biochemistry	Transport of uric acid	2.70E-03	PDZK1	1
+Molecular Transport,Small Molecule Biochemistry	Transport of carnitine	2.70E-03	PDZK1	1
+DNA Replication, Recombination, and Repair,Energy Production,Nucleic Acid Metabolism,Small Molecule Biochemistry	Oxidation of NADH	2.70E-03	ALDOB	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Laryngeal squamous cell carcinoma	3.13E-03	ALDOB,DPEP1,PBLD	3
+Carbohydrate Metabolism	Metabolism of fructose-1,6-diphosphate	3.15E-03	ALDOB	1
+Small Molecule Biochemistry	Metabolism of glyoxylic acid	3.15E-03	AGXT2	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Uncomplicated urinary tract infection	3.60E-03	DPEP1	1
+Carbohydrate Metabolism,Molecular Transport,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Concentration of ascorbic acid	3.60E-03	SLC23A1	1
+Endocrine System Disorders,Gastrointestinal Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Inflammation of pancreas	3.83E-03	DPEP1,PBLD	2
+Cellular Movement,Hematological System Development and Function,Hypersensitivity Response,Immune Cell Trafficking,Inflammatory Response	Chemotaxis of basophils	4.05E-03	PRAP1	1
+Carbohydrate Metabolism,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Metabolism of ascorbic acid	4.05E-03	SLC23A1	1
+Amino Acid Metabolism,Small Molecule Biochemistry	Metabolism of homocysteine	4.05E-03	DPEP1	1
+Cellular Assembly and Organization	Binding of actin filaments	4.05E-03	ALDOB	1
+Amino Acid Metabolism,Small Molecule Biochemistry	Metabolism of amino acids	4.30E-03	AGXT2,DPEP1	2
+Lipid Metabolism,Small Molecule Biochemistry	Metabolism of leukotriene	7.65E-03	DPEP1	1
+Carbohydrate Metabolism	Metabolism of carbohydrate	9.07E-03	ALDOB,KHK,SLC23A1	3
+Amino Acid Metabolism,Molecular Transport,Small Molecule Biochemistry	Quantity of homocysteine	1.03E-02	DPEP1	1
+Endocrine System Disorders,Gastrointestinal Disease,Immunological Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Autoimmune pancreatitis	1.17E-02	PBLD	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Organismal Injury and Abnormalities	Hepatitis B surface antigen-negative hepatitis C virus negative hepatocellular carcinoma	1.39E-02	ALDOB	1
+Endocrine System Disorders,Gastrointestinal Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Acute pancreatitis	1.52E-02	DPEP1	1
+Cancer,Organismal Injury and Abnormalities	Upper aero-digestive squamous cell carcinoma	1.73E-02	ALDOB,DPEP1,GBA3,PBLD	4
+Drug Metabolism,Protein Synthesis	Metabolism of glutathione	1.97E-02	DPEP1	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Organismal Injury and Abnormalities	Hepatitis B virus-related hepatocellular carcinoma	2.06E-02	ALDOB	1
+Molecular Transport	Transport of cation	2.14E-02	PDZK1,SLC23A1	2
+Organismal Injury and Abnormalities	Benign lesion	2.21E-02	DPEP1,PBLD,SLC23A1	3
+Organismal Functions	Lethargy	2.54E-02	SLC23A1	1
+Immunological Disease	Early stage acute graft-vs-host disease	2.63E-02	ALDOB	1
+Cancer,Organismal Injury and Abnormalities	Adenoma	2.66E-02	DPEP1,PBLD	2
+Cell Signaling,Small Molecule Biochemistry	Quantity of nitric oxide	2.72E-02	AGXT2	1
+Renal and Urological System Development and Function	Homeostasis of urine	2.76E-02	SLC23A1	1
+Cancer,Gastrointestinal Disease,Inflammatory Disease,Organismal Injury and Abnormalities	Barrett syndrome	2.98E-02	ALDOB	1
+Hematological System Development and Function,Tissue Development	Homeostasis of blood	3.64E-02	SLC23A1	1
+Cellular Development,Cellular Growth and Proliferation	Proliferation of stomach cancer cell lines	3.73E-02	PBLD	1
+Organismal Injury and Abnormalities,Reproductive System Disease	Failure of lactation	3.95E-02	SLC23A1	1
+Lipid Metabolism,Small Molecule Biochemistry	Metabolism of glycosphingolipid	4.03E-02	GBA3	1
+Cancer,Organismal Injury and Abnormalities	Squamous-cell carcinoma	4.64E-02	ALDOB,DPEP1,GBA3,PBLD,PDZK1	5
+Drug Metabolism	Metabolism of xenobiotic	4.68E-02	DPEP1	1
+Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Migration of monocytes	4.73E-02	PRAP1	1
+Molecular Transport	Transport of Na+	4.77E-02	SLC23A1	1

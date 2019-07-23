@@ -1,0 +1,60 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Upstream Regulator	Molecule Type	p-value of overlap	Target molecules in dataset	Mechanistic Network	
+PHA-666859	chemical - kinase inhibitor	1.95E-25	CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD,CRYGS	 
+MAF	transcription regulator	2.49E-15	CRYAA/CRYAA2,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGD	 
+D-galactose	chemical - endogenous mammalian	1.06E-12	CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,CRYGS	 
+SUMO1	enzyme	4.12E-06	CRYBB1,CRYBB2,CRYBB3	 
+miR-3914 (miRNAs w/seed AGGAACC)	mature microRNA	3.27E-04	BFSP1,CRYBA2,KRT12,LIM2,RARRES1	 
+KL	enzyme	6.24E-04	CRYAA/CRYAA2,CRYGS	 
+asoprisnil	chemical drug	6.60E-04	APOD,RARRES1	 
+UPK2	other	1.06E-03	UPK1B	 
+miR-6512-5p (miRNAs w/seed ACCAUUA)	mature microRNA	1.08E-03	ANGPTL7,ERICH5,KRT12,LGSN	 
+TGFBR2	kinase	1.14E-03	BFSP1,BFSP2,MIP	 
+UPK3A	other	2.11E-03	UPK1B	 
+miR-3154 (miRNAs w/seed AGAAGGG)	mature microRNA	3.78E-03	CRYBB1,KRT12,LGSN,MIP,OPTC	 
+tazarotene	chemical drug	5.28E-03	RARRES1	 
+miR-3144-3p (miRNAs w/seed UAUACCU)	mature microRNA	6.67E-03	ANGPTL7,LGSN,RARRES1	 
+miR-12118 (and other miRNAs w/seed AAGGAGG)	mature microRNA	8.01E-03	BFSP2,CRYBB2,KRT3,OPTC,UPK1B	 
+miR-6126 (miRNAs w/seed UGAAGGC)	mature microRNA	9.45E-03	BFSP1,BFSP2,LGSN	 
+miR-922 (miRNAs w/seed CAGCAGA)	mature microRNA	1.03E-02	CRYAA/CRYAA2,CRYBA1,LGSN	 
+miR-2113 (miRNAs w/seed UUUGUGC)	mature microRNA	1.13E-02	ANGPTL7,CRTAC1,CRYBA4	 
+HSF4	transcription regulator	1.26E-02	CRYGD	 
+GRHL3	transcription regulator	1.37E-02	UPK1B	 
+FH	enzyme	1.37E-02	APOD	 
+pyrimidin-2-one beta-ribofuranoside	chemical reagent	1.47E-02	CRYAA/CRYAA2	 
+miR-3915 (miRNAs w/seed UGAGGAA)	mature microRNA	1.71E-02	BFSP2,CRYBA1,LGSN,MIP	 
+ANGPT2	growth factor	1.82E-02	CRYAA/CRYAA2,CRYBB3	 
+ITGA6	transmembrane receptor	1.89E-02	BFSP1	 
+miR-6796-3p (miRNAs w/seed AAGCUCU)	mature microRNA	1.89E-02	CRYAA/CRYAA2,KRT12	 
+SP1	transcription regulator	2.13E-02	CRYBB1,CRYBB2,CRYBB3	 
+PD 153035	chemical drug	2.20E-02	UPK1B	 
+miR-4494 (miRNAs w/seed CAGACUG)	mature microRNA	2.26E-02	CRYBB3,LGSN,RARRES1	 
+miR-6741-5p (and other miRNAs w/seed UGGGUGC)	mature microRNA	2.26E-02	APOD,CRYBA4,CRYBB3	 
+MBD1	transcription regulator	2.41E-02	CRYBB2	 
+Ro41-5253	chemical reagent	2.41E-02	APOD	 
+miR-1301-5p (and other miRNAs w/seed GCUCUAG)	mature microRNA	2.45E-02	BFSP1,LIM2,MIP	 
+miR-451b (miRNAs w/seed AGCAAGA)	mature microRNA	2.47E-02	APOD,CRYBA1,RARRES1	 
+miR-548ao-5p (and other miRNAs w/seed GAAGUAA)	mature microRNA	2.50E-02	APOD,KRT12,MIP	 
+miR-6976-5p (and other miRNAs w/seed AGGGAAG)	mature microRNA	2.52E-02	CRYAA/CRYAA2,CRYBA2,CRYBB1,MIP	 
+arotinoid acid	chemical toxicant	2.72E-02	RARRES1	 
+nilvadipine	chemical drug	2.82E-02	CRYGS	 
+miR-4302 (miRNAs w/seed CAGUGUG)	mature microRNA	2.86E-02	CRYBB1,OPTC,RARRES1	 
+miR-4468 (miRNAs w/seed GAGCAGA)	mature microRNA	2.97E-02	CRYBA1,CRYBB3,LGSN,RARRES1	 
+miR-325-3p (miRNAs w/seed UUAUUGA)	mature microRNA	3.00E-02	CRYBA1,CRYBA2,CRYGS	 
+miR-495-5p (miRNAs w/seed AAGUUGC)	mature microRNA	3.08E-02	CRYBB2,LIM2	 
+Ubiquitin	group	3.13E-02	CRYAA/CRYAA2	 
+miR-329-5p (miRNAs w/seed AGGUUUU)	mature microRNA	3.41E-02	MIP,RARRES1	 
+Am 580	chemical toxicant	3.43E-02	APOD	 
+miR-3118 (and other miRNAs w/seed GUGACUG)	mature microRNA	3.63E-02	CRTAC1,KRT12,RARRES1	 
+miR-873-5p (and other miRNAs w/seed CAGGAAC)	mature microRNA	3.66E-02	CRYBA2,CRYGD	 
+miR-6824-5p (miRNAs w/seed UAGGGGA)	mature microRNA	3.81E-02	APOD,LGSN,MIP	 
+miR-12201-5p (and other miRNAs w/seed GGAAGGA)	mature microRNA	4.04E-02	CRYBB2,KRT3,OPTC,UPK1B	 
+miR-6879-3p (miRNAs w/seed GUCACCC)	mature microRNA	4.18E-02	CRYAA/CRYAA2,LGSN,OPTC	 
+SST	other	4.35E-02	CRYAA/CRYAA2	 
+miR-1227-3p (miRNAs w/seed GUGCCAC)	mature microRNA	4.39E-02	CRTAC1,CRYBB3,LGSN	 
+miR-2909 (miRNAs w/seed UUAGGGC)	mature microRNA	4.43E-02	CRYBB1,RARRES1	 
+miR-4433b-3p (miRNAs w/seed AGGAGUG)	mature microRNA	4.45E-02	CRYAA/CRYAA2,MIP,UPK1B	 
+miR-26a-1-3p (and other miRNAs w/seed CUAUUCU)	mature microRNA	4.87E-02	CRTAC1,LGSN	 
+miR-566 (and other miRNAs w/seed GGCGCCU)	mature microRNA	4.87E-02	CRYAA/CRYAA2,CRYBB3	 
+miR-6500-3p (miRNAs w/seed CACUUGU)	mature microRNA	4.97E-02	CRTAC1,RARRES1	 
