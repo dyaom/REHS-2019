@@ -1,0 +1,20 @@
+File created with bingo (c) on Jul 23, 2019 at 5:04:46 PM
+
+ontology: namespace
+curator:  bingo
+
+Selected ontology file : bundle://212.0:1/data/GO_Biological_Process
+Selected annotation file : bundle://212.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+PCP4	ENSG00000264514	PLCB4	DAPL1	KRT24	CRYBB2	CHI3L1	CRYBA4	DEFB4B	TMPRSS11D	
+
+No annotations were retrieved for the following entities:
+ENSG00000264514	KRT24	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set

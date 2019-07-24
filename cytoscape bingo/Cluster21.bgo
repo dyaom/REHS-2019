@@ -1,0 +1,27 @@
+File created with bingo (c) on Jul 23, 2019 at 5:09:29 PM
+
+ontology: namespace
+curator:  bingo
+
+Selected ontology file : bundle://212.0:1/data/GO_Biological_Process
+Selected annotation file : bundle://212.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+ENSG00000264514	ENSG00000237821	DAPL1	KRT24	CRYBB2	CHI3L1	CRYBA4	DEFB4B	TMPRSS11D	
+
+No annotations were retrieved for the following entities:
+ENSG00000264514	ENSG00000237821	KRT24	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+43010	1.0070E-3	3.4102E-2	2	119	6	14306	camera-type eye development	CRYBB2|CRYBA4
+1654	1.5311E-3	3.4102E-2	2	147	6	14306	eye development	CRYBB2|CRYBA4
+6030	2.9328E-3	3.4102E-2	1	7	6	14306	chitin metabolic process	CHI3L1
+6032	2.9328E-3	3.4102E-2	1	7	6	14306	chitin catabolic process	CHI3L1
+50953	3.3002E-3	3.4102E-2	2	217	6	14306	sensory perception of light stimulus	CRYBB2|CRYBA4
+7601	3.3002E-3	3.4102E-2	2	217	6	14306	visual perception	CRYBB2|CRYBA4
+7423	4.2205E-3	3.7381E-2	2	246	6	14306	sensory organ development	CRYBB2|CRYBA4

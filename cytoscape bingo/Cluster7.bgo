@@ -1,0 +1,39 @@
+File created with bingo (c) on Jul 23, 2019 at 4:57:21 PM
+
+ontology: namespace
+curator:  bingo
+
+Selected ontology file : bundle://212.0:1/data/GO_Biological_Process
+Selected annotation file : bundle://212.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+C8ORF47	CRYBA2	CRYBA1	CRYBA4	UPK1B	CRTAC1	APOD	ENSG00000258955	CRYGS	LIM2	KRT3	ENSG00000197320	CRYBB1	RARRES1	CRYBB3	CRYBB2	KRT12	CRYGD	BFSP2	ENSG00000225588	BFSP1	ANGPTL7	LGSN	MIP	OPTC	CRYAA	
+
+No annotations were retrieved for the following entities:
+C8ORF47	ENSG00000225588	CRTAC1	ENSG00000197320	OPTC	ENSG00000258955	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+50953	8.4985E-14	1.0708E-11	10	217	20	14303	sensory perception of light stimulus	CRYGD|BFSP2|MIP|CRYBB1|CRYBB3|CRYBA1|CRYBB2|KRT12|CRYBA4|CRYAA
+7601	8.4985E-14	1.0708E-11	10	217	20	14303	visual perception	CRYGD|BFSP2|MIP|CRYBB1|CRYBB3|CRYBA1|CRYBB2|KRT12|CRYBA4|CRYAA
+43010	1.6368E-10	1.3749E-8	7	119	20	14303	camera-type eye development	CRYGS|LIM2|MIP|CRYBA1|CRYBB2|CRYBA4|CRYAA
+1654	7.2735E-10	4.2525E-8	7	147	20	14303	eye development	CRYGS|LIM2|MIP|CRYBA1|CRYBB2|CRYBA4|CRYAA
+2088	8.4376E-10	4.2525E-8	5	34	20	14303	lens development in camera-type eye	CRYGS|LIM2|MIP|CRYBA1|CRYAA
+7423	2.6187E-8	1.0999E-6	7	246	20	14303	sensory organ development	CRYGS|LIM2|MIP|CRYBA1|CRYBB2|CRYBA4|CRYAA
+7600	3.7442E-8	1.3479E-6	10	815	20	14303	sensory perception	CRYGD|BFSP2|MIP|CRYBB1|CRYBB3|CRYBA1|CRYBB2|KRT12|CRYBA4|CRYAA
+50890	1.1560E-7	3.6414E-6	10	918	20	14303	cognition	CRYGD|BFSP2|MIP|CRYBB1|CRYBB3|CRYBA1|CRYBB2|KRT12|CRYBA4|CRYAA
+50877	1.4961E-6	4.1892E-5	10	1208	20	14303	neurological system process	CRYGD|BFSP2|MIP|CRYBB1|CRYBB3|CRYBA1|CRYBB2|KRT12|CRYBA4|CRYAA
+3008	1.1129E-5	2.8044E-4	10	1506	20	14303	system process	CRYGD|BFSP2|MIP|CRYBB1|CRYBB3|CRYBA1|CRYBB2|KRT12|CRYBA4|CRYAA
+32501	3.2513E-4	7.1778E-3	14	4376	20	14303	multicellular organismal process	CRYGS|LIM2|KRT3|CRYBB1|CRYBB3|CRYBA1|CRYBB2|KRT12|CRYBA4|CRYGD|UPK1B|BFSP2|MIP|CRYAA
+48513	3.4180E-4	7.1778E-3	9	1792	20	14303	organ development	CRYGS|LIM2|UPK1B|KRT3|MIP|CRYBA1|CRYBB2|CRYBA4|CRYAA
+6979	2.0322E-3	3.9394E-2	3	184	20	14303	response to oxidative stress	CRYGD|ANGPTL7|CRYAA
+72	2.7948E-3	4.1428E-2	1	2	20	14303	M phase specific microtubule process	CRYAA
+34982	2.7948E-3	4.1428E-2	1	2	20	14303	mitochondrial protein processing	MIP
+6542	2.7948E-3	4.1428E-2	1	2	20	14303	glutamine biosynthetic process	LGSN
+6627	2.7948E-3	4.1428E-2	1	2	20	14303	protein processing involved in protein targeting to mitochondrion	MIP
+7010	3.0876E-3	4.1886E-2	4	448	20	14303	cytoskeleton organization	BFSP2|KRT3|MIP|CRYAA
+48731	3.1580E-3	4.1886E-2	9	2422	20	14303	system development	CRYGS|LIM2|UPK1B|KRT3|MIP|CRYBA1|CRYBB2|CRYBA4|CRYAA
