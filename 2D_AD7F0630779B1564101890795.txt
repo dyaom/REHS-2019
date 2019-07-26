@@ -1,0 +1,16 @@
+	Eye lens protein	GO:0005212~structural constituent of eye lens	Cataract	IPR001064:Beta/gamma crystallin	domain:Beta/gamma crystallin 'Greek key' 4	domain:Beta/gamma crystallin 'Greek key' 1	domain:Beta/gamma crystallin 'Greek key' 2	domain:Beta/gamma crystallin 'Greek key' 3	IPR011024:Gamma-crystallin-related	SM00247:XTALbg	region of interest:Connecting peptide	Disease mutation	site:Susceptible to oxidation	GO:0007601~visual perception	region of interest:N-terminal arm	Acetylation	region of interest:C-terminal arm
+crystallin beta B1(CRYBB1)	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+crystallin beta B3(CRYBB3)	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+crystallin beta A4(CRYBA4)	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+crystallin beta B2(CRYBB2)	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
+crystallin gamma S(CRYGS)	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0
+crystallin beta A1(CRYBA1)	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0
+crystallin gamma D(CRYGD)	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0
+crystallin beta A2(CRYBA2)	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0
+crystallin alpha A(CRYAA)	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	1	0
+beaded filament structural protein 2(BFSP2)	1	1	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+major intrinsic protein of lens fiber(MIP)	1	1	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+lens intrinsic membrane protein 2(LIM2)	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+beaded filament structural protein 1(BFSP1)	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+keratin 12(KRT12)	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+keratin 3(KRT3)	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
