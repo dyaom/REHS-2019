@@ -1,0 +1,9 @@
+ID	Top Diseases and Functions	
+7-1	[Developmental Disorder, Ophthalmic Disease, Organismal Injury and Abnormalities]
+7-2	[Cell Morphology, Embryonic Development, Hair and Skin Development and Function]
+8-1	[Developmental Disorder, Ophthalmic Disease, Organismal Injury and Abnormalities]
+8-2	[Cellular Movement, Embryonic Development, Organismal Development]
+8-3	[Antimicrobial Response, Cell Death and Survival, Inflammatory Response]
+20-1	[Carbohydrate Metabolism, Lipid Metabolism, Small Molecule Biochemistry]
+20-2	[Carbohydrate Metabolism, Lipid Metabolism, Small Molecule Biochemistry]
+21-1	[Cell Death and Survival, Hereditary Disorder, Inflammatory Disease]
