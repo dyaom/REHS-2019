@@ -1,0 +1,328 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital cataract	7.50E-23	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGC,CRYGD,CRYGS,MIP	12
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant cataract disease	4.04E-18	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBB2,CRYBB3,CRYGC,CRYGD,CRYGS	9
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Familial congenital cataract	7.71E-13	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBB1,CRYBB3,CRYGC	7
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital nuclear cataract	1.16E-12	CRYAA/CRYAA2,CRYBA2,CRYBB1,CRYBB3,CRYGC	5
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Hereditary Eye Disease	7.54E-12	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBB1,CRYBB2,CRYBB3,CRYGC,CRYGD,CRYGS,KRT12,KRT3,MIP	13
+Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract	1.02E-11	CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYGC,MIP	5
+Visual System Development and Function	Vision	1.01E-10	CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,CRYGC,CRYGD,KRT12,MIP	8
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital zonular cataract	1.32E-09	CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYGC	4
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Visual System Development and Function	Morphogenesis of camera-type eye	2.25E-09	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA4,CRYBB2,CRYGC	6
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant congenital eye anomaly	2.58E-09	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBB3,CRYGC	6
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant nuclear cataract	1.10E-07	CRYAA/CRYAA2,CRYBA2,CRYBB3	3
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Microcornea	2.46E-07	CRYAA/CRYAA2,CRYGC,CRYGD	3
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant perinuclear cataract	3.16E-07	CRYAA/CRYAA2,CRYBA1,CRYGC	3
+Cell Morphology,Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Keratinization of epidermis	1.22E-06	KRT12,KRT24,KRT3,KRT33A,KRT37	5
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant Meesmann corneal dystrophy	2.44E-06	KRT12,KRT3	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract 2	4.18E-06	CRYBB3,CRYGC	2
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract with microcornea	4.18E-06	CRYAA/CRYAA2,CRYGC	2
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Formation of eye	5.30E-06	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA4,CRYBB2,CRYGC,CRYGD,CRYGS,KRT12	9
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital cataract	5.80E-06	CRYAA/CRYAA2,CRYBB1,CRYBB3	3
+Cell Death and Survival	Disintegration of secondary lens fiber cells	9.06E-06	CRYAA/CRYAA2,CRYAB	2
+Ophthalmic Disease,Organismal Injury and Abnormalities	Exfoliative glaucoma	3.76E-05	APOD,CRYBA1,LGSN	3
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of anterior segment of the eye	1.34E-04	CRYAA/CRYAA2,CRYBB2,CRYGS,KRT12	4
+Cellular Development,Organismal Development	Differentiation of organism	1.77E-04	beta-estradiol,Krt10	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital eye anomaly	1.92E-04	CRYAA/CRYAA2,CRYBB1,CRYBB3	3
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of lens	2.19E-04	CRYAA/CRYAA2,CRYBB2,CRYGS	3
+Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Reproductive System Disease	Atrophic vaginitis	2.39E-04	beta-estradiol,estriol	2
+Cancer	Calcium oscillation of tumor cell lines	2.93E-04	beta-estradiol,estriol	2
+Drug Metabolism,Endocrine System Development and Function,Lipid Metabolism,Small Molecule Biochemistry	Binding of beta-estradiol	5.87E-04	beta-estradiol,estriol	2
+Cellular Development,Cellular Growth and Proliferation	Cell proliferation of pituitary cancer cell lines	6.33E-04	beta-estradiol,estriol	2
+Carbohydrate Metabolism,Energy Production	Oxidation of carbohydrate	6.38E-04	beta-estradiol,CRYAB,estriol	3
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Benign neoplasm of pancreas	6.94E-04	beta-estradiol,SSTR4	2
+Embryonic Development,Organismal Development	Development of head	9.97E-04	beta-estradiol,CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA4,CRYBB2,CRYGC,CRYGD,CRYGS,KRT12	10
+Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar with sutural opacities cataract 15	1.04E-03	MIP	1
+Carbohydrate Metabolism,Small Molecule Biochemistry	Incorporation of D-glucose	1.05E-03	beta-estradiol,estriol	2
+Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Formation of skin	1.27E-03	Krt10,KRT12,KRT24,KRT3,KRT33A,KRT37	6
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Tissue Morphology,Visual System Development and Function	Morphology of lens tissue	1.29E-03	CRYAA/CRYAA2,CRYGS	2
+Developmental Disorder,Endocrine System Disorders,Organismal Injury and Abnormalities	Acromegaly	1.34E-03	beta-estradiol,SSTR4	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Zonular pulverulent cataract 2	1.39E-03	CRYGC	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract 2 with microcornea	1.39E-03	CRYGC	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital nuclear cataract type 3	1.39E-03	CRYBB1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Coppock-like cataract 2	1.39E-03	CRYGC	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract 4 with microcornea	1.39E-03	CRYGD	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract type 23	1.39E-03	CRYBA4	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Sutural cataract with punctate and cerulean opacities	1.39E-03	CRYBB2	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Multiple types cataract 20	1.39E-03	CRYGS	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Progressive juvenile onset punctate cataract	1.39E-03	CRYGD	1
+Infectious Diseases	Reactivation of herpes simplex virus	1.73E-03	beta-estradiol	1
+Cardiovascular System Development and Function,Tissue Morphology	Relaxation of microvessel	1.73E-03	beta-estradiol	1
+Cell Death and Survival	Cytotoxicity of SN-38	1.73E-03	beta-estradiol	1
+Cell Death and Survival	Apoptosis of transitional B lymphocytes	1.73E-03	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction	Response of endometrial stromal cells	1.73E-03	beta-estradiol	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear lamellar cataract 9	1.73E-03	CRYAA/CRYAA2	1
+Cellular Development,Reproductive System Development and Function	Differentiation of round spermatids	1.73E-03	beta-estradiol	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract type 42	1.73E-03	CRYBA2	1
+Connective Tissue Development and Function,Tissue Morphology	Quantity of chondroclasts	1.73E-03	beta-estradiol	1
+Cell Morphology,Cellular Function and Maintenance,Tissue Morphology	Permeability of neurons	1.73E-03	beta-estradiol	1
+Connective Tissue Development and Function,Nervous System Development and Function,Skeletal and Muscular System Development and Function	Bone mineral density of L4 vertebra	1.73E-03	beta-estradiol	1
+Cardiovascular Disease,Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Hyperinnervation of myocardium	1.73E-03	beta-estradiol	1
+Cell Cycle	Entry into G1 phase of endometrial cells	1.73E-03	beta-estradiol	1
+Cell Cycle	Re-entry into S phase of breast cancer cell lines	1.73E-03	beta-estradiol	1
+Organ Morphology,Reproductive System Development and Function,Tissue Morphology	Volume of seminiferous epithelium	1.73E-03	beta-estradiol	1
+Organismal Injury and Abnormalities,Reproductive System Disease	Edema of uterus	1.73E-03	beta-estradiol	1
+Connective Tissue Development and Function,Embryonic Development,Organ Development,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Development	Formation of metaphysis	1.73E-03	beta-estradiol	1
+Small Molecule Biochemistry	Binding of isoproterenol	1.73E-03	beta-estradiol	1
+Cell Death and Survival	Survival of pituitary cancer cell lines	1.73E-03	beta-estradiol	1
+Cell Cycle	Cell division of luminal epithelial cells	1.73E-03	beta-estradiol	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract 9 with microcornea	1.73E-03	CRYAA/CRYAA2	1
+Connective Tissue Development and Function,Organ Development,Skeletal and Muscular System Development and Function,Tissue Development	Growth of metaphysis	1.73E-03	beta-estradiol	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function	Bone mineral density of proximal tibia	1.73E-03	beta-estradiol	1
+Cardiovascular System Development and Function,Organismal Development,Tissue Morphology	Area of vascular channel	1.73E-03	beta-estradiol	1
+Protein Trafficking	Recruitment of protein fragment	1.73E-03	beta-estradiol	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant multiple types cataract 22	1.73E-03	CRYBB3	1
+Cardiovascular System Development and Function,Organ Development	Stroke volume index of left ventricle	1.73E-03	beta-estradiol	1
+DNA Replication, Recombination, and Repair	Assembly of estrogen response element	1.73E-03	beta-estradiol	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive total cataract 9 with microcornea	1.73E-03	CRYAA/CRYAA2	1
+Cell Death and Survival	Cytolysis of neurons	1.73E-03	beta-estradiol	1
+Lipid Metabolism,Small Molecule Biochemistry	Suppression of dihydrotestosterone	1.73E-03	beta-estradiol	1
+Developmental Disorder,Endocrine System Disorders,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities,Reproductive System Disease	Severe aromatase deficiency	1.73E-03	beta-estradiol	1
+Cell Cycle	M phase of stromal cells	1.73E-03	beta-estradiol	1
+Cell Morphology,Nervous System Development and Function	Modulation of lutenizing hormone-releasing hormone neurons	1.73E-03	beta-estradiol	1
+Inflammatory Response	Immune response of female reproductive tract	1.73E-03	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Activation of alternatively activated macrophages	1.73E-03	beta-estradiol	1
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Tissue Morphology,Visual System Development and Function	Opacity of lens tissue	1.73E-03	CRYAA/CRYAA2	1
+Cardiovascular Disease,Neurological Disease,Organismal Injury and Abnormalities	Ischemia of cerebral cortex	1.73E-03	beta-estradiol	1
+Endocrine System Disorders,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Reproductive System Development and Function,Reproductive System Disease	Loss of primary ovarian follicle	1.73E-03	beta-estradiol	1
+Cell Cycle	Cell cycle progression of pituitary cancer cell lines	1.73E-03	beta-estradiol	1
+Cardiovascular System Development and Function,Tissue Morphology	Relaxation of internal thoracic artery	1.73E-03	beta-estradiol	1
+Cell Morphology,Organ Morphology,Organismal Injury and Abnormalities	Hypertrophy of uterine epithelial cells	1.73E-03	beta-estradiol	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant cataract with microcornea	1.73E-03	CRYAA/CRYAA2	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital nuclear cataract type 2	1.73E-03	CRYBB3	1
+Cancer,Cardiovascular Disease,Organismal Injury and Abnormalities	Severity of hemangioma	1.73E-03	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Afterhyperpolarization of lutenizing hormone-releasing hormone neurons	1.73E-03	beta-estradiol	1
+Cardiovascular System Development and Function	Binding of cerebral artery	1.73E-03	beta-estradiol	1
+DNA Replication, Recombination, and Repair	Delay in initiation of DNA damage response of breast cancer cell lines	1.73E-03	beta-estradiol	1
+Cell Cycle,Nervous System Development and Function	Mitosis of cerebral cortex cells	1.73E-03	beta-estradiol	1
+Tissue Development	Survival of skin tissue	1.73E-03	beta-estradiol	1
+Tissue Morphology	Quantity of embryonic cancer cell lines	2.08E-03	beta-estradiol	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital zonular cataract with sutural opacities 10	2.08E-03	CRYBA1	1
+Cardiovascular System Development and Function	Binding of central tail artery	2.42E-03	beta-estradiol	1
+Endocrine System Development and Function,Lipid Metabolism,Small Molecule Biochemistry	Binding of pregnenolone	2.42E-03	beta-estradiol	1
+Organ Morphology,Tissue Morphology	Quantity of uterine epithelial cells	2.42E-03	beta-estradiol	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Posterior polar cataract type 2	2.77E-03	CRYAB	1
+Drug Metabolism,Lipid Metabolism,Small Molecule Biochemistry	Upregulation of prostaglandin E2	2.77E-03	beta-estradiol	1
+Cardiac Dilation,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Hereditary Disorder,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dilated cardiomyopathy type 1II	2.77E-03	CRYAB	1
+Cellular Movement	Invasion by smooth muscle cell lines	2.77E-03	CRYAB	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Alpha-B crystallin-related fatal infantile hypertonic myofibrillar myopathy	2.77E-03	CRYAB	1
+Cell Cycle	Cell division of myometrial cells	2.77E-03	beta-estradiol	1
+Cell Cycle	Entry into M phase of breast cancer cell lines	2.77E-03	beta-estradiol	1
+Cell Morphology,Cellular Assembly and Organization	Morphology of desmin filament	2.77E-03	CRYAB	1
+Cell Morphology	Plasticity of tanycyte	2.77E-03	beta-estradiol	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Myofibrillar myopathy 2	2.77E-03	CRYAB	1
+Cell Death and Survival,Cell Morphology,Hematological System Development and Function,Hematopoiesis,Immunological Disease,Lymphoid Tissue Structure and Development	Loss of thymocytes	3.12E-03	beta-estradiol	1
+Lipid Metabolism,Small Molecule Biochemistry	Formation of palmitoleic acid	3.12E-03	beta-estradiol	1
+Lipid Metabolism,Small Molecule Biochemistry	Formation of linoleic acid	3.12E-03	beta-estradiol	1
+Post-Translational Modification	Aggregation of protein	3.12E-03	CRYAA/CRYAA2,CRYAB	2
+Cellular Development,Tissue Development	Differentiation of stroma	3.46E-03	beta-estradiol	1
+Cardiovascular System Development and Function,Organismal Development,Tissue Morphology	Vasodilation of brachial artery	3.46E-03	beta-estradiol	1
+Increased Levels of Alkaline Phosphatase	Increased specific activity of alkaline phosphatase	3.46E-03	beta-estradiol	1
+Immunological Disease	Regression of thymus gland	3.46E-03	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction,Small Molecule Biochemistry	Stress response of acetylcholine	3.46E-03	beta-estradiol	1
+Lipid Metabolism,Small Molecule Biochemistry	Stress response of corticosterone	3.46E-03	beta-estradiol	1
+Cell Morphology,Cellular Development,Tissue Development	Ductal canalization of duct cells	3.46E-03	beta-estradiol	1
+Embryonic Development,Organ Development,Organismal Development,Reproductive System Development and Function,Tissue Development	Formation of follicular antrum	3.46E-03	beta-estradiol	1
+Organismal Injury and Abnormalities,Reproductive System Disease	Dysplasia of prostate gland	3.46E-03	beta-estradiol	1
+Cellular Movement,Connective Tissue Development and Function	Migration of cancer-associated fibroblasts	3.46E-03	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction,Cellular Assembly and Organization,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development	Synaptogenesis of Purkinje cells	3.81E-03	beta-estradiol	1
+Tissue Development	Adhesion of Peyer's patches	3.81E-03	beta-estradiol	1
+Molecular Transport	Renal excretion of phosphate	3.81E-03	ethylene glycol	1
+Endocrine System Development and Function,Organ Morphology,Organismal Development,Tissue Morphology	Mass of pituitary tissue	3.81E-03	beta-estradiol	1
+Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Tissue Morphology	Quantity of early lymphoid progenitors	3.81E-03	beta-estradiol	1
+Cancer,Organismal Injury and Abnormalities	Transformation of endometrial stromal cells	3.81E-03	beta-estradiol	1
+Cardiovascular System Development and Function,Tissue Morphology	Relaxation of uterine artery	3.81E-03	beta-estradiol	1
+Cellular Development,Nervous System Development and Function,Tissue Development	Spinogenesis of Purkinje cells	3.81E-03	beta-estradiol	1
+Cell Death and Survival	Apoptosis of cervical cell lines	3.81E-03	beta-estradiol	1
+Reproductive System Development and Function	Regulation of reproductive system	3.81E-03	beta-estradiol	1
+Embryonic Development,Organ Development,Organismal Development,Reproductive System Development and Function,Tissue Development	Alveologenesis of mammary duct	3.81E-03	beta-estradiol	1
+Energy Production,Lipid Metabolism,Small Molecule Biochemistry	Beta-oxidation of lauric acid	3.81E-03	beta-estradiol	1
+Cardiovascular System Development and Function,Tissue Morphology	Contraction of saphenous vein	3.81E-03	beta-estradiol	1
+Organ Development,Reproductive System Development and Function	Growth of uterus	3.82E-03	beta-estradiol,estriol	2
+Cellular Development,Cellular Growth and Proliferation,Connective Tissue Development and Function,Tissue Development	Proliferation of cancer-associated fibroblasts	4.15E-03	beta-estradiol	1
+Organismal Injury and Abnormalities,Reproductive System Disease	Oligomenorrhea	4.15E-03	beta-estradiol	1
+Endocrine System Development and Function,Nervous System Development and Function,Organ Morphology,Organismal Development	Mass of adenohypophysis	4.15E-03	beta-estradiol	1
+Tissue Development	Proliferation of mammary epithelium	4.15E-03	beta-estradiol	1
+Cellular Assembly and Organization,Cellular Compromise	Disruption of keratin intermediate filaments	4.15E-03	KRT12	1
+Cell Morphology,Cellular Assembly and Organization,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Embryonic Development,Nervous System Development and Function,Organismal Development,Tissue Development,Tissue Morphology	Density of synaptic spine	4.15E-03	beta-estradiol	1
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Organ Development,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Development	Myogenesis of skeletal muscle satellite cells	4.15E-03	beta-estradiol	1
+Cardiac Necrosis/Cell Death,Cardiovascular System Development and Function,Cell Death and Survival,Skeletal and Muscular System Development and Function	Cell viability of cardiomyocytes	4.16E-03	APOD,beta-estradiol	2
+Carbohydrate Metabolism,Energy Production	Oxidation of ascorbic acid	4.50E-03	CRYAB	1
+Embryonic Development,Organ Development,Organismal Development,Reproductive System Development and Function,Tissue Development	Growth of vagina	4.50E-03	beta-estradiol	1
+Organismal Injury and Abnormalities,Reproductive System Disease	Squamous metaplasia of uterine epithelial cells	4.50E-03	beta-estradiol	1
+Drug Metabolism,Molecular Transport,Small Molecule Biochemistry	Uptake of topotecan	4.50E-03	beta-estradiol	1
+Carbohydrate Metabolism,Molecular Transport,Small Molecule Biochemistry	Transport of 2-deoxyglucose	4.77E-03	beta-estradiol,estriol	2
+Organismal Functions	Healing of eye cell lines	4.84E-03	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction	Response of endometrial cancer cell lines	4.84E-03	beta-estradiol	1
+Drug Metabolism,Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Secretion of epoprostenol	4.84E-03	beta-estradiol	1
+Cellular Development,Cellular Growth and Proliferation,Connective Tissue Development and Function,Skeletal and Muscular System Development and Function,Tissue Development	Osteoclastogenesis of osteoclast-like cells	4.84E-03	beta-estradiol	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function,Tissue Morphology	Length of fibrocartilage	4.84E-03	beta-estradiol	1
+Organ Morphology,Organismal Development,Reproductive System Development and Function	Area of endometrium	4.84E-03	beta-estradiol	1
+Small Molecule Biochemistry	Uptake of histamine	4.84E-03	beta-estradiol	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function,Tissue Morphology	Mass of fibrocartilage	4.84E-03	beta-estradiol	1
+Cancer,Cellular Development,Cellular Growth and Proliferation,Organismal Injury and Abnormalities,Reproductive System Disease,Tumor Morphology	Proliferation of endometrial adenocarcinoma cells	4.84E-03	beta-estradiol	1
+Cell Cycle,Reproductive System Development and Function	Mitosis of uterine epithelial cells	4.84E-03	beta-estradiol	1
+Cellular Compromise,Hypersensitivity Response,Inflammatory Response	Degranulation of mucosal mast cells	5.19E-03	beta-estradiol	1
+Cardiovascular Disease,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Desmin-related myopathy	5.19E-03	CRYAB	1
+Cardiovascular System Development and Function,Hematological System Development and Function	Mean arterial pressure of femoral artery	5.19E-03	beta-estradiol	1
+Cancer,Cardiovascular Disease,Connective Tissue Disorders,Organismal Injury and Abnormalities,Respiratory Disease	Pulmonary lymphangioleiomyomatosis	5.53E-03	CRYAB	1
+Cellular Development,Reproductive System Development and Function	Differentiation of uterine fibroblasts	5.53E-03	beta-estradiol	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Uptake of arachidonic acid	5.53E-03	APOD	1
+Organ Morphology,Reproductive System Development and Function	Quantity of lactiferous duct	5.53E-03	beta-estradiol	1
+Cell Death and Survival	Apoptosis of uterine fibroblasts	5.53E-03	beta-estradiol	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function	Preservation of bone	5.88E-03	beta-estradiol	1
+Cell Cycle	Entry into S phase of endometrial cells	5.88E-03	beta-estradiol	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function	Bone mineral content of metaphysis	5.88E-03	beta-estradiol	1
+Reproductive System Development and Function	Decidualization of fibroblasts	5.88E-03	beta-estradiol	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease,Tissue Morphology	Quantity of endometrial adenocarcinoma	5.88E-03	estriol	1
+Cell Death and Survival,Nervous System Development and Function	Survival of hypothalamic neurons	5.88E-03	beta-estradiol	1
+Connective Tissue Development and Function,Tissue Morphology	Density of stromal cells	5.88E-03	estriol	1
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Organ Development,Organismal Development,Tissue Development	B-lymphopoiesis of organism	5.88E-03	beta-estradiol	1
+Organ Morphology,Reproductive System Development and Function	Volume of seminiferous tubule	5.88E-03	beta-estradiol	1
+Cell Death and Survival	Apoptosis of lens epithelium	6.22E-03	CRYAA/CRYAA2	1
+Immunological Disease,Organismal Injury and Abnormalities	Injury of spleen	6.22E-03	D-galactose	1
+Immunological Disease,Inflammatory Disease,Inflammatory Response,Neurological Disease,Organismal Injury and Abnormalities	Initiation of experimental autoimmune encephalomyelitis	6.22E-03	beta-estradiol	1
+Cell Morphology,Connective Tissue Development and Function,Organ Morphology,Organismal Development,Reproductive System Development and Function,Tissue Morphology	Size of endometrial stromal cells	6.22E-03	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction,Endocrine System Development and Function,Organ Development	Activation of thyroid cells	6.22E-03	beta-estradiol	1
+Infectious Diseases	Proliferation of human herpesvirus 1	6.22E-03	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Firing of lutenizing hormone-releasing hormone neurons	6.22E-03	beta-estradiol	1
+Cardiovascular System Development and Function,Organ Development,Organ Morphology,Skeletal and Muscular System Development and Function	Contractility of papillary muscle	6.57E-03	beta-estradiol	1
+Cell Morphology,Cellular Assembly and Organization	Size of keratohyalin granules	6.57E-03	Krt10	1
+Infectious Diseases	Activation of virus	6.78E-03	beta-estradiol,TMPRSS11D	2
+Cell Death and Survival	Apoptosis of uterine epithelial cells	6.91E-03	beta-estradiol	1
+Cell Death and Survival,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Necrosis of skin flap	6.91E-03	beta-estradiol	1
+Organ Morphology,Organismal Development,Reproductive System Development and Function	Morphology of lateral prostatic lobe	6.91E-03	beta-estradiol	1
+Cell Morphology,Nervous System Development and Function,Neurological Disease,Tissue Morphology	Loss of cholinergic fibers	6.91E-03	beta-estradiol	1
+Developmental Disorder,Endocrine System Disorders,Organismal Injury and Abnormalities,Reproductive System Disease	Cryptorchidism of embryo	6.91E-03	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction	Gap junctional intercellular communication of endometrial cancer cell lines	6.91E-03	beta-estradiol	1
+Cardiovascular Disease,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Familial restrictive cardiomyopathy 1	6.91E-03	CRYAB	1
+Cellular Growth and Proliferation,Connective Tissue Development and Function,Tissue Development	Proliferation of periosteal cells	7.25E-03	beta-estradiol	1
+Embryonic Development,Organ Development,Organ Morphology,Organismal Development,Reproductive System Development and Function,Tissue Development	Morphogenesis of lactiferous duct	7.25E-03	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Neurotransmission by neurons	7.25E-03	beta-estradiol	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Hypergranulosis	7.60E-03	Krt10	1
+Cellular Development,Nervous System Development and Function,Tissue Development	Differentiation of hypothalamic neurons	7.60E-03	beta-estradiol	1
+Molecular Transport,Small Molecule Biochemistry	Export of dihydrosphingosine 1-phosphate	7.60E-03	beta-estradiol	1
+Cardiovascular System Development and Function,Organismal Development,Tissue Morphology	Quantity of postcapillary venule	7.60E-03	beta-estradiol	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Acinar cell adenoma	7.60E-03	beta-estradiol	1
+Cell Death and Survival	Apoptosis of periosteal cells	7.60E-03	beta-estradiol	1
+Amino Acid Metabolism,Small Molecule Biochemistry	Toxicity of L-glutamic acid	7.60E-03	beta-estradiol	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Osteopenia of trabecular bone	7.94E-03	beta-estradiol	1
+Cell Cycle,Reproductive System Development and Function	Mitogenesis of granulosa cells	7.94E-03	beta-estradiol	1
+Drug Metabolism,Lipid Metabolism,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Binding of calcitriol	7.94E-03	beta-estradiol	1
+Cell Cycle	Mitosis of stromal cells	7.94E-03	beta-estradiol	1
+Cellular Development,Cellular Growth and Proliferation,Hematological System Development and Function,Humoral Immune Response,Lymphoid Tissue Structure and Development,Tissue Development,Tissue Morphology	Expansion of marginal-zone B lymphocytes	7.94E-03	beta-estradiol	1
+Cell Death and Survival	Apoptosis of spermatogenic cells	7.94E-03	beta-estradiol	1
+Endocrine System Disorders,Organismal Injury and Abnormalities,Reproductive System Disease	Damage of seminiferous tubule	8.29E-03	beta-estradiol	1
+Cell Signaling,Molecular Transport,Vitamin and Mineral Metabolism	Renal excretion of Ca2+	8.29E-03	ethylene glycol	1
+Cellular Development,Reproductive System Development and Function	Differentiation of prostate gland	8.29E-03	beta-estradiol	1
+Cell Death and Survival	Cell death of astrocytes	8.52E-03	beta-estradiol,CRYAB	2
+Cancer,Endocrine System Disorders,Neurological Disease,Organismal Injury and Abnormalities,Reproductive System Disease	Hyperplasia of lactotropes	8.63E-03	beta-estradiol	1
+Cellular Growth and Proliferation,Organ Development,Reproductive System Development and Function	Proliferation of uterine epithelial cells	8.97E-03	beta-estradiol	1
+Cardiovascular System Development and Function,Cell-To-Cell Signaling and Interaction	Adhesion of high endothelial postcapillary venule	8.97E-03	beta-estradiol	1
+Cell Death and Survival,Cell Morphology,Endocrine System Disorders,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Reproductive System Development and Function,Reproductive System Disease	Loss of oocytes	8.97E-03	beta-estradiol	1
+Lipid Metabolism,Small Molecule Biochemistry	Lipolysis of fat pad	8.97E-03	beta-estradiol	1
+Carbohydrate Metabolism,Energy Production,Small Molecule Biochemistry	Oxidation of D-glucose	9.10E-03	beta-estradiol,estriol	2
+Molecular Transport,RNA Trafficking	Accumulation of mRNA	9.32E-03	beta-estradiol	1
+Cellular Development,Hematological System Development and Function,Lymphoid Tissue Structure and Development,Tissue Development	Maturation of marginal-zone B lymphocytes	9.32E-03	beta-estradiol	1
+Cell Cycle	Cell division of stromal cells	9.32E-03	beta-estradiol	1
+Drug Metabolism,Small Molecule Biochemistry	Metabolism of flutamide	9.32E-03	beta-estradiol	1
+Organismal Injury and Abnormalities,Reproductive System Disease,Skeletal and Muscular Disorders	Pelvic organ prolapse	9.44E-03	beta-estradiol,estriol	2
+Cellular Function and Maintenance	Regulation of smooth muscle cells	9.66E-03	APOD	1
+Cell Morphology,Organismal Injury and Abnormalities	Hypertrophy of acinar gland cells	1.00E-02	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Activation of POMC neurons	1.00E-02	beta-estradiol	1
+Infectious Diseases	Activation of Influenza A virus	1.00E-02	TMPRSS11D	1
+Cell Cycle,Reproductive System Development and Function	Arrest in G1 phase of gonadal cell lines	1.00E-02	SSTR4	1
+Cancer,Cardiovascular Disease,Organismal Injury and Abnormalities	Hyperplasia of tunica intima	1.00E-02	beta-estradiol	1
+Tissue Morphology	Quantity of breast cancer cell lines	1.00E-02	beta-estradiol,CRYAB	2
+Cellular Assembly and Organization,Neurological Disease,Organismal Development,Tissue Development	Development of amyloid-beta plaques	1.03E-02	CRYAB	1
+Organismal Injury and Abnormalities,Reproductive System Disease,Skeletal and Muscular Disorders	Genital prolapse	1.03E-02	estriol	1
+Cellular Assembly and Organization	Stabilization of intermediate filaments	1.03E-02	CRYAB	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function	Bone mineral density of metaphysis	1.07E-02	beta-estradiol	1
+Cell Morphology,Cellular Compromise	Multinucleation of macrophage cancer cell lines	1.07E-02	beta-estradiol	1
+Cancer,Organismal Injury and Abnormalities	Hyperplasia of acinar gland cells	1.07E-02	beta-estradiol	1
+Endocrine System Development and Function,Small Molecule Biochemistry	Binding of melatonin	1.07E-02	beta-estradiol	1
+Organismal Injury and Abnormalities,Renal and Urological Disease	Microscopic hematuria	1.10E-02	beta-estradiol	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	TNM stage T0-4 metastatic prostatic adenocarcinoma	1.10E-02	beta-estradiol	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	TNM stage M1 prostatic adenocarcinoma	1.10E-02	beta-estradiol	1
+Organ Development,Reproductive System Development and Function,Tissue Development	Proliferation of mammary gland	1.10E-02	beta-estradiol	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	TNM stage N0-3 metastatic prostatic adenocarcinoma	1.10E-02	beta-estradiol	1
+Organismal Development,Tissue Morphology	Vasodilation of vasculature	1.10E-02	beta-estradiol	1
+Cardiovascular System Development and Function,Organismal Functions,Tissue Development,Tissue Morphology	Healing of endothelial tissue	1.14E-02	beta-estradiol	1
+Cellular Development,Cellular Growth and Proliferation,Endocrine System Development and Function,Nervous System Development and Function,Organ Development	Proliferation of lactotropes	1.14E-02	beta-estradiol	1
+Cell Death and Survival,Connective Tissue Development and Function,Skeletal and Muscular System Development and Function	Survival of osteoclast-like cells	1.14E-02	beta-estradiol	1
+Cell-To-Cell Signaling and Interaction,Inflammatory Response	Inflammatory response of neuroglia	1.14E-02	beta-estradiol	1
+Cell Death and Survival	Cell death of pituitary cancer cell lines	1.14E-02	beta-estradiol	1
+Cardiovascular System Development and Function,Cell-To-Cell Signaling and Interaction,Organ Development,Skeletal and Muscular System Development and Function	Activation of cardiomyocytes	1.17E-02	CRYAB	1
+Gastrointestinal Disease,Organismal Injury and Abnormalities	Chemotherapy-induced diarrhea	1.17E-02	SSTR4	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Primary gastrinoma	1.17E-02	SSTR4	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Metastatic midgut carcinoid tumor	1.17E-02	SSTR4	1
+Gastrointestinal Disease,Organismal Injury and Abnormalities	Severe diarrhea	1.17E-02	SSTR4	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Metastatic well differentiated neuroendocrine tumor	1.17E-02	SSTR4	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Nonmetastatic VIPoma	1.17E-02	SSTR4	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Nonmetastatic glucagonoma	1.17E-02	SSTR4	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Nonmetastatic gastrinoma	1.17E-02	SSTR4	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Well-differentiated small bowel neuroendocrine tumor	1.17E-02	SSTR4	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Primary glucagonoma	1.17E-02	SSTR4	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Locally advanced midgut carcinoid tumor	1.17E-02	SSTR4	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Primary VIPoma	1.17E-02	SSTR4	1
+Behavior	Immobility behavior	1.21E-02	beta-estradiol	1
+Tissue Morphology	Quantity of luminal epithelial cells	1.21E-02	beta-estradiol	1
+Connective Tissue Development and Function,Nervous System Development and Function,Skeletal and Muscular System Development and Function	Bone mineral density of lumbar vertebral column	1.21E-02	beta-estradiol	1
+Cardiovascular Disease,Heart Failure,Organismal Injury and Abnormalities	Onset of heart failure	1.21E-02	CRYAB	1
+Connective Tissue Development and Function,Reproductive System Development and Function	Decidualization of stromal cells	1.24E-02	beta-estradiol	1
+Cell Death and Survival,Neurological Disease,Organismal Injury and Abnormalities	Apoptosis of lactotropes	1.24E-02	beta-estradiol	1
+Cancer,Cell Cycle,Organismal Injury and Abnormalities	Cell cycle progression of mammary tumor cells	1.27E-02	beta-estradiol	1
+Endocrine System Development and Function,Lipid Metabolism,Small Molecule Biochemistry	Glucuronidation of dihydrotestosterone	1.27E-02	beta-estradiol	1
+Embryonic Development,Tissue Development	Stratification of epithelial tissue	1.27E-02	beta-estradiol	1
+Cell Death and Survival	Apoptosis of gonadal cell lines	1.28E-02	CRYAA/CRYAA2,CRYAB	2
+Nervous System Development and Function	Neuroprotection of CA1 neuron	1.31E-02	beta-estradiol	1
+Cellular Assembly and Organization	Mobilization of intracellular stores	1.31E-02	beta-estradiol	1
+Cellular Assembly and Organization	Quantity of cytoplasmic inclusions	1.31E-02	CRYAB	1
+Drug Metabolism,Small Molecule Biochemistry	Binding of haloperidol	1.34E-02	beta-estradiol	1
+Cardiovascular System Development and Function,Cellular Movement	Cellular infiltration by endothelial cells	1.38E-02	beta-estradiol	1
+Cell Morphology,Cellular Assembly and Organization,Dermatological Diseases and Conditions,Hair and Skin Development and Function,Organ Morphology,Organismal Injury and Abnormalities	Abnormal morphology of cornified envelope	1.38E-02	Krt10	1
+Cellular Development,Cellular Growth and Proliferation,Connective Tissue Development and Function,Embryonic Development,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Organ Development,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Development	Osteoblastogenesis of bone marrow cells	1.38E-02	beta-estradiol	1
+Cell Cycle	Mitogenesis of anterior pituitary cells	1.38E-02	beta-estradiol	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Vaginal cancer	1.41E-02	SSTR4	1
+Connective Tissue Development and Function,Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Development,Tissue Morphology	Loss of trabecular bone	1.41E-02	beta-estradiol	1
+Skeletal and Muscular Disorders	Pelvic floor dysfunction	1.45E-02	beta-estradiol	1
+Cancer,Cardiovascular Disease,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver hemangioma	1.45E-02	beta-estradiol	1
+Cell Morphology,Tissue Morphology	Height of epithelial cells	1.45E-02	beta-estradiol	1
+Cell Morphology,Organismal Injury and Abnormalities,Tissue Morphology	Hypertrophy of Leydig cells	1.45E-02	beta-estradiol	1
+Tissue Development	Development of stroma	1.48E-02	beta-estradiol	1
+Energy Production,Lipid Metabolism,Small Molecule Biochemistry	Beta-oxidation of lignoceric acid	1.48E-02	beta-estradiol	1
+Organismal Functions	Healing of epithelial cell lines	1.51E-02	beta-estradiol	1
+Dermatological Diseases and Conditions,Organ Morphology,Organismal Injury and Abnormalities	Abnormal morphology of enlarged sebaceous glands	1.51E-02	Krt10	1
+Cell Cycle,Gene Expression	Binding of dioxin responsive element	1.51E-02	beta-estradiol	1
+Organismal Injury and Abnormalities,Reproductive System Disease	Hypoestrogenism	1.51E-02	beta-estradiol	1
+Organismal Development,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function	Abnormal morphology of footpad	1.55E-02	Krt10	1
+Reproductive System Development and Function	Menopause	1.58E-02	beta-estradiol	1
+Cellular Development,Cellular Growth and Proliferation	Proliferation of macrophage cancer cell lines	1.58E-02	beta-estradiol	1
+Embryonic Development,Organ Development,Organ Morphology,Organismal Development,Reproductive System Development and Function,Tissue Development	Branching morphogenesis of mammary duct	1.62E-02	beta-estradiol	1
+Developmental Disorder,Endocrine System Disorders,Organismal Injury and Abnormalities,Reproductive System Disease	Central precocious puberty	1.62E-02	beta-estradiol	1
+Gastrointestinal Disease	Hypergastrinemia	1.62E-02	SSTR4	1
+Cardiac Dysfunction,Cardiac Fibrosis,Cardiovascular Disease,Organismal Injury and Abnormalities	Interstitial fibrosis of left ventricle	2.30E-02	beta-estradiol	1
+Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Pyelonephritis	3.64E-02	beta-estradiol	1
+Liver Cirrhosis	Cirrhosis	4.31E-02	beta-estradiol,miR-1273h-5p (and other miRNAs w/seed UGGGAGG),SSTR4	3
+Biliary Hyperplasia,Cellular Development,Cellular Growth and Proliferation,Organismal Development,Tissue Development	Proliferation of cholangiocytes	4.77E-02	beta-estradiol	1
+Gastrointestinal Disease,Hepatic System Disease,Kidney Failure,Liver Failure,Organismal Injury and Abnormalities,Renal and Urological Disease	Hepatorenal syndrome	5.37E-02	SSTR4	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Growth of hepatocellular carcinoma	6.05E-02	beta-estradiol	1
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Cell Morphology,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Morphology	Hypertrophy of cardiomyocytes	7.36E-02	beta-estradiol,CRYAB	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Advanced hepatocellular carcinoma	1.06E-01	SSTR4	1
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Infectious Diseases,Inflammatory Disease,Inflammatory Response,Liver Damage,Liver Inflammation/Hepatitis,Organ Development,Organismal Injury and Abnormalities	Chronic hepatitis B	1.09E-01	miR-1273h-5p (and other miRNAs w/seed UGGGAGG)	1
+Cardiac Necrosis/Cell Death,Cardiovascular Disease,Cell Death and Survival,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Apoptosis of cardiomyocytes	1.40E-01	beta-estradiol,CRYAB	2
+Cardiac Dysfunction,Cardiovascular Disease,Organismal Injury and Abnormalities	Dysfunction of heart	1.42E-01	beta-estradiol,CRYAB	2
+Increased Levels of Alkaline Phosphatase	Increased activation of alkaline phosphatase	2.12E-01	beta-estradiol	1
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Liver Enlargement,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Hepatomegaly	2.35E-01	beta-estradiol	1
+Cardiac Dysfunction,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Hypertrophy of left ventricle	2.37E-01	beta-estradiol	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatocellular carcinoma	2.65E-01	beta-estradiol,D-galactose,miR-1273h-5p (and other miRNAs w/seed UGGGAGG),SSTR4	4
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Cell death of kidney cell lines	2.99E-01	beta-estradiol,CRYAB	2
+Cell Death and Survival,Gastrointestinal Disease,Hepatic System Disease,Liver Necrosis/Cell Death,Organismal Injury and Abnormalities	Apoptosis of hepatocytes	4.06E-01	beta-estradiol	1
+Cellular Development,Cellular Growth and Proliferation,Renal and Urological System Development and Function,Renal Proliferation	Cell proliferation of kidney cell lines	4.33E-01	beta-estradiol	1
+Gastrointestinal Disease,Hepatic System Disease,Liver Cirrhosis,Organismal Injury and Abnormalities	Cirrhosis of liver	4.38E-01	miR-1273h-5p (and other miRNAs w/seed UGGGAGG)	1
+Cardiac Infarction,Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Myocardial infarction	5.40E-01	APOD	1
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	5.63E-01	beta-estradiol	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver tumor	1.00E00	beta-estradiol,CRYBA4,D-galactose,KRT222,KRT24,LGSN,miR-1273h-5p (and other miRNAs w/seed UGGGAGG),SSTR4	8
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver carcinoma	1.00E00	beta-estradiol,D-galactose,KRT222,LGSN,miR-1273h-5p (and other miRNAs w/seed UGGGAGG),SSTR4	6
+Gastrointestinal Disease,Hepatic System Disease,Liver Steatosis,Metabolic Disease,Organismal Injury and Abnormalities	Hepatic steatosis	1.00E00	beta-estradiol	1

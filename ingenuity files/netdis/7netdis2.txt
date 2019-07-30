@@ -1,0 +1,371 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Cell Morphology	Keratinization	4.64E-09	CTNNB1,KRT12,KRT23,KRT25,KRT27,KRT3,KRT34	7
+Cell Morphology,Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Keratinization of epidermis	1.71E-08	KRT12,KRT23,KRT25,KRT27,KRT3,KRT34	6
+Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Formation of skin	9.52E-07	CTNNB1,CYLD,KRT12,KRT23,KRT25,KRT27,KRT3,KRT34,TRAF6	9
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant Meesmann corneal dystrophy	2.00E-06	KRT12,KRT3	2
+Ophthalmic Disease,Organismal Injury and Abnormalities	Cortical cataract	1.29E-05	BFSP1,LIM2	2
+Cell Cycle	Senescence of intestinal cell lines	2.62E-05	CTNNB1,MTOR	2
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Tissue Morphology	Spontaneous fracture of rib	2.62E-05	CTNNB1,LMNA	2
+Cancer,Dermatological Diseases and Conditions,Hereditary Disorder,Organismal Injury and Abnormalities	Trichoepithelioma	3.08E-05	CTNNB1,CYLD	2
+Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Formation of epidermis	6.31E-05	CTNNB1,KRT25,KRT27,KRT34,TRAF6	5
+Cell-To-Cell Signaling and Interaction	Binding of podocytes	7.38E-05	CTNNB1,MTOR	2
+Embryonic Development,Hair and Skin Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development	Morphogenesis of hair follicle	8.64E-05	CTNNB1,KRT25,KRT27	3
+Cellular Development,Cellular Growth and Proliferation,Hematological System Development and Function,Lymphoid Tissue Structure and Development	Arrest in proliferation of T lymphocytes	1.11E-04	CTNNB1,TRAF6	2
+Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Formation of hair follicle	1.20E-04	CTNNB1,KRT25,KRT27,TRAF6	4
+Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract	1.30E-04	BFSP1,LIM2	2
+Cancer,Cardiovascular Disease,Organismal Injury and Abnormalities	Angiofibroma	1.90E-04	CTNNB1,MTOR	2
+Cancer,Organismal Injury and Abnormalities	Benign connective or soft tissue neoplasm of head and neck	2.34E-04	CTNNB1,MTOR	2
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Hereditary Eye Disease	2.77E-04	BFSP1,BFSP2,CTNNB1,KRT12,KRT3,LIM2	6
+Hematological System Development and Function,Hematopoiesis,Skeletal and Muscular System Development and Function,Tissue Development	Osteoclastogenesis of bone marrow	3.58E-04	CTNNB1,RARA,TRAF6	3
+Embryonic Development,Organismal Development	Morphology of body axis	4.53E-04	CTNNB1,RARA	2
+Cellular Assembly and Organization,Cellular Function and Maintenance	Organization of intermediate filament cytoskeleton	5.29E-04	BFSP2,KRT3	2
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Bone deformity	7.28E-04	HSD17B2,LMNA,MTOR,TRAF6	4
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive cataract disease	7.91E-04	BFSP1,LIM2	2
+Connective Tissue Disorders,Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Macrocephaly	8.40E-04	HSD17B2,MTOR	2
+Cell Morphology,Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Tissue Morphology,Visual System Development and Function	Abnormal morphology of lens fiber cells	8.64E-04	BFSP1,BFSP2	2
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive cortical pulverulent cataract 19	9.42E-04	LIM2	1
+Dermatological Diseases and Conditions,Hereditary Disorder,Organismal Injury and Abnormalities	Autosomal recessive woolly hair 3	9.42E-04	KRT25	1
+Cancer,Cellular Development,Cellular Growth and Proliferation,Hematological Disease,Organismal Injury and Abnormalities,Tumor Morphology	Proliferation of multiple myeloma cells	9.67E-04	CTNNB1,MTOR	2
+Cellular Development,Embryonic Development,Organismal Development,Tissue Development	Differentiation of mesenchymal stem cells	9.80E-04	CTNNB1,LMNA,MTOR	3
+Cancer,Hereditary Disorder,Organismal Injury and Abnormalities,Renal and Urological Disease	Papillary renal cell carcinoma type 1	1.02E-03	CTNNB1,MTOR	2
+Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Development of dermis	1.03E-03	CTNNB1,TRAF6	2
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Parathyroid gland tumor	1.20E-03	CTNNB1,MTOR	2
+Ophthalmic Disease,Organismal Injury and Abnormalities	Multiple types cataract 12	1.26E-03	BFSP2	1
+Developmental Disorder,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Congenital disorder of glycosylation type 1d	1.26E-03	ALG3	1
+Cellular Development,Cellular Growth and Proliferation,Organ Development,Skeletal and Muscular System Development and Function,Tissue Development	Proliferation of muscle cells	1.40E-03	APOD,CTNNB1,LMNA,MTOR,RARA,TRAF6	6
+Cell Cycle,Renal and Urological System Development and Function	Cell cycle progression of kidney cell lines	1.55E-03	CTNNB1,MTOR	2
+Ophthalmic Disease,Organismal Injury and Abnormalities	Exfoliative glaucoma	1.56E-03	APOD,LGSN	2
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract type 33	1.57E-03	BFSP1	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Punctate lamellar cataract type 33	1.57E-03	BFSP1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive childhood-onset cortical cataract	1.57E-03	BFSP1	1
+Organ Morphology,Tissue Development	Delay in initiation of opening of eye	1.57E-03	HSD17B2	1
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of anterior segment of the eye	1.71E-03	BFSP1,BFSP2,KRT12	3
+Skeletal and Muscular Disorders	Orthopedic injury	1.73E-03	CTNNB1,LMNA,TRAF6	3
+Embryonic Development,Organ Development,Organismal Development,Respiratory System Development and Function,Tissue Development	Formation of trachea	1.77E-03	CTNNB1,RARA	2
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Liver Enlargement,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Hepatomegaly	1.80E-03	CTNNB1,LMNA,TRAF6	3
+Nervous System Development and Function	Myelination	1.80E-03	CTNNB1,LMNA,MTOR,RARA	4
+Cell Death and Survival	Cell death of fibroblasts	1.81E-03	CTNNB1,LMNA,MTOR,RARA,TRAF6	5
+Organismal Injury and Abnormalities	Hamartoma	1.81E-03	CTNNB1,MTOR	2
+Dermatological Diseases and Conditions,Hereditary Disorder,Organismal Injury and Abnormalities	Autosomal recessive woolly hair 1	1.88E-03	KRT25	1
+Cell Cycle	Senescence of epithelial cell lines	2.05E-03	CTNNB1,MTOR	2
+Cellular Development	Differentiation of macrophage cancer cell lines	2.12E-03	CTNNB1,TRAF6	2
+Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract disease	2.16E-03	BFSP1,BFSP2,LIM2	3
+Cellular Development,Cellular Growth and Proliferation,Organ Development,Skeletal and Muscular System Development and Function,Tissue Development	Proliferation of smooth muscle cells	2.19E-03	APOD,CTNNB1,LMNA,MTOR,TRAF6	5
+Cell Cycle,Cellular Development,Connective Tissue Development and Function	Premature senescence of dermal fibroblasts	2.20E-03	LMNA	1
+Cellular Compromise,DNA Replication, Recombination, and Repair	Fragmentation of heterochromatin	2.20E-03	LMNA	1
+Cardiovascular Disease,Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Slovenian type heart-hand syndrome	2.20E-03	LMNA	1
+Cellular Assembly and Organization	Quantity of peripheral heterochromatin	2.20E-03	LMNA	1
+Cell Death and Survival,Cell Morphology,Nutritional Disease,Organ Morphology,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Morphology	Loss of vascular smooth muscle cells	2.20E-03	LMNA	1
+Cell Death and Survival,Organismal Survival	Survival of Haemophilus influenzae strain Eagan	2.20E-03	phosphorylcholine	1
+Cellular Development	Commitment of embryonic stem cell lines	2.20E-03	LMNA	1
+Connective Tissue Development and Function,Nervous System Development and Function	Mechanotransduction of fibroblast cell lines	2.20E-03	LMNA	1
+Infectious Diseases	Release of human herpesvirus 4	2.20E-03	LMNA	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Autosomal recessive Emery-Dreifuss muscular dystrophy type 3	2.20E-03	LMNA	1
+Cellular Assembly and Organization	Reassembly of GW body	2.20E-03	LMNA	1
+Cardiovascular Disease,Connective Tissue Disorders,Dermatological Diseases and Conditions,Metabolic Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Lipoatrophy with diabetes hepatic steatosis hypertrophic cardiomyopathy and leukomelanodermic papules	2.20E-03	LMNA	1
+Cellular Development	Commitment of muscle precursor cells	2.20E-03	LMNA	1
+Cardiovascular Disease,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Muscular dystrophy of cardiac muscle	2.20E-03	LMNA	1
+Cardiovascular Disease,Developmental Disorder,Hereditary Disorder,Organismal Functions,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Limb girdle muscular dystrophy type 1b	2.20E-03	LMNA	1
+Cardiac Dilation,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Developmental Disorder,Endocrine System Disorders,Hereditary Disorder,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Reproductive System Disease,Skeletal and Muscular Disorders	Dilated cardiomyopathy with hypergonadotropic hypogonadism	2.20E-03	LMNA	1
+Connective Tissue Disorders,Dermatological Diseases and Conditions,Developmental Disorder,Gastrointestinal Disease,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Atypical mandibuloacral dysplasia with type A lipodystrophy	2.20E-03	LMNA	1
+Cellular Movement	Extravasation of leukemia cell lines	2.20E-03	LMNA	1
+Dermatological Diseases and Conditions,Developmental Disorder,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Atypical Hutchinson Gilford progeria syndrome	2.20E-03	LMNA	1
+Dermatological Diseases and Conditions,Developmental Disorder,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Atypical Werner syndrome	2.20E-03	LMNA	1
+Dermatological Diseases and Conditions,Developmental Disorder,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Childhood-onset Hutchinson-Gilford progeria syndrome	2.20E-03	LMNA	1
+Cellular Assembly and Organization	Detachment of desmin filament	2.20E-03	LMNA	1
+Dermatological Diseases and Conditions,Hereditary Disorder,Organismal Injury and Abnormalities	Hypotrichosis type 7	2.20E-03	KRT25	1
+Nervous System Development and Function	Mechanotransduction of embryonic cell lines	2.20E-03	LMNA	1
+Connective Tissue Disorders,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Autosomal dominant familial partial lipodystrophy type 2	2.20E-03	LMNA	1
+Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Charcot-Marie-Tooth disease axonal type 2b1	2.20E-03	LMNA	1
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Skin appendage neoplasm	2.26E-03	CTNNB1,CYLD	2
+Nervous System Development and Function	Sensory system development	2.33E-03	BFSP1,BFSP2,CTNNB1,KRT12,LIM2,RARA	6
+Organismal Development	Morphology of head	2.36E-03	BFSP1,BFSP2,CTNNB1,HSD17B2,KRT12,LMNA,MTOR,RARA,TRAF6	9
+Cell-mediated Immune Response,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Embryonic Development,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Organ Development,Organismal Development,Tissue Development	Proliferation of thymocytes	2.37E-03	CTNNB1,MTOR,TRAF6	3
+Cellular Development,Cellular Growth and Proliferation,Hematological System Development and Function,Hematopoiesis,Tissue Development	Development of high proliferative potential colony-forming cells	2.51E-03	Cxcl15	1
+Embryonic Development,Organismal Development,Tissue Development	Formation of anlage	2.52E-03	CTNNB1,MTOR	2
+Cellular Development,Cellular Growth and Proliferation,Nervous System Development and Function	Myelination of cells	2.55E-03	CTNNB1,MTOR,RARA	3
+Organ Morphology,Organismal Injury and Abnormalities,Reproductive System Development and Function,Reproductive System Disease	Abnormal morphology of external genitalia	2.61E-03	RARA,TRAF6	2
+Cancer,Organismal Injury and Abnormalities	Borderline tumor	2.76E-03	CTNNB1,RARA	2
+Cell Cycle,Hair and Skin Development and Function	Delay in G1/S phase transition of keratinocytes	2.82E-03	CYLD	1
+Endocrine System Development and Function,Energy Production,Lipid Metabolism,Small Molecule Biochemistry	Oxidation of androstenedione	2.82E-03	HSD17B2	1
+Cell-To-Cell Signaling and Interaction,Hepatic System Development and Function	Activation of oval cells	2.82E-03	CYLD	1
+Cell Death and Survival,Organismal Survival	Survival of Haemophilus influenzae Rd KW20	2.82E-03	phosphorylcholine	1
+Cellular Function and Maintenance	Function of bone marrow-derived dendritic cells	2.82E-03	CYLD	1
+Hematological System Development and Function,Lymphoid Tissue Structure and Development,Organ Morphology,Organismal Development,Tissue Morphology	Enlargement of mesenteric lymph node	2.82E-03	CYLD	1
+Cancer,Dermatological Diseases and Conditions,Hereditary Disorder,Organismal Injury and Abnormalities	Autosomal dominant familial cylindromatosis	2.82E-03	CYLD	1
+Cancer,Cell Cycle,Organismal Injury and Abnormalities	Delay in G1/S phase transition of melanoma cells	2.82E-03	CYLD	1
+Cancer,Dermatological Diseases and Conditions,Hereditary Disorder,Organismal Injury and Abnormalities	Multiple familial trichoepithelioma 1	2.82E-03	CYLD	1
+Cancer,Hereditary Disorder,Organismal Injury and Abnormalities	Autosomal dominant Brooke-Spiegler syndrome	2.82E-03	CYLD	1
+Cellular Function and Maintenance	Function of dendritic cells	2.86E-03	CYLD,MTOR,TRAF6	3
+Cancer,Hematological Disease,Immunological Disease,Organismal Injury and Abnormalities	High-risk karyotype acute myeloid leukemia	2.96E-03	MTOR,RARA	2
+Cellular Development	Maturation of cells	2.97E-03	BFSP1,BFSP2,CTNNB1,MTOR,RARA,TRAF6	6
+Lymphoid Tissue Structure and Development	Frequency of lymphocytes	2.98E-03	CTNNB1,CYLD,MTOR	3
+Cellular Function and Maintenance	Maintenance of leukocytes	3.00E-03	MTOR,TRAF6	2
+Cancer,Organismal Injury and Abnormalities	Fibroma	3.14E-03	CTNNB1,MTOR,RARA	3
+Cancer,Hematological Disease,Immunological Disease,Organismal Injury and Abnormalities	PML-RARA mutation positive adult acute myeloid leukemia	3.33E-03	MTOR,RARA	2
+Cell Death and Survival,Glomerular Injury,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Apoptosis of podocytes	3.33E-03	CTNNB1,MTOR	2
+Cellular Development,Connective Tissue Development and Function,Skeletal and Muscular System Development and Function,Tissue Development	Differentiation of chondroprogenitor cells	3.45E-03	RARA	1
+Cancer,Cell Cycle,Cell-To-Cell Signaling and Interaction,Cellular Growth and Proliferation,Organismal Injury and Abnormalities,Tumor Morphology	Contact growth inhibition of mantle cell lymphoma cells	3.45E-03	RARA	1
+Lipid Metabolism,Small Molecule Biochemistry	Stimulation of tretinoin	3.45E-03	RARA	1
+Cancer,Cell Death and Survival,Organismal Injury and Abnormalities,Tumor Morphology	Apoptosis of prostatic adenocarcinoma cells	3.45E-03	RARA	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Degeneration of cervical vertebra	3.45E-03	RARA	1
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Organ Development,Organismal Development,Respiratory System Development and Function,Tissue Development	Formation of alveolar type I cells	3.45E-03	RARA	1
+Cellular Development,Cellular Growth and Proliferation,Connective Tissue Development and Function,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Skeletal and Muscular System Development and Function,Tissue Development	Osteoclastogenesis of bone marrow-derived macrophages	3.50E-03	RARA,TRAF6	2
+Cancer,Organismal Injury and Abnormalities,Renal and Urological Disease	Papillary renal cell carcinoma	3.58E-03	APOD,CTNNB1,MTOR	3
+Organ Morphology,Organismal Development,Reproductive System Development and Function	Morphology of uterus	3.60E-03	CTNNB1,MTOR,RARA	3
+Cancer,Organismal Injury and Abnormalities	Multiple epitheliomas	3.60E-03	CTNNB1,CYLD	2
+Cellular Growth and Proliferation,Organ Development,Reproductive System Development and Function	Proliferation of ovarian cortex cells	3.65E-03	CTNNB1,MTOR	2
+Cell Death and Survival	Cell death of myeloma cell lines	3.67E-03	CTNNB1,MTOR,RARA	3
+Cell Morphology,Cellular Compromise	Binucleation of fibroblasts	3.76E-03	LMNA	1
+Cellular Growth and Proliferation,Nervous System Development and Function,Organ Development	Proliferation of forebrain cells	3.76E-03	MTOR	1
+Auditory and Vestibular System Development and Function,Cellular Development,Organ Development,Tissue Development	Differentiation of inner pillar cells	3.76E-03	CTNNB1	1
+Gastrointestinal Disease,Organismal Injury and Abnormalities	Dysplasia of small intestine	3.76E-03	CTNNB1	1
+Cellular Movement	Distribution of thymic medullary epithelial cells	3.76E-03	TRAF6	1
+Cellular Development,Nervous System Development and Function,Tissue Development	Differentiation of inner hair cells	3.76E-03	CTNNB1	1
+Cellular Assembly and Organization	Binding of chromatin templates	3.76E-03	CTNNB1	1
+Cellular Growth and Proliferation,Connective Tissue Development and Function,Organ Development,Reproductive System Development and Function,Tissue Development	Proliferation of theca cells	3.76E-03	MTOR	1
+Embryonic Development,Organismal Development,Tissue Development	Patterning of vitelline vessel	3.76E-03	CTNNB1	1
+Embryonic Development,Organismal Development,Tissue Development	Formation of telencephalic primordium	3.76E-03	MTOR	1
+Connective Tissue Disorders,Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Agenesis of scapula	3.76E-03	CTNNB1	1
+Embryonic Development,Organismal Development,Tissue Morphology	Size of ventricular zone	3.76E-03	CTNNB1	1
+Cancer,Dental Disease,Gastrointestinal Disease,Organismal Injury and Abnormalities	Follicular ameloblastoma	3.76E-03	CTNNB1	1
+Cellular Assembly and Organization	Distribution of subsarcolemmal mitochondria	3.76E-03	TRAF6	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Fibrolamellar carcinoma	3.76E-03	MTOR	1
+Cancer,Dermatological Diseases and Conditions,Hereditary Disorder,Organismal Injury and Abnormalities	Trichoepithelioma with matrical differentiation	3.76E-03	CTNNB1	1
+Cellular Function and Maintenance	Maintenance of induced regulatory T-lymphocyte	3.76E-03	MTOR	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function	Resorption of rib	3.76E-03	CTNNB1	1
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Organismal Development	Expansion of dopaminergic progenitor cells	3.76E-03	CTNNB1	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Gastric carcinoid tumor	3.76E-03	CTNNB1	1
+Cancer,Cell-To-Cell Signaling and Interaction,Inflammatory Response	Cytotoxic reaction of adenocarcinoma cell lines	3.76E-03	MTOR	1
+Cell Cycle	Exit from cell cycle progression of dopaminergic progenitor cells	3.76E-03	CTNNB1	1
+Cellular Function and Maintenance	Maintenance of follicular dendritic cells	3.76E-03	TRAF6	1
+Connective Tissue Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Calcifying odontogenic cyst	3.76E-03	CTNNB1	1
+Cellular Assembly and Organization	Distribution of interfibrillar mitochondria	3.76E-03	TRAF6	1
+Cancer,Neurological Disease,Organismal Injury and Abnormalities	Medulloblastoma WNT-subtype in brainstem	3.76E-03	CTNNB1	1
+Cancer,Organismal Injury and Abnormalities	Primary sporadic desmoid tumor	3.76E-03	CTNNB1	1
+Embryonic Development,Organismal Development,Tissue Development	Formation of cardiac loop	3.76E-03	CTNNB1	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Duodenal carcinoid tumor	3.76E-03	CTNNB1	1
+Embryonic Development,Organismal Development,Tissue Development	Formation of telencephalic vesicle	3.76E-03	MTOR	1
+Digestive System Development and Function,Embryonic Development,Organ Development,Organismal Development,Tissue Development	Development of anal gland	3.76E-03	TRAF6	1
+Cellular Development,Nervous System Development and Function,Tissue Development	Differentiation of outer hair cells	3.76E-03	CTNNB1	1
+Cell Morphology	Polarity of hepatoma cell lines	3.76E-03	MTOR	1
+Embryonic Development,Organ Development,Organismal Development,Tissue Development	Formation of oviduct	3.76E-03	CTNNB1	1
+Cell-mediated Immune Response,Hematological System Development and Function	Anergy of Th1 cells	3.76E-03	MTOR	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dystrophy of anterior tibial muscle	3.76E-03	MTOR	1
+Cellular Development,Nervous System Development and Function,Tissue Development	Differentiation of sensory progenitor cells	3.76E-03	CTNNB1	1
+Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Autosomal dominant mental retardation type 19	3.76E-03	CTNNB1	1
+Cell Cycle	Senescence of colon cell lines	3.76E-03	CTNNB1	1
+Cardiovascular System Development and Function,Organismal Development,Tissue Development	Development of blood vessel lumen	3.76E-03	CTNNB1	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities,Reproductive System Disease	Microcystic stromal tumor of ovary	3.76E-03	CTNNB1	1
+Organ Development,Organ Morphology,Skeletal and Muscular System Development and Function	Relaxation of anterior tibial muscle	3.76E-03	MTOR	1
+Cell Morphology	Elongation of intestinal cell lines	3.76E-03	CTNNB1	1
+Embryonic Development	Onset of regression of apical ectodermal ridge	3.76E-03	CTNNB1	1
+Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Development of guard hair follicle	3.76E-03	TRAF6	1
+Cell Morphology	Conversion of germ cell tumor cell lines	3.76E-03	CTNNB1	1
+Cancer,Organismal Injury and Abnormalities	Extra-abdominal desmoid tumor	3.76E-03	CTNNB1	1
+Cancer,Cell-To-Cell Signaling and Interaction,Inflammatory Response	Cytotoxic reaction of stomach cancer cell lines	3.76E-03	MTOR	1
+Connective Tissue Disorders,Developmental Disorder,Gastrointestinal Disease,Neurological Disease,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Smith-Kingsmore syndrome	3.76E-03	MTOR	1
+Embryonic Development,Organ Development,Organismal Development,Reproductive System Development and Function,Tissue Development	Delay in initiation of formation of uterine gland	3.76E-03	CTNNB1	1
+Cell Morphology,Hair and Skin Development and Function,Tissue Development	Keratinization of secretory epithelium	3.76E-03	CTNNB1	1
+Cellular Function and Maintenance,Hematological System Development and Function	Function of gamma-delta T lymphocytes	3.76E-03	MTOR	1
+Cellular Development,Cellular Growth and Proliferation,Tissue Development	Generation of dopaminergic progenitor cells	3.76E-03	CTNNB1	1
+Cellular Development,Cellular Growth and Proliferation,Tissue Development,Tissue Morphology	Expansion of sensory progenitor cells	3.76E-03	CTNNB1	1
+Cancer	Transformation of colon cell lines	3.76E-03	CTNNB1	1
+Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Focal cortical dysplasia of Taylor type IIA	3.76E-03	MTOR	1
+Cell Cycle,Nervous System Development and Function	Exit from cell cycle progression of Schwann cells	3.76E-03	CTNNB1	1
+Cancer,Neurological Disease,Organismal Injury and Abnormalities	Classic medulloblastoma in medulla oblongata	3.76E-03	CTNNB1	1
+Cell Death and Survival,Neurological Disease,Organismal Injury and Abnormalities	Cell death of CA3b neurons	3.76E-03	MTOR	1
+Embryonic Development,Organismal Development,Tissue Development	Formation of mammary primordia	3.76E-03	CTNNB1	1
+Carbohydrate Metabolism,Lipid Metabolism,Small Molecule Biochemistry	Transduction of lipopolysaccharide	3.76E-03	TRAF6	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function	Resorption of vertebrae	3.76E-03	CTNNB1	1
+Cell Morphology,Cellular Assembly and Organization	Shape of nucleus	3.76E-03	LMNA	1
+DNA Replication, Recombination, and Repair	Delay in initiation of synthesis of DNA	3.76E-03	CTNNB1	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Blastoma in left upper lobe of lung	3.76E-03	CTNNB1	1
+Auditory and Vestibular System Development and Function,Cellular Growth and Proliferation,Organ Development,Tissue Development	Proliferation of greater epithelial ridge cells	3.76E-03	CTNNB1	1
+Organ Morphology,Skeletal and Muscular System Development and Function	Contraction of anterior tibial muscle	3.76E-03	MTOR	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Pancreatoblastoma	3.76E-03	CTNNB1	1
+Cardiovascular System Development and Function,Embryonic Development,Organismal Development,Tissue Development	Patterning of umbilical vessels	3.76E-03	CTNNB1	1
+Cell-mediated Immune Response,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Embryonic Development,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Organ Development,Organismal Development,Tissue Development	Arrest in growth of thymocytes	3.76E-03	CTNNB1	1
+Embryonic Development,Organismal Development	Development of Meibomian gland	3.76E-03	TRAF6	1
+Cancer,Organismal Injury and Abnormalities	Squamous cell carcinoma with matrical differentiation	3.76E-03	CTNNB1	1
+Endocrine System Disorders,Gastrointestinal Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Acute pancreatitis of edematous tissue	3.76E-03	CTNNB1	1
+Cellular Assembly and Organization,Cellular Compromise	Disruption of keratin intermediate filaments	3.76E-03	KRT12	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Carcinomatous polyp	3.76E-03	CTNNB1	1
+Organismal Functions	Regulation of airway smooth muscle	3.76E-03	CTNNB1	1
+Cancer,Dental Disease,Gastrointestinal Disease,Organismal Injury and Abnormalities,Tissue Morphology	Quantity of odontoma	3.76E-03	CTNNB1	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Carcinoid tumor in rectum	3.76E-03	CTNNB1	1
+Endocrine System Development and Function,Nervous System Development and Function,Organ Morphology,Tissue Morphology	Quantity of pituitary progenitor cells	3.76E-03	CTNNB1	1
+Cellular Development,Embryonic Development,Organismal Development,Tissue Development	Epithelial-mesenchymal transition of extraembryonic ectoderm	3.76E-03	CTNNB1	1
+Cell Death and Survival,Neurological Disease,Organismal Injury and Abnormalities	Cell death of CA3c neurons	3.76E-03	MTOR	1
+Cancer,Organismal Injury and Abnormalities	Severity of carcinoma	3.76E-03	CTNNB1	1
+Cancer,Neurological Disease,Organismal Injury and Abnormalities	Desmoplastic medulloblastoma in posterior cranial fossa	3.76E-03	CTNNB1	1
+Organ Development,Organ Morphology,Skeletal and Muscular System Development and Function	Relaxation of soleus muscle	3.76E-03	MTOR	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Blastoma in right upper lobe of lung	3.76E-03	CTNNB1	1
+Cancer,Organismal Injury and Abnormalities	Transformation of thymocytes	3.76E-03	CTNNB1	1
+Cell Cycle,Nervous System Development and Function	Re-entry into cell cycle progression of neuroepithelial cells	3.76E-03	CTNNB1	1
+Organismal Injury and Abnormalities	Incidence of pathological cyst	3.76E-03	CTNNB1	1
+Cancer,Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Metastatic bone sarcoma	3.76E-03	MTOR	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities,Reproductive System Disease	Low malignant potential endometrioid neoplasm in ovary	3.76E-03	CTNNB1	1
+Cellular Function and Maintenance,Hematological System Development and Function	Function of alpha-beta T lymphocytes	3.76E-03	MTOR	1
+Dermatological Diseases and Conditions,Organ Morphology,Organismal Injury and Abnormalities	Lack of palmar eccrine gland	3.76E-03	TRAF6	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Basal cell adenoma in parotid gland	3.76E-03	CTNNB1	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function	Resorption of femur	3.76E-03	CTNNB1	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatocellular adenoma	3.80E-03	CTNNB1,MTOR	2
+Cellular Assembly and Organization,Cellular Compromise	Disruption of filaments	3.90E-03	Cytokeratin,KRT12,MTOR	3
+Endocrine System Disorders,Organ Morphology,Organismal Injury and Abnormalities,Reproductive System Disease	Atrophy of seminiferous tubule	4.08E-03	HSD17B2	1
+Cancer,Cell Death and Survival,Organismal Injury and Abnormalities,Tumor Morphology	Cell viability of Lewis lung carcinoma cells	4.08E-03	CTNNB1	1
+Cellular Development,Embryonic Development,Organismal Development,Tissue Development	Osteogenic differentiation of mesenchymal stem cells	4.08E-03	LMNA	1
+Cellular Assembly and Organization	Clustering of nuclear pores	4.08E-03	LMNA	1
+Cell-mediated Immune Response,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Embryonic Development,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Organ Development,Organismal Development,Tissue Development	Development of memory T lymphocytes	4.11E-03	MTOR,TRAF6	2
+Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of head	4.13E-03	BFSP1,BFSP2,HSD17B2,KRT12,LMNA,MTOR,RARA,TRAF6	8
+Embryonic Development,Organ Development,Organismal Development,Tissue Development	Development of sensory organ	4.18E-03	BFSP1,BFSP2,CTNNB1,KRT12,LIM2,RARA	6
+Cell Cycle	Exit from cell cycle progression	4.24E-03	CTNNB1,LMNA	2
+Cellular Development,Cellular Growth and Proliferation,Nervous System Development and Function	Proliferation of Schwann cells	4.30E-03	CTNNB1,MTOR	2
+Cellular Development,Cellular Growth and Proliferation,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Tissue Development	Differentiation of monoblasts	4.39E-03	RARA	1
+Behavior,Nervous System Development and Function	Auditory fear memory retrieval	4.39E-03	miR-182-5p (and other miRNAs w/seed UUGGCAA)	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Gastrointestinal neuroendocrine tumor	4.43E-03	CTNNB1,MTOR	2
+Cellular Movement	Migration of prostate cancer cell lines	4.48E-03	CTNNB1,LMNA,RARRES1	3
+Cell Death and Survival	Apoptosis of hematopoietic progenitor cells	4.54E-03	CTNNB1,CYLD,MTOR,RARA	4
+Hematological System Development and Function,Lymphoid Tissue Structure and Development,Organ Morphology,Tissue Morphology	Morphology of lymphoid organ	4.66E-03	CTNNB1,CYLD,LMNA,MTOR,RARA,TRAF6	6
+Cardiovascular Disease,Organismal Injury and Abnormalities	Calcification of aortic ring tissue	4.70E-03	CTNNB1	1
+Cell Morphology	Conversion of carcinoma cell lines	4.70E-03	CTNNB1	1
+Organismal Development	Abnormal morphology of bent tail	4.77E-03	CYLD,TRAF6	2
+Cancer,Hematological Disease,Immunological Disease,Organismal Injury and Abnormalities	Childhood acute myeloid leukemia	4.79E-03	MTOR,RARA	2
+Cancer,Organismal Injury and Abnormalities	Sporadic cancer	4.85E-03	CTNNB1,MTOR	2
+Cardiovascular Disease,Organismal Injury and Abnormalities	Abnormality of left ventricle	4.92E-03	CTNNB1,LMNA,MTOR,RARA	4
+Cell Death and Survival,Cellular Development,Cellular Function and Maintenance,Hematopoiesis	Self-renewal of hematopoietic cells	5.00E-03	CTNNB1,RARA	2
+Antigen Presentation,Cell-To-Cell Signaling and Interaction,Inflammatory Response	Allostimulatory capacity of bone marrow-derived dendritic cells	5.01E-03	CYLD	1
+Skeletal and Muscular System Development and Function	Density of femur	5.01E-03	LMNA	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Uptake of arachidonic acid	5.01E-03	APOD	1
+Hematological System Development and Function,Hematopoiesis	Development of hematopoietic system	5.13E-03	CTNNB1,Cxcl15,MTOR,RARA,TRAF6	5
+Cellular Function and Maintenance	Maintenance of cells	5.16E-03	CTNNB1,MTOR,TRAF6	3
+Cancer,Cell Death and Survival,Organismal Injury and Abnormalities,Tumor Morphology	Apoptosis of carcinoma cells	5.29E-03	CTNNB1,RARA	2
+Cell Death and Survival,Hematological System Development and Function	Cell viability of T lymphocytes	5.31E-03	CTNNB1,CYLD,MTOR	3
+Embryonic Development,Organismal Development,Tissue Development	Development of mesenchyme	5.32E-03	CTNNB1,RARA	2
+Embryonic Development,Tissue Morphology	Quantity of ureteric bud branch	5.33E-03	RARA	1
+Cellular Movement,Renal and Urological System Development and Function	Migration of podocytes	5.33E-03	MTOR	1
+Skeletal and Muscular System Development and Function	Density of trabecular bone	5.33E-03	LMNA	1
+Embryonic Development,Tissue Morphology	Quantity of type B neural stem cells	5.33E-03	CTNNB1	1
+Cancer,Organismal Injury and Abnormalities	Metastatic potential of hepatoma cell lines	5.33E-03	CTNNB1	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Lethal restrictive dermopathy	5.33E-03	LMNA	1
+Organismal Development,Organismal Injury and Abnormalities,Respiratory Disease,Respiratory System Development and Function	Abnormal morphology of primary bronchus	5.33E-03	RARA	1
+Cellular Development,Cellular Growth and Proliferation,Digestive System Development and Function,Hepatic System Development and Function,Liver Proliferation,Organ Development,Tissue Development	Delay in initiation of proliferation of hepatocytes	5.33E-03	CTNNB1	1
+Cell Death and Survival,Cellular Development,Cellular Function and Maintenance,Hematological System Development and Function,Hematopoiesis,Tissue Development	Self-renewal of granulocyte-macrophage progenitor cells	5.33E-03	CTNNB1	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Respiratory Disease,Skeletal and Muscular Disorders	Dystrophy of diaphragm	5.33E-03	MTOR	1
+Digestive System Development and Function,Gastrointestinal Disease	Lack of anal canal	5.33E-03	RARA	1
+Cellular Development,Cellular Growth and Proliferation,Nervous System Development and Function,Tissue Development	Neurogenesis of dopaminergic neurons	5.33E-03	CTNNB1	1
+Cancer,Cellular Development,Organismal Injury and Abnormalities,Tumor Morphology	Differentiation of myeloid leukemia cells	5.38E-03	CTNNB1,RARA	2
+Connective Tissue Development and Function,Connective Tissue Disorders,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Development	Abnormal morphology of temporal bone	5.41E-03	LMNA,RARA	2
+Cancer,Cell Death and Survival,Organismal Injury and Abnormalities,Tumor Morphology	Apoptosis of cancer cells	5.42E-03	CTNNB1,MTOR,RARA,TNFRSF10C	4
+Dermatological Diseases and Conditions,Developmental Disorder,Organismal Injury and Abnormalities	Congenital anomaly of skin	5.45E-03	CTNNB1,LMNA,MTOR	3
+Cancer,Organismal Injury and Abnormalities	Bilateral tumor	5.47E-03	CTNNB1,MTOR	2
+Cardiovascular System Development and Function,Cell Death and Survival	Survival of pulmonary artery endothelial cells	5.64E-03	CTNNB1	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Pseudopapillary tumor of pancreas	5.64E-03	CTNNB1	1
+Cell Cycle,Cellular Movement	Delay in initiation of cytokinesis of cervical cancer cell lines	5.64E-03	LMNA	1
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Pilomatrixoma	5.64E-03	CTNNB1	1
+Embryonic Development,Organismal Development	Formation of dorsal-ventral axis	5.64E-03	CTNNB1	1
+Carbohydrate Metabolism,Small Molecule Biochemistry	Handling of D-glucose	5.64E-03	CTNNB1	1
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Tumorigenesis of interfollicular epidermal cells	5.64E-03	CTNNB1	1
+Organ Development,Skeletal and Muscular System Development and Function	Force generation of anterior tibial muscle	5.64E-03	MTOR	1
+Tissue Morphology	Quantity of lactobacillus	5.64E-03	RARA	1
+Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Fatigue of soleus muscle	5.64E-03	MTOR	1
+Cellular Assembly and Organization,Cellular Function and Maintenance	Cohesion of centriole	5.64E-03	CTNNB1	1
+Nervous System Development and Function	Initiation of myelination	5.64E-03	MTOR	1
+Glomerular Injury,Organismal Injury and Abnormalities,Renal and Urological Disease	Glomerular cyst	5.64E-03	CTNNB1	1
+Cellular Movement,Hematological System Development and Function,Immune Cell Trafficking	Transmigration of myeloid-derived suppressor cells	5.64E-03	MTOR	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities,Reproductive System Disease	Androblastoma	5.64E-03	CTNNB1	1
+Hematological System Development and Function,Lymphoid Tissue Structure and Development,Organ Morphology,Organismal Development,Tissue Morphology	Size of spleen	5.83E-03	MTOR,RARA	2
+Cell Death and Survival,Connective Tissue Development and Function,Tissue Morphology	Quantity of apoptotic chondrocytes	5.95E-03	CTNNB1	1
+Cancer,Organismal Injury and Abnormalities	High grade recurrent sarcoma	5.95E-03	MTOR	1
+Cancer,Cardiovascular Disease,Developmental Disorder,Organismal Injury and Abnormalities	Blue rubber bleb nevus syndrome	5.95E-03	MTOR	1
+Cardiovascular Disease,Developmental Disorder,Organismal Injury and Abnormalities	Large unifocal venous malformation	5.95E-03	MTOR	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Grade 2 metastatic gastrointestinal neuroendocrine tumor	5.95E-03	MTOR	1
+Cancer,Organismal Injury and Abnormalities	PTEN loss solid tumor	5.95E-03	MTOR	1
+Cancer,Organismal Injury and Abnormalities	Recurrent angiomyolipoma	5.95E-03	MTOR	1
+Dermatological Diseases and Conditions,Hair and Skin Development and Function,Organ Morphology,Organismal Injury and Abnormalities	Lack of guard hair	5.95E-03	TRAF6	1
+Cancer,Organismal Injury and Abnormalities	High grade recurrent metastatic chondrosarcoma	5.95E-03	MTOR	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Grade 1 unresectable gastrointestinal neuroendocrine tumor	5.95E-03	MTOR	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities,Tumor Morphology	Grade 2 progressive gastrointestinal neuroendocrine tumor	5.95E-03	MTOR	1
+Cancer,Organismal Injury and Abnormalities	PTEN gene deletion positive solid tumor	5.95E-03	MTOR	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Grade 2 unresectable gastrointestinal neuroendocrine tumor	5.95E-03	MTOR	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities,Respiratory Disease	Locally advanced neuroendocrine lung tumor	5.95E-03	MTOR	1
+Cancer,Organismal Injury and Abnormalities,Renal and Urological Disease,Tumor Morphology	Progressive renal clear cell adenocarcinoma	5.95E-03	MTOR	1
+Infectious Diseases	Infection by BK polyomavirus	5.95E-03	MTOR	1
+Cell Cycle	Arrest in G2 phase of skin cancer cell lines	5.95E-03	CTNNB1	1
+Cancer,Dermatological Diseases and Conditions,Developmental Disorder,Gastrointestinal Disease,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Peutz-Jeghers syndrome	5.95E-03	CTNNB1	1
+Cancer,Organismal Injury and Abnormalities,Tumor Morphology	Progressive PIK3CA amplification positive solid tumor	5.95E-03	MTOR	1
+Cellular Assembly and Organization,Cellular Development,Cellular Growth and Proliferation,Digestive System Development and Function,Embryonic Development,Hepatic System Development and Function,Organ Development,Organismal Development,Tissue Development	Formation of biliary canaliculi	5.95E-03	MTOR	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Grade 1 locally advanced islet cell tumor	5.95E-03	MTOR	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities,Tumor Morphology	Grade 1 progressive gastrointestinal neuroendocrine tumor	5.95E-03	MTOR	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Grade 1 metastatic gastrointestinal neuroendocrine tumor	5.95E-03	MTOR	1
+Cancer,Endocrine System Disorders,Gastrointestinal Disease,Organismal Injury and Abnormalities	Grade 2 locally advanced islet cell tumor	5.95E-03	MTOR	1
+Cardiac Dilation,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Hereditary Disorder,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dilated cardiomyopathy 1A	6.26E-03	LMNA	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatoblastoma	6.44E-03	CTNNB1,MTOR	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Beta-catenin activating mutation positive hepatocellular adenoma	6.58E-03	CTNNB1	1
+Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal and Urological System Development and Function,Renal Enlargement	Hypertrophy of kidney	7.07E-03	HSD17B2,RARA	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Onset of development of liver tumor	7.82E-03	CTNNB1	1
+Cardiac Necrosis/Cell Death,Cell Death and Survival	Apoptosis of cardiac stem cells	9.07E-03	CTNNB1	1
+Cardiac Arrythmia,Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Idiopathic ventricular fibrillation	9.69E-03	LMNA	1
+Cellular Development,Cellular Growth and Proliferation,Renal and Urological System Development and Function,Renal Proliferation	Cell proliferation of kidney cell lines	1.41E-02	CTNNB1,LMNA,MTOR	3
+Cellular Development,Cellular Growth and Proliferation,Renal and Urological System Development and Function,Renal Proliferation	Arrest in growth of kidney cell lines	1.62E-02	LMNA	1
+Glomerular Injury,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Stage V lupus nephritis	1.78E-02	MTOR	1
+Gastrointestinal Disease,Hepatic System Disease,Liver Dysplasia,Organismal Injury and Abnormalities	Liver Dysplasia	1.78E-02	RARA	1
+Glomerular Injury,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Stage III lupus nephritis	1.78E-02	MTOR	1
+Glomerular Injury,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Stage IV lupus nephritis	1.78E-02	MTOR	1
+Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal and Urological System Development and Function,Renal Enlargement	Hypertrophy of renal tubule	1.87E-02	HSD17B2	1
+Cardiac Arrythmia,Cardiovascular Disease,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Arrhythmogenic right ventricular dysplasia familial 9	1.96E-02	LMNA	1
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Anoikis of kidney cell lines	1.99E-02	CTNNB1	1
+Cardiac Dilation,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Hereditary Disorder,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dilated cardiomyopathy 1S	2.18E-02	LMNA	1
+Cardiac Proliferation,Cardiovascular System Development and Function,Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Organ Development,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Development	Proliferation of cardiomyocytes	2.37E-02	CTNNB1,RARA	2
+Glomerular Injury,Immunological Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Idiopathic membranous nephropathy	2.39E-02	MTOR	1
+Cardiac Arrythmia,Cardiovascular Disease,Hereditary Disorder,Organismal Injury and Abnormalities,Tachycardia	Catecholaminergic polymorphic ventricular tachycardia type 1	2.88E-02	LMNA	1
+Cellular Compromise,Glomerular Injury,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Damage	Injury of podocytes	2.88E-02	CTNNB1	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Development of hepatocellular carcinoma	3.14E-02	CTNNB1,RARA	2
+Cardiac Dysfunction,Cardiovascular Disease,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Familial left ventricular noncompaction	3.19E-02	LMNA	1
+Increased Levels of LDH	Increased activation of LDH	3.25E-02	MTOR	1
+Glomerular Injury,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Primary glomerulonephritis	3.46E-02	MTOR	1
+Cardiovascular Disease,Congenital Heart Anomaly,Developmental Disorder,Organismal Injury and Abnormalities	Perimembranous ventricular septal defect	4.91E-02	RARA	1
+Nephrosis,Organismal Injury and Abnormalities,Renal and Urological Disease	Minimal change nephrotic syndrome	4.91E-02	MTOR	1
+Hepatic System Development and Function,Liver Proliferation,Organ Morphology,Tissue Morphology	Quantity of hepatocytes	5.00E-02	CTNNB1	1
+Cardiac Enlargement,Cardiovascular System Development and Function,Organ Morphology,Organismal Development	Enlargement of left ventricle	5.25E-02	LMNA,MTOR	2
+Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Degeneration	Degeneration of kidney	5.32E-02	HSD17B2	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	BCLC stage B hepatocellular carcinoma	5.92E-02	RARA	1
+Cardiac Dilation,Cardiovascular System Development and Function,Organ Morphology	Dilation of left ventricle	6.18E-02	LMNA	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	BCLC stage C hepatocellular carcinoma	6.27E-02	RARA	1
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Infectious Diseases,Inflammatory Disease,Inflammatory Response,Liver Inflammation/Hepatitis,Organ Development,Organismal Injury and Abnormalities	Viral hepatitis	6.73E-02	MTOR,RARA	2
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Cell Morphology,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Morphology	Hypertrophy of ventricular myocytes	7.10E-02	MTOR	1
+Cardiovascular Disease,Congenital Heart Anomaly,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Respiratory Disease	Persistent truncus arteriosus	7.33E-02	RARA	1
+Cardiac Dilation,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Hereditary Disorder,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dominant dilated cardiomyopathy	7.50E-02	LMNA	1
+Cell Death and Survival,Gastrointestinal Disease,Hepatic System Disease,Liver Necrosis/Cell Death,Organismal Injury and Abnormalities	Apoptosis of hepatocytes	7.94E-02	CTNNB1,MTOR	2
+Cardiac Dysfunction,Cardiovascular Disease,Organismal Injury and Abnormalities	Left ventricular dysfunction	8.17E-02	LMNA,MTOR	2
+Cardiac Necrosis/Cell Death,Cardiovascular System Development and Function,Cell Death and Survival,Skeletal and Muscular System Development and Function	Cell viability of cardiomyocytes	8.32E-02	APOD	1
+Developmental Disorder,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal and Urological System Development and Function,Renal Hypoplasia	Agenesis of kidney	8.43E-02	RARA	1
+Cellular Development,Cellular Growth and Proliferation,Digestive System Development and Function,Hepatic System Development and Function,Liver Proliferation,Organ Development,Tissue Development	Proliferation of hepatocytes	8.57E-02	CTNNB1,RARA	2
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Enlargement of heart	8.82E-02	CTNNB1,LMNA,MTOR,TRAF6	4
+Cardiac Arrythmia,Cardiovascular Disease,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Hereditary Wolff-Parkinson-White syndrome	8.84E-02	LMNA	1
+Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal and Urological System Development and Function,Renal Enlargement	Hypertrophy of renal glomerulus	1.01E-01	RARA	1
+Cardiovascular Disease,Congenital Heart Anomaly,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities	Double outlet right ventricle	1.01E-01	RARA	1
+Glomerular Injury,Kidney Failure,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Fibrosis	Interstitial fibrosis of kidney	1.22E-01	MTOR	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Growth of liver tumor	1.30E-01	CTNNB1	1
+Gastrointestinal Disease,Hepatic System Disease,Liver Cholestasis,Organismal Injury and Abnormalities	Intrahepatic cholestasis	1.37E-01	CTNNB1	1
+Cardiac Dilation,Cardiac Dysfunction,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Left ventricular dilation	1.44E-01	LMNA	1
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Infectious Diseases,Inflammatory Disease,Inflammatory Response,Liver Inflammation/Hepatitis,Organ Development,Organismal Injury and Abnormalities	Infection by hepatitis B virus	1.52E-01	RARA	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver metastasis	1.64E-01	CTNNB1	1
+Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Damage	Nephrotoxicity	1.86E-01	MTOR	1
+Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Hydronephrosis	Hydronephrosis	1.86E-01	RARA	1
+Digestive System Development and Function,Hepatic System Development and Function,Liver Regeneration,Organ Morphology	Liver Regeneration	2.00E-01	CTNNB1	1
+Gastrointestinal Disease,Hepatic System Disease,Inflammatory Disease,Liver Cirrhosis,Organismal Injury and Abnormalities	Primary biliary cirrhosis	2.17E-01	CTNNB1	1
+Cardiac Dysfunction,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Hypertrophy of left ventricle	2.18E-01	MTOR	1
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Infectious Diseases,Inflammatory Disease,Inflammatory Response,Liver Inflammation/Hepatitis,Organ Development,Organismal Injury and Abnormalities	Infection by Hepatitis C virus	2.64E-01	MTOR	1
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Hypertrophy of heart	3.08E-01	CTNNB1,MTOR	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatocellular carcinoma	4.28E-01	CTNNB1,MTOR,RARA	3
+Cardiac Fibrosis,Cardiovascular Disease,Organismal Injury and Abnormalities	Fibrosis of heart	4.29E-01	LMNA	1
+Cardiac Infarction,Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Myocardial infarction	5.05E-01	APOD	1
+Gastrointestinal Disease,Hepatic System Disease,Liver Damage,Organismal Injury and Abnormalities	Hepatic injury	5.20E-01	CTNNB1	1
+Cardiac Arteriopathy,Cardiovascular Disease,Organismal Injury and Abnormalities	Disorder of coronary artery	5.41E-01	MTOR	1
+Cardiovascular Disease,Heart Failure,Organismal Injury and Abnormalities	Failure of heart	5.66E-01	MTOR	1
+Gastrointestinal Disease,Hepatic System Disease,Liver Steatosis,Metabolic Disease,Organismal Injury and Abnormalities	Hepatic steatosis	6.06E-01	LMNA	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver tumor	1.00E00	ALG3,CTNNB1,HSD17B2,KRT27,KRT34,LGSN,LIM2,LMNA,MTOR,RARA,TRAF6	11
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver carcinoma	1.00E00	ALG3,CTNNB1,KRT34,LGSN,LIM2,LMNA,MTOR,RARA,TRAF6	9

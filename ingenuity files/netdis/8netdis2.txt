@@ -1,0 +1,353 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Cellular Movement	Cell movement of pancreatic cancer cell lines	1.08E-05	CDH2,FGFR2,PRKCA,TP63	4
+Organismal Development	Delay in aging	1.63E-05	ADCYAP1,SHC1	2
+Cellular Movement	Invasion of breast cell lines	1.76E-05	FGFR2,MTOR,SHC1,TP63	4
+Embryonic Development,Organismal Development,Tissue Development	Formation of anlage	2.81E-05	FGFR2,MTOR,TP63	3
+Organismal Development,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function	Lack of hindlimb	3.12E-05	FGFR2,TP63	2
+Embryonic Development,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Reproductive System Development and Function,Reproductive System Disease,Tissue Development	Lack of mammary gland	3.12E-05	FGFR2,TP63	2
+Cancer,Organismal Injury and Abnormalities	Spindle cell neoplasm	3.47E-05	CDH2,FGFR2,MTOR,TP63	4
+Cell Death and Survival,Hematological System Development and Function	Survival of Th2 cells	3.72E-05	ADCYAP1,MTOR	2
+Embryonic Development,Organismal Development	Development of head	4.21E-05	ADCYAP1,CDH2,CPAMD8,CRTAC1,FGFR2,LCTL,LIM2,MTOR,PLCB4,TP63,Vegf	11
+Cell-To-Cell Signaling and Interaction	Binding of tumor cell lines	5.03E-05	2'-fucosyllactose,CDH2,FGFR2,MTOR,PRKCA,SHC1,TP63,Vegf	8
+Digestive System Development and Function,Gastrointestinal Disease,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Lack of salivary gland	6.10E-05	FGFR2,TP63	2
+Ophthalmic Disease,Organismal Development,Organismal Injury and Abnormalities	Lack of eyelid	6.65E-05	FGFR2,TP63	2
+Nervous System Development and Function	Sensory system development	7.67E-05	ADCYAP1,CDH2,CPAMD8,FGFR2,LCTL,LIM2,TP63,Vegf	8
+Cell-To-Cell Signaling and Interaction	Adhesion of tumor cell lines	1.08E-04	CDH2,FGFR2,MTOR,PRKCA,SHC1,TP63,Vegf	7
+Cellular Movement	Cell movement of breast cancer cell lines	1.53E-04	CDH2,FGFR2,MTOR,PRKCA,SHC1,TP63	6
+Digestive System Development and Function,Embryonic Development,Organismal Development	Development of secondary palate	1.63E-04	FGFR2,TP63	2
+Cancer,Dermatological Diseases and Conditions,Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Tuberous sclerosis complex	2.35E-04	MTOR,PRKCA	2
+Cancer,Organismal Injury and Abnormalities	Spindle cell carcinoma	2.45E-04	CDH2,TP63	2
+Cancer,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Muscle tumor	2.46E-04	CPAMD8,FGFR2,KLB,MTOR,PLCB4,SHC1,TP63,Vegf	8
+Digestive System Development and Function,Gastrointestinal Disease,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of rectum	2.56E-04	FGFR2,TP63	2
+Cell Death and Survival,Embryonic Development	Anoikis of embryonic cell lines	2.90E-04	MTOR,SHC1	2
+Cellular Development	Differentiation of carcinoma cell lines	2.97E-04	FGFR2,MTOR,TP63	3
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Long term synaptic depression of cerebellum	3.13E-04	PLCB4,PRKCA	2
+Carbohydrate Metabolism	Accumulation of carbohydrate	3.17E-04	ADCYAP1,Il3r,MTOR,PRKCA,TP63	5
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Formation of eye	3.23E-04	ADCYAP1,CPAMD8,FGFR2,LCTL,LIM2,TP63,Vegf	7
+Cell Death and Survival	Cell death of stomach cancer cell lines	3.41E-04	FGFR2,PRKCA,SHC1	3
+Cellular Assembly and Organization,Cellular Compromise	Disruption of actin filaments	3.50E-04	MTOR,SHC1	2
+Embryonic Development,Organ Development,Organ Morphology,Organismal Development,Reproductive System Development and Function,Tissue Development	Morphogenesis of prostate gland	3.56E-04	FGFR2,TP63	2
+Cell Morphology	Morphology of tumor cell lines	3.89E-04	ADCYAP1,FGFR2,MTOR,PRKCA,TP63	5
+Cell-To-Cell Signaling and Interaction	Response of carcinoma cell lines	4.16E-04	MTOR,TP63	2
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Tissue Morphology,Visual System Development and Function	Abnormal morphology of corneal epithelial tissue	4.52E-04	ADCYAP1,TP63	2
+Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of perineum	4.59E-04	FGFR2,TP63	2
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Binding of neurons	4.65E-04	CDH2,chondroitin sulfate E,FGFR2	3
+Cellular Movement	Homing of tumor cell lines	4.73E-04	chondroitin sulfate E,MTOR,SHC1,TP63	4
+Ophthalmic Disease,Organismal Injury and Abnormalities	Progressive keratoconus	4.98E-04	riboflavin	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Anterior segment dysgenesis 8	4.98E-04	CPAMD8	1
+Cancer,Organismal Injury and Abnormalities	Myoepithelioma	5.98E-04	FGFR2,TP63	2
+Organismal Development,Skeletal and Muscular System Development and Function	Morphology of hindlimb	6.26E-04	FGFR2,MTOR,TP63	3
+Cellular Movement	Migration of breast cancer cell lines	6.38E-04	CDH2,FGFR2,MTOR,PRKCA,SHC1	5
+Cell Cycle	Mitogenesis	6.51E-04	FGFR2,MTOR,PRKCA,SHC1,Vegf	5
+Cell Cycle,Hair and Skin Development and Function	Mitogenesis of epithelial cell lines	6.66E-04	FGFR2,SHC1	2
+Cell Signaling,Post-Translational Modification	Serine phosphorylation of protein	6.66E-04	MTOR,PRKCA	2
+Cellular Development,Cellular Growth and Proliferation	Proliferation of pancreatic cancer cell lines	6.66E-04	FGFR2,MTOR,PRKCA,TP63,Vegf	5
+Cell Death and Survival,Embryonic Development	Apoptosis of embryonic cell lines	6.78E-04	FGFR2,KLB,MTOR,SHC1,TP63,Vegf	6
+Cellular Development,Skeletal and Muscular System Development and Function,Tissue Development	Differentiation of muscle cells	7.11E-04	CDH2,FGFR2,MTOR,SHC1,TP63	5
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive cortical pulverulent cataract 19	7.47E-04	LIM2	1
+Cellular Movement	Invasion of bladder cancer cell lines	7.56E-04	CDH2,TP63	2
+Cancer,Cardiovascular Disease,Organismal Injury and Abnormalities	Angiosarcoma	8.06E-04	FGFR2,PLCB4,TP63,Vegf	4
+Developmental Disorder,Tissue Morphology	Abnormal morphology of extraembryonic tissue	8.08E-04	CDH2,FGFR2,MTOR,SHC1	4
+Cancer,Organismal Injury and Abnormalities	Metastatic chondrosarcoma	8.12E-04	FGFR2,MTOR	2
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of anterior segment of the eye	8.60E-04	ADCYAP1,LCTL,TP63	3
+Cellular Development	Differentiation of nervous system	8.83E-04	ADCYAP1,CDH2,FGFR2,MTOR,PRKCA,SHC1,Trk Receptor,Vegf	8
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development	Formation of brain	8.84E-04	ADCYAP1,CDH2,CRTAC1,FGFR2,MTOR,PLCB4,Vegf	7
+Developmental Disorder,Embryonic Development,Tissue Morphology	Degeneration of embryoblast	8.90E-04	FGFR2,MTOR	2
+Cancer,Organismal Injury and Abnormalities,Renal and Urological Disease	Metastatic non-clear cell renal carcinoma	9.62E-04	FGFR2,MTOR	2
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Long term synaptic depression of neurons	9.87E-04	ADRA1,MTOR,PLCB4,PRKCA	4
+Cell Death and Survival,Organismal Injury and Abnormalities	Apoptosis of epithelial cells	9.91E-04	CDH2,MTOR,PRKCA,SHC1,TP63	5
+Organismal Development,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function	Abnormal morphology of forelimb	9.93E-04	FGFR2,TP63	2
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Auriculocondylar syndrome type 2	9.96E-04	PLCB4	1
+Cancer,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Myosarcoma	1.01E-03	CPAMD8,FGFR2,KLB,MTOR,TP63,Vegf	6
+Cell-To-Cell Signaling and Interaction	Binding of lymphoma cell lines	1.11E-03	MTOR,PRKCA,SHC1,Vegf	4
+Organismal Injury and Abnormalities	Hamartoma	1.14E-03	CDH2,MTOR	2
+Cell-To-Cell Signaling and Interaction	Adhesion of cervical cancer cell lines	1.22E-03	CDH2,TP63	2
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Gastroesophageal junction adenocarcinoma	1.22E-03	CDH2,FGFR2,MTOR,Vegf	4
+Cellular Development,Cellular Growth and Proliferation,Hematological System Development and Function,Lymphoid Tissue Structure and Development	Proliferation of Th2 cells	1.35E-03	ADCYAP1,MTOR	2
+Cellular Development,Cellular Growth and Proliferation	Cell proliferation of breast cancer cell lines	1.35E-03	FGFR2,KLB,MTOR,PRKCA,SHC1,TP63	6
+Developmental Disorder,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Reproductive System Development and Function,Reproductive System Disease	Hypoplasia of uterus	1.38E-03	MTOR,TP63	2
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Quantity of ketone body	1.43E-03	ADCYAP1,KLB	2
+Cell-To-Cell Signaling and Interaction,Cellular Assembly and Organization,Skeletal and Muscular System Development and Function	Fusion of muscle cell lines	1.43E-03	CDH2,MTOR	2
+Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function	Abnormal morphology of myocardium	1.44E-03	CDH2,PRKCA,SHC1	3
+Cancer,Organismal Injury and Abnormalities	Metastatic relapsed recurrent cancer	1.45E-03	FGFR2,MTOR	2
+Cancer,Organismal Injury and Abnormalities,Renal and Urological Disease	Stage 4 unresectable renal cancer	1.48E-03	FGFR2,MTOR,Vegf	3
+Cancer,Organismal Injury and Abnormalities,Renal and Urological Disease	Relapsed unresectable renal cancer	1.48E-03	FGFR2,MTOR,Vegf	3
+Cellular Movement,Reproductive System Development and Function	Cell movement of breast cell lines	1.59E-03	PRKCA,SHC1,TP63	3
+Developmental Disorder,Embryonic Development,Organismal Development,Tissue Morphology	Abnormal morphology of limb bud	1.63E-03	FGFR2,TP63	2
+Developmental Disorder,Embryonic Development,Organismal Development,Tissue Morphology	Abnormal morphology of embryonic tissue	1.64E-03	CDH2,FGFR2,MTOR,PLCB4,SHC1,TP63	6
+Cell Morphology,Cellular Assembly and Organization,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Nervous System Development and Function,Organismal Development,Tissue Development	Axonogenesis	1.65E-03	CDH2,FGFR2,MTOR,PRKCA	4
+Cell Morphology,Cellular Assembly and Organization,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Nervous System Development and Function,Organismal Development,Tissue Development	Neuritogenesis of tumor cell lines	1.66E-03	FGFR2,PRKCA	2
+Connective Tissue Development and Function,Connective Tissue Disorders,Developmental Disorder,Gastrointestinal Disease,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Development	Abnormal morphology of maxilla	1.67E-03	FGFR2,TP63	2
+Cancer,Organismal Injury and Abnormalities	Perivascular epithelioid cell tumor	1.68E-03	FGFR2,MTOR	2
+Cancer,Organismal Injury and Abnormalities	Adenoid cystic carcinoma	1.70E-03	FGFR2,TP63	2
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Sinonasal squamous cell carcinoma	1.74E-03	FGFR2,TP63	2
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development	Morphogenesis of medial ganglionic eminences	1.74E-03	CDH2	1
+Behavior	Face-washing behavior	1.74E-03	ADCYAP1	1
+Cell Morphology,Cellular Assembly and Organization,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development	Neuritogenesis of cerebellar granule cell	1.74E-03	ADCYAP1	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Well-differentiated liver cholangiocarcinoma	1.74E-03	CDH2	1
+Infectious Diseases,Organismal Development	Growth of HIV	1.74E-03	ADCYAP1	1
+Cell-To-Cell Signaling and Interaction,Cellular Compromise,Tumor Morphology	Aggregation of melanoma cells	1.74E-03	CDH2	1
+Cell Morphology	Size of pituitary cancer cell lines	1.74E-03	ADCYAP1	1
+Nervous System Development and Function	Regulation of superior cervical ganglion	1.74E-03	ADCYAP1	1
+Nervous System Development and Function,Organ Morphology,Organismal Development	Volume of cerebellar cortex	1.74E-03	ADCYAP1	1
+Organismal Development	Delay in initiation of aging of testis	1.74E-03	ADCYAP1	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Activation of trigeminovascular neuron	1.74E-03	ADCYAP1	1
+Cancer,Cell-To-Cell Signaling and Interaction,Cellular Growth and Proliferation,Organismal Injury and Abnormalities,Tumor Morphology	Induction of neuroblastoma cells	1.74E-03	ADCYAP1	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Poorly differentiated liver cholangiocarcinoma	1.74E-03	CDH2	1
+Cardiovascular System Development and Function,Connective Tissue Development and Function,Organ Morphology,Organismal Development,Tissue Morphology	Size of pericardial cavity	1.74E-03	CDH2	1
+Embryonic Development,Organ Development,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Development	Formation of muscle	1.76E-03	CDH2,FGFR2,MTOR,SHC1,TP63,Vegf	6
+Cancer,Organismal Injury and Abnormalities	Spindle cell sarcoma	1.82E-03	FGFR2,MTOR	2
+Cardiovascular System Development and Function,Cell Morphology,Organ Morphology,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Morphology	Morphology of cardiomyocytes	1.85E-03	ADRA1,CDH2,MTOR,PRKCA,SHC1	5
+Cell Morphology,Cellular Assembly and Organization,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Nervous System Development and Function,Organismal Development,Tissue Development	Neuritogenesis of neurons	1.85E-03	ADCYAP1,PRKCA	2
+Cancer,Organismal Injury and Abnormalities	Mesothelioma	1.86E-03	CDH2,FGFR2,TP63,Vegf	4
+Cardiovascular System Development and Function,Organismal Development	Angiogenesis	1.86E-03	2'-fucosyllactose,CDH2,FGFR2,Il8r,MTOR,OPTC,polyphosphate,PRKCA,SHC1,Vegf	10
+Cardiovascular Disease,Organismal Injury and Abnormalities	Arteriovenous malformation	1.97E-03	CDH2,MTOR,Vegf	3
+Cellular Assembly and Organization,Tissue Development	Polymerization of fibrils	1.99E-03	polyphosphate	1
+Cell Death and Survival,Organismal Injury and Abnormalities	Cell death of epithelial cells	1.99E-03	CDH2,KLB,MTOR,PRKCA,SHC1,TP63	6
+Nervous System Development and Function,Organ Development	Growth of brain	2.04E-03	ADCYAP1,FGFR2,MTOR	3
+Embryonic Development,Hair and Skin Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development	Morphogenesis of hair follicle	2.09E-03	FGFR2,TP63	2
+Cancer,Organismal Injury and Abnormalities	Sarcoma	2.13E-03	CPAMD8,DAPL1,FGFR2,KLB,MTOR,PLCB4,PRKCA,TP63,Vegf	9
+Cellular Development,Cellular Growth and Proliferation,Nervous System Development and Function	Proliferation of oligodendrocyte precursor cells	2.19E-03	ADCYAP1,CDH2	2
+Cellular Movement	Invasion of carcinoma cell lines	2.21E-03	CDH2,FGFR2,MTOR,TP63,Vegf	5
+Carbohydrate Metabolism,Molecular Transport,Small Molecule Biochemistry	Uptake of D-glucose	2.21E-03	FGFR2,KLB,MTOR,PRKCA	4
+Cancer,Organismal Injury and Abnormalities	Soft tissue sarcoma	2.23E-03	CPAMD8,DAPL1,FGFR2,KLB,MTOR,PLCB4,TP63,Vegf	8
+Cancer,Hematological Disease,Immunological Disease,Organismal Injury and Abnormalities	Pretreated lymphoplasmacytic lymphoma	2.24E-03	FGFR2,MTOR	2
+Cancer,Hematological Disease,Immunological Disease,Organismal Injury and Abnormalities	Pretreated Waldenström macroglobulinemia	2.24E-03	FGFR2,MTOR	2
+Organ Morphology	Hyperthickening of epidermis	2.24E-03	FGFR2	1
+Embryonic Development,Organismal Development,Tissue Development	Development of lacrimal bud	2.24E-03	FGFR2	1
+Cell Cycle,Digestive System Development and Function	Exit from cell cycle progression of enterocytes	2.24E-03	PRKCA	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Atypical Pfeiffer syndrome	2.24E-03	FGFR2	1
+Cancer	Transformation of endometrial cancer cell lines	2.24E-03	FGFR2	1
+Cellular Movement	Invasion by TPC-1 cells	2.24E-03	FGFR2	1
+Connective Tissue Development and Function,Embryonic Development,Organ Development,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Development	Ossification of sphenoid bone	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dwarfism of axial skeleton	2.24E-03	FGFR2	1
+Connective Tissue Development and Function,Connective Tissue Disorders,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Development	Lack of pubic bone	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Dermatological Diseases and Conditions,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Craniofacial-skeletal-dermatologic dysplasia	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Synostosis of coronal suture	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Autosomal dominant Apert syndrome	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Bent bone dysplasia syndrome	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Pfeiffer syndrome type 3	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Neurological Disease,Ophthalmic Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Scaphocephaly and Axenfeld-Rieger anomaly	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Nonclassifiable autosomal dominant craniosynostosis	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Antley-Bixler syndrome without genital anomalies or disordered steroidogenesis	2.24E-03	FGFR2	1
+Cell Cycle,Hair and Skin Development and Function	Arrest in G0/G1 phase transition of epithelial cell lines	2.24E-03	PRKCA	1
+Cell Cycle,Digestive System Development and Function	Arrest in cell cycle progression of intestinal cell lines	2.24E-03	PRKCA	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Familial scaphocephaly syndrome	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Dermatological Diseases and Conditions,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Autosomal dominant Beare-Stevenson cutis gyrata syndrome	2.24E-03	FGFR2	1
+Cell Cycle,Reproductive System Development and Function	Arrest in G0/G1 phase transition of breast cell lines	2.24E-03	PRKCA	1
+Connective Tissue Disorders,Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Apert-like syndrome	2.24E-03	FGFR2	1
+Connective Tissue Disorders,Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Isolated unicoronal craniosynostosis	2.24E-03	FGFR2	1
+Cell Cycle,Gene Expression	Binding of N-box motif	2.24E-03	PRKCA	1
+Cellular Development,Cellular Growth and Proliferation	Arrest in growth of stomach cancer cell lines	2.24E-03	FGFR2	1
+Gastrointestinal Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities	Severe mucositis	2.24E-03	FGFR2	1
+Developmental Disorder,Organismal Injury and Abnormalities,Renal and Urological Disease,Reproductive System Disease	Severe hypospadia	2.24E-03	FGFR2	1
+Cellular Development,Cellular Growth and Proliferation,Organ Development,Tissue Development	Proliferation of goblet cells	2.24E-03	PRKCA	1
+Connective Tissue Disorders,Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Isolated coronal craniosynostosis	2.24E-03	FGFR2	1
+Cancer,Organismal Injury and Abnormalities	Adenoma	2.25E-03	CDH2,FGFR2,MTOR,PRKCA,TP63,Vegf	6
+Cell-To-Cell Signaling and Interaction	Response of myeloid cells	2.28E-03	ADCYAP1,Fc receptor,PLCB4,PRKCA,SHC1	5
+Cellular Movement	Cell movement of tumor cell lines	2.30E-03	CDH2,chondroitin sulfate E,FGFR2,MTOR,PRKCA,riboflavin,SHC1,TP63,Vegf	9
+Cancer,Organismal Injury and Abnormalities	Connective or soft tissue tumor	2.33E-03	CPAMD8,DAPL1,FGFR2,KLB,MTOR,PLCB4,PRKCA,SHC1,TP63,Vegf	10
+Cellular Development	Differentiation of tumor cell lines	2.34E-03	ADCYAP1,FGFR2,MTOR,SHC1,TP63	5
+Cell-To-Cell Signaling and Interaction,Inflammatory Response	Response of phagocytes	2.39E-03	ADCYAP1,Fc receptor,PLCB4,PRKCA,SHC1	5
+Cell Death and Survival	Internucleosomal DNA fragmentation of melanoma cell lines	2.49E-03	TP63	1
+Cell-To-Cell Signaling and Interaction,Cellular Assembly and Organization	Cell-cell adhesion of skin cancer cell lines	2.49E-03	TP63	1
+Hair and Skin Development and Function,Organ Development	Presence of hair follicle	2.49E-03	TP63	1
+Cell Cycle	Cell division of epidermal cells	2.49E-03	TP63	1
+Dental Disease,Developmental Disorder,Digestive System Development and Function,Embryonic Development,Gastrointestinal Disease,Organismal Development,Organismal Injury and Abnormalities,Tissue Morphology	Lack of tooth bud	2.49E-03	TP63	1
+Cancer,Organismal Injury and Abnormalities	NUT midline carcinoma	2.49E-03	TP63	1
+Cell Cycle,DNA Replication, Recombination, and Repair	DNA damage checkpoint of epithelial cell lines	2.49E-03	TP63	1
+Embryonic Development	Interaction of ectoderm	2.49E-03	TP63	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Low grade polymorphous salivary gland adenocarcinoma	2.49E-03	TP63	1
+Dermatological Diseases and Conditions,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities	Autosomal dominant Rapp-Hodgkin syndrome	2.49E-03	TP63	1
+Cancer,Cellular Development,Cellular Growth and Proliferation,Organismal Injury and Abnormalities,Tissue Morphology,Tumor Morphology	Quantity of erythroleukemia cells	2.49E-03	TP63	1
+Cell Cycle	Mitotic exit of keratinocyte cancer cell lines	2.49E-03	TP63	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Split-hand/foot malformation type 4	2.49E-03	TP63	1
+Embryonic Development,Organ Development,Organ Morphology,Organismal Development,Reproductive System Development and Function,Tissue Development	Morphogenesis of clitoris	2.49E-03	TP63	1
+Cell Cycle,DNA Replication, Recombination, and Repair	DNA damage checkpoint of breast cell lines	2.49E-03	TP63	1
+Cell Death and Survival	Apoptosis of colonic mucosa	2.49E-03	riboflavin	1
+Cell Death and Survival,Cellular Development,Cellular Function and Maintenance,Tissue Development	Self-renewal of horizontal basal cells	2.49E-03	TP63	1
+Developmental Disorder,Organismal Injury and Abnormalities,Reproductive System Disease	Hypoplasia of clitoris	2.49E-03	TP63	1
+Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Reproductive System Disease	Inflammation of cervix	2.49E-03	TP63	1
+Cellular Development,Tissue Development	Differentiation of horizontal basal cells	2.49E-03	TP63	1
+Cellular Movement,Reproductive System Development and Function	Chemotaxis of breast cell lines	2.49E-03	TP63	1
+Embryonic Development,Organismal Development,Tissue Development	Septation of cloaca	2.49E-03	TP63	1
+Cancer,Hematological Disease,Immunological Disease,Organismal Injury and Abnormalities	Sinonasal diffuse large B-cell lymphoma	2.49E-03	TP63	1
+Embryonic Development,Organismal Development,Tissue Development	Morphogenesis of apical ectodermal ridge	2.49E-03	TP63	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities	Autosomal dominant acro-dermato-ungual-lacrimal-tooth syndrome	2.49E-03	TP63	1
+Dermatological Diseases and Conditions,Organ Morphology,Organismal Injury and Abnormalities	Lack of stratum spinosum	2.49E-03	TP63	1
+Digestive System Development and Function	Presence of tooth	2.49E-03	TP63	1
+Cellular Development,Tissue Development	Differentiation of columnar epithelium	2.49E-03	TP63	1
+Connective Tissue Disorders,Developmental Disorder,Gastrointestinal Disease,Hereditary Disorder,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome type 3	2.49E-03	TP63	1
+Dermatological Diseases and Conditions,Developmental Disorder,Organismal Injury and Abnormalities	Hypoplasia of keratinocytes	2.49E-03	TP63	1
+Dermatological Diseases and Conditions,Organ Morphology,Organismal Injury and Abnormalities	Lack of sebaceous glands	2.49E-03	TP63	1
+Hereditary Disorder,Organismal Injury and Abnormalities	Autosomal dominant limb mammary syndrome	2.49E-03	TP63	1
+Tissue Development	Proliferation of colonic mucosa	2.49E-03	riboflavin	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities,Tissue Morphology	Lack of squamous epithelium	2.49E-03	TP63	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Autosomal dominant Hay-Wells syndrome of ectodermal dysplasia	2.49E-03	TP63	1
+Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Reproductive System Development and Function,Reproductive System Disease,Tissue Morphology	Abnormal morphology of cervical epithelium	2.49E-03	TP63	1
+Dermatological Diseases and Conditions,Organ Morphology,Organismal Injury and Abnormalities	Lack of epidermis	2.49E-03	TP63	1
+Cell Death and Survival,Organismal Injury and Abnormalities	Apoptosis of epithelial stem cells	2.49E-03	TP63	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Salivary gland myoepithelial neoplasm	2.49E-03	TP63	1
+Cellular Development,Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Differentiation of basal layer of epidermis	2.49E-03	TP63	1
+Cancer,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Sinonasal alveolar rhabdomyosarcoma	2.49E-03	TP63	1
+Cell Death and Survival	Cell viability of prostate cell lines	2.49E-03	TP63	1
+Cellular Function and Maintenance,Cellular Growth and Proliferation	Production of cardiomyocytes	2.49E-03	TP63	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Acinic cell carcinoma of salivary gland	2.49E-03	TP63	1
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities,Respiratory Disease	Sinonasal small cell carcinoma	2.49E-03	TP63	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Sinonasal undifferentiated carcinoma	2.49E-03	TP63	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Salivary gland myoepithelial carcinoma	2.49E-03	TP63	1
+Connective Tissue Disorders,Developmental Disorder,Gastrointestinal Disease,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Orofacial cleft 8	2.49E-03	TP63	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Stage IV colorectal cancer	2.51E-03	FGFR2,MTOR,Vegf	3
+Connective Tissue Disorders,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function	Abnormal morphology of pelvic girdle	2.51E-03	FGFR2,TP63	2
+Cancer,Organismal Injury and Abnormalities	Benign solid tumor	2.61E-03	CDH2,FGFR2,MTOR,PLCB4,PRKCA,SHC1,TP63,Vegf	8
+Cancer,Hematological Disease,Immunological Disease,Organismal Injury and Abnormalities	Classical Hodgkin lymphoma	2.61E-03	MTOR,TP63	2
+Developmental Disorder,Organismal Injury and Abnormalities,Reproductive System Disease	Congenital malformation of genital organs	2.62E-03	FGFR2,MTOR,TP63	3
+Cancer,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Leiomyoma	2.69E-03	FGFR2,MTOR,PLCB4,SHC1	4
+Cardiovascular Disease,Organismal Injury and Abnormalities	Structure of fibrin clot	2.74E-03	polyphosphate	1
+Cellular Development,Cellular Growth and Proliferation	Development of tumor cell lines	2.74E-03	CDH2,FGFR2,PRKCA	3
+Cellular Movement	Movement of keratinocyte cancer cell lines	2.75E-03	FGFR2,TP63	2
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities	Locally advanced endocrine gland tumor	2.78E-03	FGFR2,MTOR	2
+Cell Morphology,Cellular Assembly and Organization,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Nervous System Development and Function,Organismal Development,Tissue Development	Neuritogenesis	2.80E-03	ADCYAP1,CDH2,FGFR2,MTOR,PRKCA,SHC1	6
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Papilloma	2.82E-03	FGFR2,PRKCA,TP63	3
+Free Radical Scavenging,Molecular Transport	Quantity of hydrogen peroxide	2.85E-03	SHC1,TP63	2
+Cellular Development,Cellular Growth and Proliferation,Hair and Skin Development and Function	Proliferation of epithelial cell lines	2.89E-03	FGFR2,KLB,MTOR,TP63	4
+Cardiovascular System Development and Function,Organismal Development	Vasculogenesis	2.90E-03	2'-fucosyllactose,CDH2,FGFR2,MTOR,OPTC,PRKCA,SHC1,Vegf	8
+Cellular Development,Cellular Growth and Proliferation,Nervous System Development and Function,Tissue Development	Development of oligodendrocytes	2.92E-03	FGFR2,MTOR	2
+Developmental Disorder	Hypoplasia of cells	2.96E-03	SHC1,TP63	2
+Cell Morphology,Skeletal and Muscular System Development and Function	Shape of muscle cell lines	2.99E-03	SHC1	1
+Cellular Growth and Proliferation,Nervous System Development and Function,Organ Development	Proliferation of forebrain cells	2.99E-03	MTOR	1
+Cellular Assembly and Organization	Restoration of actin cytoskeleton	2.99E-03	SHC1	1
+Organ Morphology,Tissue Development	Regeneration of adductor muscle	2.99E-03	SHC1	1
+Cellular Development,Embryonic Development,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Organ Development,Organismal Development	Arrest in maturation of thymocytes	2.99E-03	SHC1	1
+Cellular Growth and Proliferation,Connective Tissue Development and Function,Organ Development,Reproductive System Development and Function,Tissue Development	Proliferation of theca cells	2.99E-03	MTOR	1
+Embryonic Development,Organismal Development,Tissue Development	Formation of telencephalic primordium	2.99E-03	MTOR	1
+Cell-To-Cell Signaling and Interaction	Response of squamous cell carcinoma cell lines	2.99E-03	TP63	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Fibrolamellar carcinoma	2.99E-03	MTOR	1
+Cellular Function and Maintenance	Maintenance of induced regulatory T-lymphocyte	2.99E-03	MTOR	1
+Cancer,Cell-To-Cell Signaling and Interaction,Inflammatory Response	Cytotoxic reaction of adenocarcinoma cell lines	2.99E-03	MTOR	1
+Embryonic Development,Organismal Development,Tissue Development	Formation of telencephalic vesicle	2.99E-03	MTOR	1
+Cell Morphology	Polarity of hepatoma cell lines	2.99E-03	MTOR	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dystrophy of anterior tibial muscle	2.99E-03	MTOR	1
+Cell-mediated Immune Response,Hematological System Development and Function	Anergy of Th1 cells	2.99E-03	MTOR	1
+Organ Development,Organ Morphology,Skeletal and Muscular System Development and Function	Relaxation of anterior tibial muscle	2.99E-03	MTOR	1
+Cancer,Cell-To-Cell Signaling and Interaction,Inflammatory Response	Cytotoxic reaction of stomach cancer cell lines	2.99E-03	MTOR	1
+Cell-To-Cell Signaling and Interaction,Skeletal and Muscular System Development and Function	Clustering of muscle cell lines	2.99E-03	SHC1	1
+Connective Tissue Disorders,Developmental Disorder,Gastrointestinal Disease,Neurological Disease,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Smith-Kingsmore syndrome	2.99E-03	MTOR	1
+Cellular Function and Maintenance,Hematological System Development and Function	Function of gamma-delta T lymphocytes	2.99E-03	MTOR	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	High-grade gastric dysplasia	2.99E-03	SHC1	1
+Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Focal cortical dysplasia of Taylor type IIA	2.99E-03	MTOR	1
+Cell Death and Survival,Neurological Disease,Organismal Injury and Abnormalities	Cell death of CA3b neurons	2.99E-03	MTOR	1
+Organ Morphology,Skeletal and Muscular System Development and Function	Contraction of anterior tibial muscle	2.99E-03	MTOR	1
+Cellular Compromise,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Oxidative stress response of adductor muscle	2.99E-03	SHC1	1
+Cell Death and Survival,Neurological Disease,Organismal Injury and Abnormalities	Cell death of CA3c neurons	2.99E-03	MTOR	1
+Organ Development,Organ Morphology,Skeletal and Muscular System Development and Function	Relaxation of soleus muscle	2.99E-03	MTOR	1
+Cancer,Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Metastatic bone sarcoma	2.99E-03	MTOR	1
+Cellular Function and Maintenance,Hematological System Development and Function	Function of alpha-beta T lymphocytes	2.99E-03	MTOR	1
+Cell Morphology,Hair and Skin Development and Function,Organ Morphology,Tissue Morphology	Morphology of keratinocytes	2.99E-03	FGFR2,TP63	2
+Cellular Development,Cellular Growth and Proliferation	Proliferation of keratinocyte cancer cell lines	2.99E-03	FGFR2,TP63	2
+Cellular Assembly and Organization,Cellular Compromise	Disruption of cytoskeleton	3.01E-03	CDH2,SHC1	2
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Metastatic endometrial carcinoma	3.03E-03	FGFR2,MTOR,Vegf	3
+Cancer,Organismal Injury and Abnormalities	Sporadic cancer	3.07E-03	FGFR2,MTOR	2
+Cell-To-Cell Signaling and Interaction,Cellular Assembly and Organization	Cell-cell contact	3.07E-03	CDH2,FGFR2,MTOR,PRKCA,SHC1,TP63,Vegf	7
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Recurrent epithelial endometrial cancer	3.08E-03	FGFR2,MTOR,Vegf	3
+Cancer,Organismal Injury and Abnormalities	High grade sarcoma	3.12E-03	FGFR2,MTOR	2
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of small gall bladder	3.23E-03	KLB	1
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development	Formation of telencephalon	3.28E-03	CDH2,CRTAC1,MTOR	3
+Free Radical Scavenging	Production of superoxide	3.39E-03	ADCYAP1,Fc receptor,PRKCA,SHC1	4
+Cellular Movement	Migration of tumor cell lines	3.40E-03	CDH2,FGFR2,MTOR,PRKCA,riboflavin,SHC1,TP63,Vegf	8
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Stage IV advanced non-squamous non-small cell lung cancer	3.44E-03	FGFR2,MTOR,Vegf	3
+Ophthalmic Disease,Organismal Injury and Abnormalities	Anterior segment anomalies	3.48E-03	CPAMD8,FGFR2	2
+Cell Cycle	Arrest in cell cycle progression of mesothelioma cell lines	3.48E-03	TP63	1
+Organ Morphology,Tissue Morphology	Quantity of basal epithelial prostate cells	3.48E-03	FGFR2	1
+Connective Tissue Development and Function,Connective Tissue Disorders,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Development	Lack of acromion	3.48E-03	FGFR2	1
+Cellular Development,Tissue Development	Differentiation of polarized epithelial cells	3.48E-03	TP63	1
+Cell Death and Survival	Cell viability of hepatoma cell lines	3.52E-03	CDH2,MTOR	2
+Cell Death and Survival	Anoikis	3.52E-03	MTOR,PRKCA,SHC1	3
+Carbohydrate Metabolism,Cellular Function and Maintenance	Glycolysis of tumor cell lines	3.59E-03	MTOR,TP63	2
+Cancer,Organismal Injury and Abnormalities	Malignant neoplasm of heart, mediastinum and pleura	3.65E-03	FGFR2,MTOR,TP63,Vegf	4
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Postmenopausal breast cancer	3.67E-03	FGFR2,MTOR,Vegf	3
+Cellular Function and Maintenance,Hematological System Development and Function	Function of regulatory T lymphocytes	3.69E-03	ADCYAP1,MTOR	2
+Skeletal and Muscular System Development and Function	Inhibition of pyloric sphincter	3.73E-03	ADCYAP1	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Activation of parasympathetic nerve	3.73E-03	ADCYAP1	1
+Cell Morphology,Cellular Assembly and Organization	Thickness of fibrils	3.73E-03	polyphosphate	1
+Cancer,Neurological Disease,Organismal Injury and Abnormalities,Respiratory Disease	Olfactory esthesioneuroblastoma	3.73E-03	TP63	1
+Embryonic Development	Interaction of mesoderm	3.73E-03	TP63	1
+Cell Death and Survival,Nervous System Development and Function	Cell viability of hippocampal neurons	3.75E-03	ADCYAP1,MTOR	2
+DNA Replication, Recombination, and Repair	Synthesis of DNA	3.80E-03	ADCYAP1,MTOR,PRKCA,SHC1,TP63,Vegf	6
+Cancer,Organismal Injury and Abnormalities,Renal and Urological Disease	Metastatic renal clear cell adenocarcinoma	3.85E-03	FGFR2,MTOR,Vegf	3
+Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of head	3.95E-03	ADCYAP1,CRTAC1,FGFR2,LCTL,MTOR,PLCB4,TP63	7
+Cancer,Organismal Injury and Abnormalities	Metastatic soft tissue sarcoma	3.98E-03	FGFR2,MTOR	2
+Cellular Movement	Movement of breast cancer epithelial cells	3.98E-03	CDH2	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Auriculocondylar syndrome type 1	3.98E-03	PLCB4	1
+Cell-To-Cell Signaling and Interaction	Binding of mural cells	3.98E-03	CDH2	1
+Cellular Development,Hematological System Development and Function,Hematopoiesis	Commitment of natural killer cells	3.98E-03	PRKCA	1
+Behavior	Wet-dog shakes	3.98E-03	ADCYAP1	1
+Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Metaplasia of squamous epithelium	3.98E-03	TP63	1
+Cellular Compromise,Lipid Metabolism,Small Molecule Biochemistry	Peroxidation of fatty acid	3.98E-03	FGFR2	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Quantity of steroid hormone	4.10E-03	ADCYAP1,KLB,riboflavin	3
+Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Bone deformity	4.11E-03	FGFR2,MTOR,TP63	3
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	HER2-positive breast cancer	4.12E-03	ADCYAP1,MTOR,PRKCA	3
+Organismal Injury and Abnormalities,Renal and Urological Disease,Renal and Urological System Development and Function	Abnormal morphology of urethra	4.23E-03	FGFR2	1
+Cellular Movement	Invasion by WRO cells	4.23E-03	FGFR2	1
+Embryonic Development,Organismal Development,Tissue Development	Formation of mammary placode 1	4.23E-03	FGFR2	1
+Digestive System Development and Function,Gastrointestinal Disease,Organismal Development,Organismal Injury and Abnormalities	Lack of palatal rugae	4.23E-03	FGFR2	1
+Embryonic Development,Organismal Development,Tissue Development	Formation of mammary placode 5	4.23E-03	FGFR2	1
+Embryonic Development,Organismal Development,Tissue Development	Formation of mammary placode 2	4.23E-03	FGFR2	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Autosomal dominant saethre-chotzen syndrome	4.23E-03	FGFR2	1
+Developmental Disorder,Gastrointestinal Disease,Organismal Injury and Abnormalities	Cecal atresia	4.23E-03	FGFR2	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Respiratory Disease,Skeletal and Muscular Disorders	Dystrophy of diaphragm	4.23E-03	MTOR	1
+Embryonic Development,Organismal Development,Tissue Development	Development of mammary placode 4	4.23E-03	FGFR2	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Aggregation of cortical neurons	4.23E-03	CDH2	1
+Cellular Compromise	Calcification of fibroblast cell lines	4.23E-03	polyphosphate	1
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Cell Morphology,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Morphology	Hypertrophy of cardiac muscle	7.02E-03	ADRA1,MTOR,PRKCA,SHC1	4
+Cellular Development,Cellular Growth and Proliferation,Renal and Urological System Development and Function,Renal Proliferation	Cell proliferation of kidney cell lines	7.38E-03	FGFR2,KLB,MTOR	3
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver cholangiocarcinoma	8.11E-03	CDH2,FGFR2	2
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Cell death of kidney cells	1.29E-02	KLB,MTOR,PRKCA,SHC1,Vegf	5
+Glomerular Injury,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Stage V lupus nephritis	1.41E-02	MTOR	1
+Glomerular Injury,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Stage III lupus nephritis	1.41E-02	MTOR	1
+Glomerular Injury,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Stage IV lupus nephritis	1.41E-02	MTOR	1
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Anoikis of kidney cell lines	1.58E-02	SHC1	1
+Glomerular Injury,Immunological Disease,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Idiopathic membranous nephropathy	1.90E-02	MTOR	1
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	2.01E-02	KLB,PRKCA,SHC1	3
+Increased Levels of LDH	Increased activation of LDH	2.58E-02	MTOR	1
+Glomerular Injury,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Primary glomerulonephritis	2.75E-02	MTOR	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Symptomatic stage iodine-refractory liver metastasis	3.09E-02	FGFR2	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	BCLC stage B advanced hepatocellular carcinoma	3.29E-02	FGFR2	1
+Cardiac Enlargement,Cardiovascular System Development and Function,Organ Morphology,Organismal Development	Enlargement of left ventricle	3.44E-02	MTOR,PRKCA	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	BCLC stage C advanced hepatocellular carcinoma	3.62E-02	FGFR2	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities,Tumor Morphology	Progressive liver metastasis	3.82E-02	FGFR2	1
+Nephrosis,Organismal Injury and Abnormalities,Renal and Urological Disease	Minimal change nephrotic syndrome	3.91E-02	MTOR	1
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Cell Morphology,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Morphology	Hypertrophy of cardiomyocytes	4.07E-02	ADRA1,MTOR,SHC1	3
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Enlargement of heart	4.33E-02	ADRA1,CDH2,MTOR,PRKCA,SHC1	5
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Unresectable hepatocellular carcinoma	5.25E-02	FGFR2,Vegf	2
+Cell Death and Survival,Gastrointestinal Disease,Hepatic System Disease,Liver Necrosis/Cell Death,Organismal Injury and Abnormalities	Apoptosis of hepatocytes	5.27E-02	MTOR,SHC1	2
+Cardiac Dysfunction,Cardiovascular Disease,Organismal Injury and Abnormalities	Left ventricular dysfunction	5.42E-02	MTOR,PRKCA,Troponin t	3
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Child-Pugh class A advanced hepatocellular carcinoma	5.48E-02	FGFR2,Vegf	2
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Cell Morphology,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Morphology	Hypertrophy of ventricular myocytes	5.67E-02	ADRA1,MTOR	2
+Cardiac Enlargement,Cardiovascular System Development and Function,Organ Morphology,Organismal Development	Enlargement of heart ventricle	6.09E-02	ADRA1,MTOR,PRKCA	3
+Cell Death and Survival,Glomerular Injury,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Apoptosis of podocytes	6.56E-02	MTOR,Vegf	2
+Cardiac Hypoplasia,Cardiovascular Disease,Developmental Disorder,Organismal Injury and Abnormalities	Hypoplasia of trabeculae carne	6.77E-02	SHC1	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatocellular adenoma	7.00E-02	MTOR,Vegf	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatoblastoma	9.10E-02	MTOR	1
+Glomerular Injury,Kidney Failure,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Fibrosis	Interstitial fibrosis of kidney	9.84E-02	MTOR	1
+Cellular Development,Cellular Growth and Proliferation,Organ Development,Renal and Urological System Development and Function,Renal Proliferation	Proliferation of mesangial cells	1.12E-01	SHC1	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatocellular carcinoma	1.14E-01	FGFR2,MTOR,PLCB4,riboflavin,Vegf	5
+Cardiac Dilation,Cardiac Dysfunction,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Left ventricular dilation	1.16E-01	PRKCA	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver carcinoma	1.24E-01	ADCYAP1,CDH2,CPAMD8,FGFR2,KLB,LCTL,LIM2,MTOR,PLCB4,riboflavin,SHC1,Vegf	12
+Cellular Development,Cellular Growth and Proliferation,Organ Development,Renal and Urological System Development and Function,Renal Proliferation	Proliferation of glomerular cells	1.32E-01	SHC1,Vegf	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver metastasis	1.32E-01	FGFR2,Vegf	2
+Cardiovascular Disease,Heart Failure,Organismal Injury and Abnormalities	Failure of heart	1.38E-01	MTOR,PRKCA,Troponin t	3
+Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Damage	Nephrotoxicity	1.50E-01	MTOR	1
+Increased Levels of Alkaline Phosphatase	Increased activation of alkaline phosphatase	1.57E-01	polyphosphate	1
+Gastrointestinal Disease,Hepatic System Disease,Liver Steatosis,Metabolic Disease,Organismal Injury and Abnormalities	Hepatic steatosis	1.63E-01	ADCYAP1,FGFR2	2
+Cardiac Proliferation,Cardiovascular System Development and Function,Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Organ Development,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Development	Proliferation of cardiomyocytes	1.73E-01	PRKCA,Vegf	2
+Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Inflammation,Renal Nephritis	Nephritis	1.76E-01	MTOR,TP63	2
+Cardiac Dysfunction,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Hypertrophy of left ventricle	1.77E-01	MTOR	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver tumor	1.79E-01	ADCYAP1,ANGPTL7,CDH2,CPAMD8,FGFR2,KLB,LCTL,LIM2,MTOR,PLCB4,riboflavin,SHC1,Vegf	13
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Infectious Diseases,Inflammatory Disease,Inflammatory Response,Liver Inflammation/Hepatitis,Organ Development,Organismal Injury and Abnormalities	Infection by Hepatitis C virus	2.15E-01	MTOR	1
+Gastrointestinal Disease,Hepatic System Disease,Liver Fibrosis,Organismal Injury and Abnormalities	Fibrosis of liver	2.86E-01	FGFR2	1
+Kidney Failure,Organismal Injury and Abnormalities,Renal and Urological Disease	Chronic renal failure	2.97E-01	MTOR,Troponin t	2
+Cellular Development,Cellular Growth and Proliferation,Digestive System Development and Function,Hepatic System Development and Function,Liver Proliferation,Organ Development,Tissue Development	Proliferation of hepatocytes	3.24E-01	FGFR2,Vegf	2
+Cardiac Arteriopathy,Cardiovascular Disease,Organismal Injury and Abnormalities	Disorder of coronary artery	4.60E-01	MTOR,Troponin t,Vegf	3

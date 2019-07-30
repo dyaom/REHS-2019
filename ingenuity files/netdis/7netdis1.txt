@@ -1,0 +1,328 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital cataract	2.25E-30	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGC,CRYGD,CRYGS,GJA3,HSF4,MAF,MIP	15
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant cataract disease	9.67E-26	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBB2,CRYBB3,CRYGC,CRYGD,CRYGS,GJA3,HSF4,MAF	12
+Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract disease	3.58E-25	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGC,CRYGD,CRYGS,GJA3,GLRX2,HSF4,MAF,MIP	16
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital anomaly of eye	2.47E-20	CASP6,CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBA4,CRYBB1,CRYBB2,CRYBB3,CRYGC,CRYGD,CRYGS,GJA3,HSF4,MAF,MIP,Vegf	17
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Familial congenital cataract	9.93E-20	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBB1,CRYBB3,CRYGC,GJA3,HSF4,MAF	10
+Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract	3.54E-17	CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYGC,GJA3,HSF4,MIP	7
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital nuclear cataract	1.38E-15	CRYAA/CRYAA2,CRYBA2,CRYBB1,CRYBB3,CRYGC,GJA3	6
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant congenital eye anomaly	3.11E-15	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBB3,CRYGC,GJA3,HSF4,MAF	9
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital zonular cataract	4.45E-15	CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYGC,GJA3,HSF4	6
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Hereditary Eye Disease	7.29E-15	CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA2,CRYBB1,CRYBB2,CRYBB3,CRYGC,CRYGD,CRYGS,EFEMP1,GJA3,HSF4,MAF,MIP	15
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Visual System Development and Function	Morphogenesis of camera-type eye	2.69E-13	AQP1,CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA4,CRYBB2,CRYGC,HSF4	8
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Formation of eye	4.29E-13	AQP1,CASP6,CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA4,CRYBB2,CRYGC,CRYGD,CRYGS,EFEMP1,GJA3,HSF4,MAF,SERPINF1,Vegf	16
+Visual System Development and Function	Vision	1.47E-12	CRYAA/CRYAA2,CRYBA1,CRYBA4,CRYBB2,CRYGC,CRYGD,EFEMP1,HSF4,MIP	9
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant perinuclear cataract	1.51E-12	CRYAA/CRYAA2,CRYBA1,CRYGC,GJA3,HSF4	5
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant nuclear cataract	1.81E-10	CRYAA/CRYAA2,CRYBA2,CRYBB3,GJA3	4
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Microcornea	5.40E-10	CRYAA/CRYAA2,CRYGC,CRYGD,MAF	4
+Embryonic Development,Organismal Development	Development of head	9.98E-10	AQP1,CASP6,CRTAC1,CRYAA/CRYAA2,CRYAB,CRYBA1,CRYBA4,CRYBB2,CRYGC,CRYGD,CRYGS,EFEMP1,GJA3,HSF4,MAF,SERPINF1,TRAPPC9,Vegf	18
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of lens	9.74E-08	CRYAA/CRYAA2,CRYBB2,CRYGS,HSF4,MAF	5
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Development of lens tissue	1.77E-06	GJA3,HSF4,MAF	3
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Visual System Development and Function	Morphology of eye	1.92E-06	AQP1,CRYAA/CRYAA2,CRYBB2,CRYGS,EFEMP1,HSF4,MAF,SERPINF1	8
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Formation of lens	2.08E-06	CASP6,GJA3,HSF4,MAF	4
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Coppock-like cataract	3.05E-06	CRYGC,GJA3	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract 2	3.92E-06	CRYBB3,CRYGC	2
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract with microcornea	3.92E-06	CRYAA/CRYAA2,CRYGC	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital cataract	5.26E-06	CRYAA/CRYAA2,CRYBB1,CRYBB3	3
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of eye	7.45E-06	CRYAA/CRYAA2,CRYBB2,CRYGS,EFEMP1,HSF4,MAF,SERPINF1	7
+Carbohydrate Metabolism,Energy Production	Oxidation of ascorbic acid	8.49E-06	CRYAB,Cu2+	2
+Cell Death and Survival	Disintegration of secondary lens fiber cells	8.49E-06	CRYAA/CRYAA2,CRYAB	2
+Molecular Transport	Transport of water	1.22E-05	AQP1,AQP4,MIP	3
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Tissue Morphology,Visual System Development and Function	Morphology of lens tissue	1.90E-05	CRYAA/CRYAA2,CRYGS,HSF4	3
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant pulverulent cataract	2.51E-05	CRYGC,GJA3	2
+Cell Morphology	Osmotic water permeability of cells	3.53E-05	AQP1,AQP4	2
+Molecular Transport	Transport of carbon dioxide	5.38E-05	AQP1,AQP4	2
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Microphthalmia	5.49E-05	CASP6,CRYAA/CRYAA2,CRYBB2,MAF,Vegf	5
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Formation of lens fiber cells	7.21E-05	GJA3,HSF4	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant posterior polar cataract	1.02E-04	CRYAB,GJA3	2
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital eye anomaly	1.74E-04	CRYAA/CRYAA2,CRYBB1,CRYBB3	3
+Cardiovascular System Development and Function,Tissue Morphology	Permeability of blood vessel	2.32E-04	AQP1,AQP4,KL,SERPINF1,Vegf	5
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function,Tissue Development	Bone volume fraction of trabecular bone	2.45E-04	KL,SERPINF1	2
+Cell Death and Survival,DNA Replication, Recombination, and Repair	Fragmentation of DNA	2.47E-04	CASP6,CRYAA/CRYAA2,CRYAB,Cu2+,KL	5
+Cellular Function and Maintenance	Homeostasis of water	2.82E-04	AQP1,AQP4	2
+Cellular Development	Differentiation of eye cells	3.69E-04	CRYGD,MAF,SERPINF1	3
+Cardiovascular System Development and Function,Tissue Morphology	Permeability of vasculature	4.81E-04	AQP1,AQP4,Complement,KL,SERPINF1,Vegf	6
+Cell Death and Survival	Apoptosis of gonadal cell lines	6.16E-04	CRYAA/CRYAA2,CRYAB,KL	3
+Ophthalmic Disease,Organismal Injury and Abnormalities	Formation of cataract	7.47E-04	GJA3,HSF4	2
+Free Radical Scavenging	Generation of reactive oxygen species	8.92E-04	CRYAA/CRYAA2,CRYAB,Cu2+,KL,SERPINF1,Vegf	6
+Organismal Development	Morphology of head	9.78E-04	AQP1,CASP6,CRTAC1,CRYAA/CRYAA2,CRYBB2,CRYGS,EFEMP1,HSF4,MAF,SERPINF1	10
+Cell Morphology,Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Tissue Morphology,Visual System Development and Function	Abnormal morphology of lens fiber cells	9.88E-04	CRYGS,HSF4	2
+Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar with sutural opacities cataract 15	1.01E-03	MIP	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Zonular pulverulent cataract 2	1.34E-03	CRYGC	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract 2 with microcornea	1.34E-03	CRYGC	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital nuclear cataract type 3	1.34E-03	CRYBB1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear pulverulent and posterior polar cataract type 14	1.34E-03	GJA3	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Embryonal nuclear cataract type 14	1.34E-03	GJA3	1
+Cellular Assembly and Organization,Neurological Disease	Self-aggregation of amyloid fibrils	1.34E-03	Cu2+	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Coppock-like cataract type 14	1.34E-03	GJA3	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Spondyloepimetaphyseal dysplasia, aggrecan type	1.34E-03	ACAN	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Zonular pulverulent cataract 3	1.34E-03	GJA3	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Coppock-like cataract 2	1.34E-03	CRYGC	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract 4 with microcornea	1.34E-03	CRYGD	1
+Cell-To-Cell Signaling and Interaction	Coupling of epithelial cells	1.34E-03	GJA3	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear coralliform cataract type 14	1.34E-03	GJA3	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract type 23	1.34E-03	CRYBA4	1
+Amino Acid Metabolism,Post-Translational Modification,Small Molecule Biochemistry	Reduction of L-cysteine	1.34E-03	GLRX2	1
+Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Sutural cataract with punctate and cerulean opacities	1.34E-03	CRYBB2	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Multiple types cataract 20	1.34E-03	CRYGS	1
+Developmental Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Progressive juvenile onset punctate cataract	1.34E-03	CRYGD	1
+Connective Tissue Disorders,Hereditary Disorder,Inflammatory Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Familial osteochondritis dissecans	1.34E-03	ACAN	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Spondyloepimetaphyseal dysplasia, kimberly type	1.34E-03	ACAN	1
+Cell Death and Survival	Apoptosis of eye cell lines	1.41E-03	CRYAB,SERPINF1	2
+Cellular Development,Tissue Development,Visual System Development and Function	Differentiation of lens fiber cells	1.53E-03	CRYGD,MAF	2
+Organismal Injury and Abnormalities,Tissue Morphology	Permeability of epithelial tissue	1.57E-03	AQP1,KL,SERPINF1,Vegf	4
+Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of head	1.62E-03	CASP6,CRTAC1,CRYAA/CRYAA2,CRYBB2,CRYGS,EFEMP1,HSF4,MAF,SERPINF1	9
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear lamellar cataract 9	1.68E-03	CRYAA/CRYAA2	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Cataract type 42	1.68E-03	CRYBA2	1
+Cellular Development,Nervous System Development and Function,Tissue Development	Differentiation of lower motor neuron	1.68E-03	SERPINF1	1
+Cancer,Cellular Development,Organismal Injury and Abnormalities,Tumor Morphology	Differentiation of retinoblastoma cells	1.68E-03	SERPINF1	1
+Hematological Disease	Severe hyperphosphatemia	1.68E-03	KL	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Nuclear cataract 9 with microcornea	1.68E-03	CRYAA/CRYAA2	1
+Cardiovascular Disease,Cardiovascular System Development and Function,Organismal Injury and Abnormalities,Tissue Morphology	Hyperpermeability of vascular endothelial tissue	1.68E-03	KL	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant multiple types cataract 22	1.68E-03	CRYBB3	1
+Cell Cycle	Senescence of progenitor cells	1.68E-03	KL	1
+Cell Death and Survival,Cellular Development,Nervous System Development and Function	Regeneration of oligodendrocytes	1.68E-03	SERPINF1	1
+Cell-To-Cell Signaling and Interaction,Cellular Compromise,Tumor Morphology	Aggregation of retinoblastoma cells	1.68E-03	SERPINF1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive total cataract 9 with microcornea	1.68E-03	CRYAA/CRYAA2	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Osteogenesis imperfecta type VI	1.68E-03	SERPINF1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Lamellar cataract 5	1.68E-03	HSF4	1
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Tissue Morphology,Visual System Development and Function	Opacity of lens tissue	1.68E-03	CRYAA/CRYAA2	1
+Cell-To-Cell Signaling and Interaction	Binding of retinoblastoma cell lines	1.68E-03	SERPINF1	1
+Cell Death and Survival,Cell Morphology,Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Tissue Morphology,Visual System Development and Function	Delay in initiation of loss of photoreceptors	1.68E-03	SERPINF1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal dominant cataract with microcornea	1.68E-03	CRYAA/CRYAA2	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Autosomal recessive congenital nuclear cataract type 2	1.68E-03	CRYBB3	1
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Autosomal recessive mental retardation type 13	1.68E-03	TRAPPC9	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function	Bone mineral content of epiphysis	1.68E-03	SERPINF1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital zonular cataract with sutural opacities 10	2.01E-03	CRYBA1	1
+Organ Development,Renal and Urological System Development and Function	Osmoregulation by kidney	2.25E-03	AQP1,AQP4	2
+Molecular Transport	Translocation of water	2.35E-03	AQP1	1
+Cell Morphology	Osmotic water permeability of dorsal root ganglion cells	2.35E-03	AQP1	1
+Cardiovascular System Development and Function	Proliferation of arterial capillary	2.35E-03	AQP1	1
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Formation of secondary lens fiber cells	2.35E-03	GJA3	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Zonular pulverulent cataract type 1	2.35E-03	GJA3	1
+Auditory Disease,Neurological Disease	Unilateral hearing loss	2.68E-03	AQP4	1
+Cell Morphology,Nervous System Development and Function,Tissue Morphology	Volume of astrocytes	2.68E-03	AQP4	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Posterior polar cataract type 2	2.68E-03	CRYAB	1
+Cellular Compromise,Cellular Function and Maintenance	Endoplasmic reticulum stress response of eye cell lines	2.68E-03	EFEMP1	1
+Cardiac Dilation,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Hereditary Disorder,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dilated cardiomyopathy type 1II	2.68E-03	CRYAB	1
+Organismal Injury and Abnormalities,Reproductive System Disease,Skeletal and Muscular Disorders	Perineal prolapse	2.68E-03	EFEMP1	1
+Cellular Movement	Invasion by smooth muscle cell lines	2.68E-03	CRYAB	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Alpha-B crystallin-related fatal infantile hypertonic myofibrillar myopathy	2.68E-03	CRYAB	1
+Inflammatory Disease,Organismal Injury and Abnormalities,Reproductive System Disease	Placentitis	2.68E-03	AQP4,Complement	2
+Cell Morphology,Cellular Compromise	Shrinkage of astrocytes	2.68E-03	AQP4	1
+Cell Morphology,Cellular Assembly and Organization	Morphology of desmin filament	2.68E-03	CRYAB	1
+Nervous System Development and Function	Specific gravity of brain tissue	2.68E-03	AQP4	1
+Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Myofibrillar myopathy 2	2.68E-03	CRYAB	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Malattia leventinese	2.68E-03	EFEMP1	1
+Cellular Assembly and Organization,Nervous System Development and Function	Fasciculation of axons	2.79E-03	CASP6,CRTAC1	2
+Post-Translational Modification	Aggregation of protein	2.93E-03	CRYAA/CRYAA2,CRYAB,HSP	3
+Cell Morphology,Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Visual System Development and Function	Morphology of eye cells	2.98E-03	CRYGS,HSF4,SERPINF1	3
+Connective Tissue Disorders,Hematological Disease,Organismal Injury and Abnormalities,Tissue Morphology	Severe erythropenia	3.02E-03	MAF	1
+Amino Acid Metabolism,Energy Production,Post-Translational Modification,Small Molecule Biochemistry	Auto-oxidation of L-cysteine	3.02E-03	Cu2+	1
+Cell Death and Survival,Cellular Development,Cellular Function and Maintenance	Self-renewal of Schwann cell precursors	3.02E-03	MAF	1
+Auditory Disease,Developmental Disorder,Hereditary Disorder,Neurological Disease,Organismal Injury and Abnormalities	Ayme-Gripp syndrome	3.02E-03	MAF	1
+Cell-To-Cell Signaling and Interaction	Activation of schwannoma cell lines	3.02E-03	MAF	1
+Cell Morphology,Cellular Compromise	Swelling of zymogen granules	3.02E-03	AQP1	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Congenital cerulean cataract-4	3.02E-03	MAF	1
+Developmental Disorder,Hereditary Disorder,Ophthalmic Disease,Organismal Injury and Abnormalities	Multiple types cataract 21 with microcornea	3.02E-03	MAF	1
+Organ Development,Renal and Urological System Development and Function	Function of kidney	3.33E-03	AQP1,AQP4,KL	3
+Cell Death and Survival,DNA Replication, Recombination, and Repair	Fragmentation of mitochondrial DNA	3.35E-03	KL	1
+Cell Morphology,Cellular Function and Maintenance	Permeability of eye cell lines	3.35E-03	SERPINF1	1
+Cell-To-Cell Signaling and Interaction,Hematological System Development and Function,Immune Cell Trafficking,Inflammatory Response	Aggregation of monocytes	3.35E-03	KL	1
+Organismal Functions	Healing of lung cancer cell lines	3.35E-03	KL	1
+Inflammatory Response	Cellular inflammation	3.35E-03	ACAN	1
+Lipid Metabolism,Small Molecule Biochemistry	Organization of lipid	3.35E-03	KL	1
+Organ Development,Visual System Development and Function	Growth of lens	3.69E-03	GJA3	1
+Cell Morphology	Conversion of crypt cells	4.02E-03	MAFA	1
+Cell Morphology	Osmotic water permeability of red blood cells	4.02E-03	AQP1	1
+Cellular Assembly and Organization	Nucleation of amyloid fibrils	4.02E-03	Cu2+	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Release of ceramide	4.02E-03	Cu2+	1
+Small Molecule Biochemistry	Production of catecholamine	4.31E-03	Cu2+,KL	2
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function	Delay in resorption of trabecular bone	4.36E-03	KL	1
+Drug Metabolism,Energy Production,Protein Synthesis	Oxidation of glutathione	4.36E-03	Cu2+	1
+Cell Cycle,Cell Morphology,Cellular Assembly and Organization,Cellular Movement	Elongation of amyloid fibrils	4.36E-03	Cu2+	1
+Carbohydrate Metabolism,Small Molecule Biochemistry	Catabolism of glycosaminoglycan	4.57E-03	ACAN,Cu2+	2
+Connective Tissue Development and Function,Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Respiratory System Development and Function,Skeletal and Muscular System Development and Function,Tissue Development	Neurogenesis of turbinate bone	4.69E-03	HSF4	1
+Cell Morphology,Reproductive System Development and Function	Osmotic water permeability of oocytes	4.69E-03	AQP4	1
+Cell-To-Cell Signaling and Interaction	Activation of pancreatic stellate cells	4.69E-03	SERPINF1	1
+Cardiovascular Disease,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Desmin-related myopathy	5.03E-03	CRYAB	1
+Organismal Injury and Abnormalities,Reproductive System Disease,Skeletal and Muscular Disorders	Vaginal prolapse	5.03E-03	EFEMP1	1
+Small Molecule Biochemistry	Synthesis of catecholamine	5.15E-03	Cu2+,KL	2
+Organ Morphology,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Atrophy	Atrophy of kidney	5.24E-03	EFEMP1,KL	2
+Connective Tissue Disorders,Developmental Disorder,Hereditary Disorder,Organismal Injury and Abnormalities	Autosomal recessive hyperphosphatemic familial tumoral calcinosis	5.36E-03	KL	1
+Cellular Movement	Dispersion of tumor cell lines	5.36E-03	EFEMP1	1
+Cancer,Cardiovascular Disease,Connective Tissue Disorders,Organismal Injury and Abnormalities,Respiratory Disease	Pulmonary lymphangioleiomyomatosis	5.36E-03	CRYAB	1
+Connective Tissue Development and Function,Hematological System Development and Function,Hematopoiesis,Organismal Development,Tissue Morphology	Quantity of polychromatic normoblast cells	5.36E-03	MAF	1
+Organismal Development	Accumulation of urine	5.36E-03	AQP1	1
+Inflammatory Disease,Inflammatory Response,Ophthalmic Disease,Organ Morphology,Organismal Injury and Abnormalities	Swelling of cornea	5.36E-03	AQP1	1
+Cell Morphology,Nervous System Development and Function	Regulatory volume decrease of astrocytes	5.36E-03	AQP4	1
+Endocrine System Disorders,Gastrointestinal Disease,Metabolic Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Nonproliferative diabetic retinopathy with macular edema	5.36E-03	SERPINF1	1
+DNA Replication, Recombination, and Repair	Damage of DNA fragment	5.36E-03	Cu2+	1
+Cardiovascular System Development and Function	Proliferation of capillary vessel	5.36E-03	AQP1,Vegf	2
+Cellular Growth and Proliferation,Nervous System Development and Function	Inhibition of Schwann cells	5.36E-03	ACAN	1
+Organismal Injury and Abnormalities	Damage of epithelial tissue	5.61E-03	AQP1,Complement,KL,SERPINF1,Vegf	5
+Embryonic Development,Organismal Development,Tissue Morphology	Length of proliferative zone	5.69E-03	KL	1
+Cell Morphology,Cellular Assembly and Organization,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Nervous System Development and Function,Organismal Development,Tissue Development	Delay in initiation of pruning of axons	5.69E-03	CASP6	1
+Organismal Functions	Healing of carcinoma cell lines	5.69E-03	KL	1
+Cell Morphology,Cellular Assembly and Organization	Morphology of actin bundles	5.69E-03	GJA3	1
+Cell Morphology,Cellular Assembly and Organization,Cellular Compromise	Shrinkage of nucleus	5.69E-03	CASP6	1
+Embryonic Development,Nervous System Development and Function,Organ Development,Organ Morphology,Organismal Development,Tissue Development,Visual System Development and Function	Thickness of cornea	5.69E-03	AQP1	1
+Molecular Transport,Protein Trafficking	Deposition of protein	5.69E-03	KL	1
+Cell Death and Survival,Nervous System Development and Function	Cell viability of motor neurons	5.89E-03	Cu2+,SERPINF1	2
+Cellular Assembly and Organization,Tissue Development	Formation of fibrils	6.03E-03	CRYAB,Cu2+	2
+Cell Death and Survival	Apoptosis of lens epithelium	6.03E-03	CRYAA/CRYAA2	1
+Immunological Disease,Organismal Injury and Abnormalities	Injury of spleen	6.03E-03	D-galactose	1
+Free Radical Scavenging,Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Accumulation of lipid peroxide	6.36E-03	KL	1
+Connective Tissue Disorders,Dermatological Diseases and Conditions,Organ Morphology,Organismal Injury and Abnormalities,Tissue Morphology	Abnormal morphology of cutaneous elastic fiber	6.36E-03	EFEMP1	1
+Developmental Disorder,Gastrointestinal Disease,Organismal Injury and Abnormalities	Inguinal hernia	6.36E-03	EFEMP1	1
+Developmental Disorder,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities,Renal and Urological Disease	Cystinuria	6.36E-03	Cu2+	1
+Cardiovascular Disease,Hereditary Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Familial restrictive cardiomyopathy 1	6.69E-03	CRYAB	1
+Protein Synthesis	Homo-oligomerization of protein	7.20E-03	AQP4,CRYAA/CRYAA2,CRYAB	3
+Cell Death and Survival	Cell viability of central nervous system cells	7.25E-03	CASP6,Cu2+,SERPINF1	3
+Cell Death and Survival	Killing of hepatoma cell lines	7.36E-03	SERPINF1	1
+Embryonic Development,Nervous System Development and Function,Ophthalmic Disease,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Tissue Development,Visual System Development and Function	Abnormal morphology of lens capsule	7.36E-03	HSF4	1
+Renal and Urological System Development and Function	Osmolality of urine	7.59E-03	AQP1,AQP4	2
+Cell Death and Survival,Cell Morphology,Digestive System Development and Function,Endocrine System Disorders,Gastrointestinal Disease,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Loss of beta islet cells	7.70E-03	DNAJB9	1
+Cellular Movement,Hair and Skin Development and Function	Migration of melanocytes	8.36E-03	SERPINF1	1
+Organismal Development	Production of cerebrospinal fluid	8.36E-03	AQP1	1
+Molecular Transport	Flux of water	8.36E-03	AQP4	1
+Molecular Transport	Transport of nitric oxide	8.36E-03	AQP1	1
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Respiratory System Development and Function,Tissue Development	Neurogenesis of olfactory epithelium	8.69E-03	HSF4	1
+Cell Death and Survival,Nervous System Development and Function	Survival of lower motor neuron	8.69E-03	SERPINF1	1
+Cancer,Organismal Injury and Abnormalities,Tumor Morphology	Movement of malignant tumor	8.69E-03	SERPINF1	1
+Connective Tissue Development and Function,Hematological System Development and Function,Hematopoiesis,Organismal Development,Tissue Morphology	Quantity of orthochromic normoblasts	9.03E-03	MAF	1
+Free Radical Scavenging	Synthesis of reactive oxygen species	9.20E-03	Complement,CRYAA/CRYAA2,CRYAB,Cu2+,D-galactose,KL,SERPINF1,Vegf	8
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Formation of eye cells	9.29E-03	GJA3,HSF4,Vegf	3
+Cell Morphology,Cellular Function and Maintenance	Permeability of epithelial cell lines	9.36E-03	SERPINF1	1
+Cellular Compromise,Cellular Function and Maintenance,Organismal Injury and Abnormalities	Endoplasmic reticulum stress response of beta islet cells	9.36E-03	DNAJB9	1
+Developmental Disorder,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Hypoplasia	Hypoplasia of renal cortex	9.36E-03	KL	1
+Respiratory System Development and Function	Function of respiratory system	9.83E-03	AQP1,AQP4	2
+Cell Morphology,Organismal Injury and Abnormalities	Swelling of gonadal cell lines	1.00E-02	AQP4	1
+Cellular Assembly and Organization,Neurological Disease,Organismal Development,Tissue Development	Development of amyloid-beta plaques	1.00E-02	CRYAB	1
+Connective Tissue Disorders,Infectious Diseases,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Parvovirus arthritis	1.00E-02	ACAN	1
+Developmental Disorder,Organismal Injury and Abnormalities	Formation of abdominal hernia	1.00E-02	EFEMP1	1
+Cellular Assembly and Organization	Stabilization of intermediate filaments	1.00E-02	CRYAB	1
+Organismal Injury and Abnormalities,Tissue Morphology	Volume of lesion	1.01E-02	CRYAB,EFEMP1,MAF,Vegf	4
+Decreased Levels of Albumin	Decreased localization of albumin	1.04E-02	KL	1
+Cardiovascular Disease,Cardiovascular System Development and Function,Organismal Injury and Abnormalities,Tissue Morphology	Permeability of vascular endothelial tissue	1.04E-02	KL,Vegf	2
+Cell-To-Cell Signaling and Interaction,Small Molecule Biochemistry	Synthesis of neurotransmitter	1.05E-02	Cu2+,KL	2
+Amino Acid Metabolism,Drug Metabolism,Small Molecule Biochemistry	Synthesis of L-dopa	1.07E-02	KL	1
+Dermatological Diseases and Conditions,Hair and Skin Development and Function,Organ Morphology,Organismal Injury and Abnormalities	Abnormal morphology of coarse hair	1.10E-02	EFEMP1	1
+Cellular Development,Cellular Growth and Proliferation	Formation of skin cell lines	1.10E-02	SERPINF1	1
+Cardiac Arteriopathy,Cardiovascular Disease,Hereditary Disorder,Organismal Injury and Abnormalities	Susceptibility to coronary artery disease	1.10E-02	KL	1
+Cardiovascular System Development and Function,Cell-To-Cell Signaling and Interaction,Organ Development,Skeletal and Muscular System Development and Function	Activation of cardiomyocytes	1.14E-02	CRYAB	1
+Nervous System Development and Function,Neurological Disease,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Abnormal morphology of olfactory tract	1.14E-02	CRTAC1	1
+Embryonic Development,Nervous System Development and Function,Organ Development,Organismal Development,Tissue Development,Visual System Development and Function	Formation of lens capsule	1.17E-02	HSF4	1
+Digestive System Development and Function,Lipid Metabolism,Small Molecule Biochemistry	Digestion of lipid	1.17E-02	AQP1	1
+Cardiovascular Disease,Heart Failure,Organismal Injury and Abnormalities	Onset of heart failure	1.17E-02	CRYAB	1
+Organismal Injury and Abnormalities,Renal and Urological Disease	Polyuria	1.18E-02	AQP1,AQP4	2
+Ophthalmic Disease,Organismal Injury and Abnormalities	Macular degeneration	1.19E-02	EFEMP1,OPTC,Vegf	3
+Neurological Disease,Organismal Injury and Abnormalities	Formation of glial scar	1.20E-02	AQP4	1
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Hyperplasia of hair follicle	1.20E-02	KL	1
+Cell Death and Survival,Nervous System Development and Function	Cell viability of neuroglia	1.23E-02	CASP6,SERPINF1	2
+Cardiovascular Disease,Ophthalmic Disease,Organismal Injury and Abnormalities	Ischemia of retina	1.27E-02	AQP4	1
+Molecular Transport	Secretion of water	1.27E-02	AQP1	1
+Metabolic Disease,Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Moderate Alzheimer disease	1.27E-02	CASP6	1
+Cellular Assembly and Organization	Quantity of cytoplasmic inclusions	1.27E-02	CRYAB	1
+Carbohydrate Metabolism,Molecular Transport,Small Molecule Biochemistry	Transport of glycerol	1.33E-02	AQP1	1
+Gastrointestinal Disease,Organismal Injury and Abnormalities	Atrophy of intestinal mucosa	1.37E-02	KL	1
+Nutritional Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Wasting of skeletal muscle	1.40E-02	KL	1
+Neurological Disease	Abnormal function of nervous system	1.46E-02	AQP4,CASP6	2
+Molecular Transport	Transport of ammonium	1.47E-02	AQP1	1
+Cell Cycle,Gene Expression	Binding of dioxin responsive element	1.47E-02	Cu2+	1
+Cell Morphology,Embryonic Development	Mineralization of mesenchymal stem cells	1.50E-02	SERPINF1	1
+Molecular Transport,Small Molecule Biochemistry	Quantity of heme	1.57E-02	Cu2+	1
+Cell-To-Cell Signaling and Interaction	Adhesion of bladder cancer cell lines	1.60E-02	Cu2+	1
+Organ Morphology,Renal and Urological System Development and Function,Renal Regeneration	Regeneration of kidney	1.63E-02	KL	1
+Cell Morphology,Cellular Function and Maintenance,Organismal Injury and Abnormalities,Tissue Morphology	Permeability of epithelial cells	1.63E-02	SERPINF1	1
+Cell-To-Cell Signaling and Interaction,Cellular Assembly and Organization,Cellular Function and Maintenance,Inflammatory Response	Phagocytosis of photoreceptor outer segments	1.67E-02	KL	1
+Connective Tissue Disorders,Hematological Disease,Metabolic Disease,Nutritional Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Hypophosphatemic rickets	1.70E-02	KL	1
+Cellular Development	Maturation of oligodendrocyte precursor cells	1.70E-02	SERPINF1	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Oxygen-induced retinopathy	1.70E-02	CRYAB	1
+Cancer,Organismal Injury and Abnormalities,Tissue Morphology,Tumor Morphology	Volume of tumor	1.70E-02	EFEMP1,MAF	2
+Connective Tissue Disorders,Metabolic Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Metabolic bone disease	1.73E-02	KL,SERPINF1	2
+Endocrine System Disorders,Organ Morphology,Organismal Injury and Abnormalities,Reproductive System Development and Function,Reproductive System Disease	Abnormal morphology of dilated rete testis	1.73E-02	AQP1	1
+Cellular Movement	Invasion of fibroblast cell lines	1.76E-02	CRYAB,EFEMP1	2
+Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Age-associated memory impairment	1.76E-02	KL	1
+Metabolic Disease,Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Severe Alzheimer disease	1.83E-02	CASP6	1
+Neurological Disease	Hypomyelination of sciatic nerve	1.83E-02	MAF	1
+Cell Morphology,Tissue Morphology	Volume of cells	1.93E-02	AQP1,AQP4	2
+Cell Death and Survival	Apoptosis of central nervous system cells	1.96E-02	CRYAB,KL,SERPINF1	3
+Lipid Metabolism,Small Molecule Biochemistry	Damage of lipid	1.96E-02	Cu2+	1
+Auditory Disease,Neurological Disease	Hearing loss	2.01E-02	AQP4,MAF,SERPINF1	3
+Cellular Compromise,Cellular Function and Maintenance	Endoplasmic reticulum stress response of cells	2.02E-02	DNAJB9,EFEMP1	2
+Cell Death and Survival	Cell death of schwannoma cell lines	2.06E-02	MAF	1
+Cell Death and Survival	Killing of lung cancer cell lines	2.06E-02	SERPINF1	1
+Carbohydrate Metabolism,Small Molecule Biochemistry	Catabolism of keratan sulfate	2.06E-02	ACAN	1
+Cancer,Cell Cycle,Cell-To-Cell Signaling and Interaction,Cellular Growth and Proliferation,Organismal Injury and Abnormalities,Tumor Morphology	Contact growth inhibition of tumor cells	2.09E-02	CASP6	1
+Humoral Immune Response,Inflammatory Response	Complement-dependent cytotoxicity	2.13E-02	AQP4	1
+Cell Death and Survival,Organismal Injury and Abnormalities	Apoptosis of epithelial cells	2.14E-02	CRYAA/CRYAA2,CRYAB,Cu2+,KL	4
+Metabolic Disease,Neurological Disease,Organismal Injury and Abnormalities,Psychological Disorders	Mild Alzheimer disease	2.16E-02	CASP6	1
+Cellular Movement	Scattering of cells	2.18E-02	Cu2+,EFEMP1	2
+Cellular Development,Nervous System Development and Function,Tissue Development	Differentiation of cerebellar granule cell	2.19E-02	SERPINF1	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Arterial stiffening	2.19E-02	KL	1
+Cellular Development,Connective Tissue Development and Function,Embryonic Development	Adipogenesis of mesenchymal stem cells	2.23E-02	SERPINF1	1
+Cancer,Neurological Disease,Organismal Injury and Abnormalities	Primary brain tumor	2.26E-02	EFEMP1	1
+Cellular Movement,Connective Tissue Development and Function	Migration of cardiac fibroblasts	2.26E-02	SERPINF1	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Abnormal quantity of vitamin D	2.26E-02	KL	1
+Connective Tissue Disorders,Immunological Disease,Inflammatory Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Systemic lupus erythematosus	2.29E-02	CASP6,CRYAA/CRYAA2,CRYBA4,CRYBB2,Vegf	5
+Cell Death and Survival	Cell death of central nervous system cells	2.29E-02	CASP6,CRYAB,KL,SERPINF1	4
+Cellular Compromise,Cellular Function and Maintenance	Endoplasmic reticulum stress response of epithelial cell lines	2.29E-02	EFEMP1	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Development of cataract	2.29E-02	GJA3	1
+Cellular Development,Cellular Growth and Proliferation	Proliferation of schwannoma cell lines	2.36E-02	MAF	1
+Connective Tissue Disorders,Developmental Disorder,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Kyphosis	2.36E-02	EFEMP1,KL	2
+Cell Signaling	Redox signal response	2.42E-02	GLRX2	1
+Cellular Development,Cellular Growth and Proliferation	Outgrowth of pheochromocytoma cell lines	2.46E-02	CRYAB	1
+Cellular Assembly and Organization,Cellular Function and Maintenance	Secretion of exosomes	2.46E-02	CRYAB	1
+Cellular Development,Connective Tissue Development and Function,Tissue Development	Differentiation of osteoprogenitor cells	2.46E-02	SERPINF1	1
+Neurological Disease,Ophthalmic Disease,Organismal Injury and Abnormalities,Tissue Morphology	Degeneration of retinal pigment epithelium	2.49E-02	KL	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Glaucoma	2.51E-02	ANGPTL7,CRYBA1,Vegf	3
+Cell Death and Survival,Nervous System Development and Function	Survival of cerebellar granule cell	2.55E-02	SERPINF1	1
+Connective Tissue Development and Function,Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Tissue Development,Tissue Morphology	Catabolism of cartilage tissue	2.59E-02	ACAN	1
+Cell-To-Cell Signaling and Interaction,Cellular Assembly and Organization,Nervous System Development and Function	Induction of neurites	2.62E-02	SERPINF1	1
+Developmental Disorder,Gastrointestinal Disease,Hepatic System Disease,Hereditary Disorder,Metabolic Disease,Neurological Disease,Organismal Injury and Abnormalities	Wilson disease	2.62E-02	Cu2+	1
+Cellular Assembly and Organization,Cellular Compromise	Formation of cellular inclusion bodies	2.64E-02	CRYAA/CRYAA2,CRYAB,HSP	3
+Glomerular Injury,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Fibrosis	Fibrosis of kidney	2.64E-02	AQP1,KL	2
+Organismal Injury and Abnormalities,Renal and Urological Disease	Phosphaturia	2.68E-02	KL	1
+Organ Morphology,Renal and Urological System Development and Function,Renal Dilation	Dilation of renal tubule	2.72E-02	KL	1
+Cell Death and Survival,Organismal Injury and Abnormalities	Apoptosis of endothelial cells	2.78E-02	Complement,CRYAB,Cu2+,SERPINF1,Vegf	5
+Nutritional Disease	Early-onset morbid obesity	2.82E-02	MAF	1
+Connective Tissue Disorders,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Osteoarthritis	2.82E-02	ACAN,CRYAB,KL,Vegf	4
+Cell Death and Survival,Visual System Development and Function	Survival of photoreceptors	2.85E-02	SERPINF1	1
+Energy Production,Lipid Metabolism,Small Molecule Biochemistry	Oxidation of lipid	2.88E-02	Cu2+,KL,SERPINF1	3
+Molecular Transport,Protein Trafficking	Excretion of protein	2.88E-02	KL	1
+Cardiovascular Disease,Organismal Injury and Abnormalities	Damage of endothelial tissue	2.89E-02	Complement,KL,SERPINF1,Vegf	4
+Post-Translational Modification,Protein Folding	Folding of protein	2.92E-02	CRYAA/CRYAA2,CRYAB,HSP	3
+Free Radical Scavenging,Small Molecule Biochemistry	Reduction of hydrogen peroxide	2.95E-02	Cu2+	1
+Cell-mediated Immune Response,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Embryonic Development,Hematological System Development and Function,Hematopoiesis,Lymphoid Tissue Structure and Development,Organ Development,Organismal Development,Tissue Development	Differentiation of Tr1 cells	3.01E-02	MAF	1
+Cellular Movement,Hair and Skin Development and Function	Chemotaxis of skin cell lines	3.08E-02	SERPINF1	1
+Cardiovascular System Development and Function,Tissue Morphology	Contraction of aorta	3.08E-02	KL	1
+Connective Tissue Development and Function,Embryonic Development,Organ Development,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Development	Growth of metatarsal bone	3.08E-02	KL	1
+Hematological System Development and Function	Osmolality of blood	3.11E-02	AQP1	1
+Protein Synthesis	Polymerization of protein	3.13E-02	AQP4,CRYAA/CRYAA2,CRYAB,MIP	4
+Increased Levels of Creatinine	Increased clearance of creatinine	3.30E-02	KL	1
+Embryonic Development,Glomerular Injury,Organ Development,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal and Urological System Development and Function,Tissue Development	Expansion of mesangial matrix	3.69E-02	KL	1
+Cardiac Proliferation,Cardiovascular System Development and Function,Cellular Development,Cellular Growth and Proliferation,Connective Tissue Development and Function,Organ Development,Tissue Development	Proliferation of cardiac fibroblasts	3.92E-02	SERPINF1	1
+Organ Morphology,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Atrophy	Atrophy of renal tubule	4.92E-02	KL	1
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Apoptosis of renal tubular epithelial cells	5.93E-02	KL	1
+Degeneration of liver,Gastrointestinal Disease,Hepatic System Disease,Organismal Injury and Abnormalities	Degeneration of liver	8.74E-02	EFEMP1	1
+Decreased Levels of Albumin	Decreased Levels of Albumin	8.80E-02	KL,Relaxin	2
+Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Damage,Renal Tubule Injury	Damage of renal tubule	1.21E-01	Complement,KL	2
+Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal and Urological System Development and Function,Renal Enlargement	Hypertrophy of kidney	1.26E-01	KL	1
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Cell death of kidney cells	1.30E-01	CRYAB,Cu2+,KL,Vegf	4
+Cardiac Necrosis/Cell Death,Cardiovascular Disease,Cell Death and Survival,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Apoptosis of cardiomyocytes	1.33E-01	CRYAB,SERPINF1,Vegf	3
+Gastrointestinal Disease,Hepatic System Disease,Inflammatory Disease,Liver Cirrhosis,Organismal Injury and Abnormalities	Primary biliary cirrhosis	2.30E-01	Cu2+	1
+Increased Levels of Red Blood Cells	Increased Levels of Red Blood Cells	2.40E-01	MAF	1
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Apoptosis of kidney cells	2.57E-01	KL,Vegf	2
+Cardiac Proliferation,Cardiovascular System Development and Function,Cellular Growth and Proliferation,Organ Development	Proliferation of heart cells	2.64E-01	SERPINF1,Vegf	2
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Cell death of kidney cell lines	2.86E-01	CRYAB,Cu2+	2
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Cell Morphology,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders,Skeletal and Muscular System Development and Function,Tissue Morphology	Hypertrophy of cardiomyocytes	3.54E-01	CRYAB	1
+Cell Death and Survival,Gastrointestinal Disease,Hepatic System Disease,Liver Necrosis/Cell Death,Organismal Injury and Abnormalities	Apoptosis of hepatocytes	3.96E-01	Cu2+	1
+Cardiac Arteriopathy,Cardiovascular Disease,Organismal Injury and Abnormalities	Coronary artery disease	4.21E-01	KL,Vegf	2
+Cardiac Dysfunction,Cardiovascular Disease,Organismal Injury and Abnormalities	Dysfunction of heart	4.78E-01	CRYAB	1
+Cardiovascular Disease,Heart Failure,Organismal Injury and Abnormalities	Failure of heart	5.90E-01	CRYAB,Relaxin	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver tumor	1.00E00	ACAN,ANGPTL7,AQP1,CRYBA4,D-galactose,DNAJB9,EFEMP1,GLRX2,MAFA,TRAPPC9,Vegf	11
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver carcinoma	1.00E00	ACAN,AQP1,D-galactose,DNAJB9,EFEMP1,MAFA,TRAPPC9,Vegf	8
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatocellular carcinoma	1.00E00	ACAN,D-galactose,Vegf	3

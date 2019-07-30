@@ -1,0 +1,342 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Lipid Metabolism,Small Molecule Biochemistry	Fatty acid metabolism	5.77E-06	Acot1,Apoc3,arachidonyl-coenzyme A,carnitine,DPEP1,ERBB2,HNF4A,oleoyl-coenzyme A,PPARA	9
+Carbohydrate Metabolism,Small Molecule Biochemistry	Metabolism of D-fructose	1.94E-05	ALDOB,KHK	2
+Cellular Assembly and Organization	Quantity of keratohyalin granules	4.77E-05	Flg,PPARA	2
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Concentration of cholesterol	8.19E-05	Apoc3,ERBB2,Flg,HNF4A,PDZK1,PPARA	6
+Metabolic Disease,Organismal Injury and Abnormalities,Renal and Urological Disease	Aminoaciduria	1.42E-04	AGXT2,SLC23A1	2
+Molecular Transport	Quantity of carnitine	2.91E-04	ERBB2,PPARA	2
+Amino Acid Metabolism,Small Molecule Biochemistry	Metabolism of amino acids	3.40E-04	AGXT2,DPEP1,HNF4A,PPARA	4
+Cardiovascular Disease,Hematological Disease,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Familial combined hyperlipidemia	3.61E-04	Apoc3,PPARA	2
+Cellular Growth and Proliferation	Pluripotency of fibroblast cell lines	3.96E-04	GRB2,HNF4A	2
+Small Molecule Biochemistry	Conversion of sphinganine	5.20E-04	oleoyl-coenzyme A	1
+Small Molecule Biochemistry	Conversion of phytosphingosine	5.20E-04	oleoyl-coenzyme A	1
+Energy Production,Lipid Metabolism,Small Molecule Biochemistry	Beta-oxidation of palmitic acid	7.35E-04	carnitine,PPARA	2
+Molecular Transport	Transport of nitrogenous base	7.64E-04	PDZK1,SLC23A1	2
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Concentration of lipid	9.62E-04	Apoc3,carnitine,ERBB2,Flg,GRB2,HNF4A,PDZK1,PPARA	8
+Carbohydrate Metabolism,Small Molecule Biochemistry	Metabolism of D-hexose	1.01E-03	ALDOB,KHK,PPARA	3
+Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities,Renal and Urological Disease	Beta-aminoisobutyric aciduria	1.04E-03	AGXT2	1
+Organismal Injury and Abnormalities	Bleeding of parenchyma	1.04E-03	SLC23A1	1
+Molecular Transport	Transport of carboxylic acid	1.15E-03	carnitine,PPARA,SLC23A1	3
+Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Essential fructosuria	1.30E-03	KHK	1
+Cell Morphology,Cellular Development,Cellular Growth and Proliferation,Renal and Urological System Development and Function	Morphogenesis of kidney cell lines	1.36E-03	ERBB2,GRB2	2
+Lipid Metabolism,Nucleic Acid Metabolism,Small Molecule Biochemistry	Metabolism of acyl-coenzyme A	1.55E-03	Acot1,HNF4A	2
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by E. coli	1.56E-03	DPEP1	1
+Hematological Disease,Infectious Diseases	Escherichia coli septicemia	1.56E-03	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Klebsiella	1.56E-03	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Staphylococcus aureus	1.56E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Staphylococcus aureus	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Klebsiella	1.56E-03	DPEP1	1
+Metabolic Disease,Organismal Injury and Abnormalities	Fructose intolerance	1.56E-03	ALDOB	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Peptococcus	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Bacteroides fragilis	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Peptostreptococcus	1.56E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Staphylococcus epidermidis	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Propionibacterium	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Morganella morganii	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by fusobacterium	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Staphylococcus aureus	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Citrobacter	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Klebsiella	1.56E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Morganella morganii	1.56E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by fusobacterium	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Enterobacter	1.56E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Propionibacterium	1.56E-03	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Serratia marcescens	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Acinetobacter	1.56E-03	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Haemophilus parainfluenzae	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Staphylococcus aureus	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Proteus	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Gardnerella vaginalis	1.56E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Peptococcus	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Providencia rettgeri	1.56E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Bifidobacterium	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Proteus vulgaris	1.56E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Eubacterium	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Staphylococcus epidermidis	1.56E-03	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Acinetobacter	1.56E-03	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Enterobacter	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Providencia rettgeri	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Gynecologic infection by Bifidobacterium	1.56E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Clostridium	1.56E-03	DPEP1	1
+Infectious Diseases,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Healthcare-associated bacterial pneumonia	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by E. coli	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Pseudomonas aeruginosa	1.56E-03	DPEP1	1
+Hematological Disease,Infectious Diseases	Klebsiella septicemia	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	E. coli gynecologic infection	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Morganella morganii	1.56E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Enterococcus faecalis	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Staphylococcus epidermidis	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Proteus vulgaris	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Enterococcus faecalis gynecologic infection	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Peptostreptococcus gynecologic infection	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Streptococcus agalactiae gynecologic infection	1.56E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Reproductive System Disease	Bacteroides fragilis gynecologic infection	1.56E-03	DPEP1	1
+Infectious Diseases	Peptostreptococcus intra-abdominal infection	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Serratia	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Peptococcus	1.56E-03	DPEP1	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Enterobacter	1.56E-03	DPEP1	1
+Infectious Diseases	Bacteroides fragilis intra-abdominal infection	1.56E-03	DPEP1	1
+Infectious Diseases,Respiratory Disease	Lower respiratory tract infection by Haemophilus influenzae	1.56E-03	DPEP1	1
+Infectious Diseases,Inflammatory Disease,Inflammatory Response,Organismal Injury and Abnormalities,Respiratory Disease	Ventilator associated bacterial pneumonia	1.56E-03	DPEP1	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Quantity of ketone body	1.56E-03	Apoc3,PPARA	2
+Carbohydrate Metabolism	Gluconeogenesis	1.78E-03	ALDOB,HNF4A,PPARA	3
+Dermatological Diseases and Conditions,Hair and Skin Development and Function,Organ Morphology,Organismal Injury and Abnormalities	Abnormal morphology of stratum corneum	1.86E-03	Flg,PPARA	2
+Infectious Diseases	Replication of hepatitis B virus	1.98E-03	HNF4A,PPARA	2
+Endocrine System Disorders,Gastrointestinal Disease,Glomerular Injury,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities,Renal and Urological Disease	Fanconi renotubular syndrome with maturity-onset diabetes of the young type 4	2.08E-03	HNF4A	1
+Cellular Development	Epithelial-mesenchymal transition of fibroblast cell lines	2.08E-03	HNF4A	1
+Cellular Development,Embryonic Development,Organ Development,Organismal Development	Maturation of enterocytes	2.08E-03	HNF4A	1
+Endocrine System Disorders,Gastrointestinal Disease,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Autosomal dominant maturity-onset diabetes of the young type 1	2.08E-03	HNF4A	1
+Cellular Function and Maintenance,Hematological System Development and Function	Regulation of Th2 cells	2.08E-03	Timd2	1
+Cellular Development,Organismal Development	Maturation of enteroendocrine cells	2.08E-03	HNF4A	1
+Carbohydrate Metabolism	Depletion of carbohydrate	2.24E-03	GRB2,PPARA	2
+Cellular Movement,Connective Tissue Development and Function	Chemokinesis of fibroblast cell lines	2.34E-03	GRB2	1
+Tissue Morphology	Disruption of marginal zone	2.34E-03	GRB2	1
+Carbohydrate Metabolism,Lipid Metabolism,Small Molecule Biochemistry	Conversion of lysophosphatidylserine	2.60E-03	oleoyl-coenzyme A	1
+Carbohydrate Metabolism,Lipid Metabolism,Small Molecule Biochemistry	Conversion of lysophosphatidylethanolamine	2.60E-03	oleoyl-coenzyme A	1
+Cellular Growth and Proliferation,Embryonic Development	Pluripotency of embryonic cell lines	2.63E-03	GRB2,HNF4A	2
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Non-inflammatory HER2 positive invasive breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Unresectable locally advanced HER2 positive breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Stage I unilateral breast cancer	2.86E-03	ERBB2	1
+Cellular Assembly and Organization,Nervous System Development and Function,Tissue Morphology	Quantity of afferent boutons	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Early stage invasive HER2 amplification positive breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Stage II unilateral breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Locally advanced HER2 positive invasive breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease,Tumor Morphology	Stage III progressive HER2-positive breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Metaplastic hormone receptor positive HER2 positive breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Early stage primary HER2 positive breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Metaplastic estrogen receptor negative HER2 positive progesterone receptor negative breast cancer	2.86E-03	ERBB2	1
+Cancer,Immunological Disease,Organismal Injury and Abnormalities,Reproductive System Disease,Tumor Morphology	Early stage invasive HER2 positive lymph node-positive breast cancer	2.86E-03	ERBB2	1
+Cardiac Damage,Small Molecule Biochemistry	Cardiovascular toxicity property of trastuzumab	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Locoregionally relapsed HER2-positive breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Locally advanced HER2 positive early breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	HER2 positive luminal B breast carcinoma	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	HER2 positive mixed ductal lobular breast carcinoma in situ	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	HER2 positive mixed ductal lobular breast carcinoma	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	HER2 positive metaplastic breast carcinoma	2.86E-03	ERBB2	1
+Cell-To-Cell Signaling and Interaction	Signaling by cardiomyocytes	2.86E-03	ERBB2	1
+Cancer,Cellular Response to Therapeutics,Organismal Injury and Abnormalities,Reproductive System Disease	Antiestrogen resistance of breast carcinoma	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Delay in formation of mammary adenocarcinoma	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities	Transformation of radial glial cells	2.86E-03	ERBB2	1
+Cellular Assembly and Organization	Formation of lumina	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Early stage primary HER2-positive luminal-B like breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Locoregional recurrent breast cancer	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	HER2 mutation positive non-small cell lung carcinoma	2.86E-03	ERBB2	1
+Cellular Function and Maintenance	Clathrin mediated endocytosis by breast cancer cell lines	2.86E-03	ERBB2	1
+Cell-To-Cell Signaling and Interaction,Cellular Assembly and Organization	Quantity of junctional complexes	2.86E-03	ERBB2	1
+Cellular Assembly and Organization,Nervous System Development and Function	Defasciculation of motor nerve	2.86E-03	ERBB2	1
+Cellular Development,Cellular Growth and Proliferation,Tissue Development,Tissue Morphology	Expansion of luminal progenitor cells	2.86E-03	ERBB2	1
+Cancer,Immunological Disease,Organismal Injury and Abnormalities,Reproductive System Disease,Tumor Morphology	Early stage high risk HER2 positive lymph node-positive breast cancer	2.86E-03	ERBB2	1
+Cancer,Cellular Movement,Organismal Injury and Abnormalities	Invasion of dorsal root ganglion cells	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Stage I-IIIC early invasive breast carcinoma	2.86E-03	ERBB2	1
+Cancer,Cellular Development,Organismal Injury and Abnormalities	Immortalization of dorsal root ganglion cells	2.86E-03	ERBB2	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function	Excitatory postsynaptic potential of motor neurons	2.86E-03	ERBB2	1
+Embryonic Development,Organ Development,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Development	Development of muscle spindle	2.86E-03	ERBB2	1
+Cancer,Cell Death and Survival,Organismal Injury and Abnormalities,Reproductive System Disease,Tumor Morphology	Necrosis of breast adenocarcinoma	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Invasive mixed ductal and lobular breast carcinoma	2.86E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	High-risk HER2 positive early breast cancer	2.86E-03	ERBB2	1
+Cell-To-Cell Signaling and Interaction,Nervous System Development and Function,Skeletal and Muscular System Development and Function	Efficiency of neuromuscular junctions	2.86E-03	ERBB2	1
+Drug Metabolism,Endocrine System Development and Function,Lipid Metabolism,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Synthesis of beta-estradiol	2.86E-03	arachidonyl-coenzyme A,oleoyl-coenzyme A	2
+Molecular Transport	Quantity of urea	2.97E-03	HNF4A,PPARA	2
+Organismal Injury and Abnormalities	Exhaustion of mice	3.12E-03	PPARA	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Uptake of 9-methylpentadecanoic acid	3.12E-03	PPARA	1
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Hematological System Development and Function,Hematopoiesis,Humoral Immune Response,Lymphoid Tissue Structure and Development,Organ Development,Organismal Development,Tissue Development	Generation of immunosuppressive regulatory B cells	3.12E-03	PPARA	1
+Cardiovascular Disease,Hematological Disease,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Susceptibility to hyperapobetalipoproteinemia	3.12E-03	PPARA	1
+Embryonic Development,Hair and Skin Development and Function,Organ Development,Organismal Development,Tissue Development	Delay in formation of stratum corneum	3.12E-03	PPARA	1
+Carbohydrate Metabolism,Lipid Metabolism,Small Molecule Biochemistry	Conversion of lysophosphatidylcholine	3.12E-03	oleoyl-coenzyme A	1
+Lipid Metabolism,Small Molecule Biochemistry	Regulation of triacylglycerol	3.12E-03	PPARA	1
+Energy Production,Lipid Metabolism,Small Molecule Biochemistry	Oxidation of 9-methylpentadecanoic acid	3.12E-03	PPARA	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Enterococcus faecalis	3.12E-03	DPEP1	1
+Cell Morphology,Cellular Assembly and Organization,Hepatocellular Peroxisome Proliferation	Size of peroxisomes	3.12E-03	PPARA	1
+Cellular Compromise	Breakdown of mitochondrial outer membrane	3.12E-03	PPARA	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Enterococcus faecalis	3.12E-03	DPEP1	1
+Cell Morphology,Cellular Function and Maintenance	Mitochondrial membrane potential of pancreatic cancer cell lines	3.12E-03	HNF4A	1
+Neurological Disease,Organismal Injury and Abnormalities	Stable disease stage chronic spinal cord injury	3.12E-03	PPARA	1
+Cardiovascular Disease,Hematological Disease,Hereditary Disorder,Metabolic Disease,Organismal Injury and Abnormalities	Hyperlipidemia, combined, 2	3.12E-03	Apoc3	1
+Cell Cycle,Gene Expression	Binding of DNA endogenous promoter	3.15E-03	arachidonyl-coenzyme A,oleoyl-coenzyme A,PPARA	3
+Endocrine System Development and Function,Lipid Metabolism,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Steroidogenesis of hormone	3.47E-03	arachidonyl-coenzyme A,oleoyl-coenzyme A,PPARA	3
+Cellular Development,Cellular Growth and Proliferation,Embryonic Development,Organ Development,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Development	Formation of intrafusal muscle fibers	3.63E-03	ERBB2	1
+Neurological Disease	Degeneration of motor nerve	3.63E-03	ERBB2	1
+Lipid Metabolism,Small Molecule Biochemistry	Metabolism of eicosanoid	3.71E-03	arachidonyl-coenzyme A,DPEP1,ERBB2,HNF4A	4
+Cancer,Cell Death and Survival,Cell-To-Cell Signaling and Interaction,Inflammatory Response,Reproductive System Disease	Antibody-dependent cell-mediated cytotoxic reaction of breast cancer cell lines	3.89E-03	ERBB2	1
+Infectious Diseases	Intra-abdominal infection by Citrobacter	3.89E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Proteus	3.89E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Enterobacter	3.89E-03	DPEP1	1
+Carbohydrate Metabolism,Small Molecule Biochemistry	Phosphorylation of D-fructose	3.89E-03	KHK	1
+Infectious Diseases	Pseudomonas aeruginosa intra-abdominal infection	3.89E-03	DPEP1	1
+Infectious Diseases	Intra-abdominal infection by Klebsiella	3.89E-03	DPEP1	1
+Infectious Diseases	E. coli intra-abdominal infection	3.89E-03	DPEP1	1
+Infectious Diseases	Complicated intra-abdominal infection	3.89E-03	DPEP1	1
+Lipid Metabolism	Infiltration by lipid	4.15E-03	PPARA	1
+Lipid Metabolism,Small Molecule Biochemistry	Degradation of leukotriene B4	4.15E-03	PPARA	1
+Dermatological Diseases and Conditions,Infectious Diseases,Organismal Injury and Abnormalities	Skin infection by Staphylococcus aureus	4.15E-03	DPEP1	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	HER2 non-overexpressing breast carcinoma	4.15E-03	ERBB2	1
+Lipid Metabolism,Small Molecule Biochemistry	Removal of lipid	4.19E-03	Apoc3,PPARA	2
+Cellular Assembly and Organization,Cellular Function and Maintenance	Outgrowth of microtubules	4.41E-03	ERBB2	1
+Gastrointestinal Disease	Abnormal absorption of vitamin	4.41E-03	SLC23A1	1
+Carbohydrate Metabolism,Molecular Transport	Quantity of lactic acid	4.50E-03	ERBB2,PPARA	2
+Renal and Urological System Development and Function	Dispersal of kidney cell lines	4.67E-03	ERBB2	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Moderate retinopathy	4.67E-03	PPARA	1
+Dermatological Diseases and Conditions,Organ Morphology,Organismal Injury and Abnormalities	Abnormal morphology of thin granular layer of epidermis	4.67E-03	PPARA	1
+Cancer,Dermatological Diseases and Conditions,Organismal Injury and Abnormalities	Hyperplasia of interfollicular epidermis	4.67E-03	ERBB2	1
+Carbohydrate Metabolism,Molecular Transport,Small Molecule Biochemistry	Cycling of D-glucose	4.67E-03	PPARA	1
+Cellular Movement,Renal and Urological System Development and Function	Chemokinesis of kidney cell lines	4.67E-03	GRB2	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Abnormal quantity of ketone body	4.67E-03	PPARA	1
+Carbohydrate Metabolism	Metabolism of carbohydrate	4.82E-03	ALDOB,ERBB2,GRB2,KHK,PPARA,SLC23A1	6
+Lipid Metabolism,Small Molecule Biochemistry	Conversion of D-sphingosine	4.93E-03	oleoyl-coenzyme A	1
+Endocrine System Disorders,Gastrointestinal Disease,Hepatic System Disease,Liver Steatosis,Metabolic Disease,Organismal Injury and Abnormalities	Experimental nonalcoholic fatty liver disease	4.93E-03	PPARA	1
+Lipid Metabolism,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Synthesis of retinyl ester	4.93E-03	HNF4A	1
+Lipid Metabolism,Small Molecule Biochemistry	Formation of ketone body	4.93E-03	PPARA	1
+Cell-To-Cell Signaling and Interaction	Sensitization of breast cancer cell lines	4.93E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Delay in initiation of metastasis of mammary tumor	4.93E-03	ERBB2	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Organismal Injury and Abnormalities	Hyperplasia of gall bladder	5.19E-03	ERBB2	1
+Small Molecule Biochemistry	Synthesis of urea	5.19E-03	PPARA	1
+Lipid Metabolism,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Synthesis of terpenoid	5.42E-03	arachidonyl-coenzyme A,HNF4A,oleoyl-coenzyme A,PPARA	4
+Cancer,Cell Death and Survival,Organismal Injury and Abnormalities,Reproductive System Disease	Apoptosis of mammary tumor	5.45E-03	ERBB2	1
+Amino Acid Metabolism,Small Molecule Biochemistry	Synthesis of glycine	5.45E-03	AGXT2	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by E. coli	5.45E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Klebsiella	5.45E-03	DPEP1	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Pseudomonas aeruginosa	5.45E-03	DPEP1	1
+Cancer,Organismal Injury and Abnormalities	Delay in initiation of development of hyperplastic lesion	5.45E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Delay in initiation of development of infiltrating ductal breast carcinoma	5.45E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Delay in initiation of development of mammary intraepithelial neoplasm	5.45E-03	ERBB2	1
+Infectious Diseases,Organismal Injury and Abnormalities,Renal and Urological Disease	Complicated urinary tract infection by Enterobacter	5.45E-03	DPEP1	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Breast metastasis	5.45E-03	ERBB2	1
+Organ Morphology	Morphology of epidermis	5.55E-03	ERBB2,Flg,PPARA	3
+Cardiovascular Disease,Organismal Injury and Abnormalities	Abdominal aorta atherosclerotic lesion	5.70E-03	PPARA	1
+Cardiovascular System Development and Function,Organismal Development,Tissue Development	Vascularization of epithelial tissue	5.70E-03	ERBB2	1
+Cancer,Cellular Development,Cellular Growth and Proliferation,Organismal Injury and Abnormalities	Formation of cancer stem cells	5.70E-03	HNF4A	1
+Cell Cycle,Hair and Skin Development and Function	Arrest in S phase of keratinocytes	5.70E-03	ERBB2	1
+Cancer,Hematological Disease,Organismal Injury and Abnormalities,Reproductive System Disease,Respiratory Disease	Hypoxia of mammary tumor	5.70E-03	ERBB2	1
+Connective Tissue Development and Function,Skeletal and Muscular System Development and Function,Tissue Development	Initiation of formation of trabecula	5.70E-03	ERBB2	1
+Cellular Assembly and Organization,Cellular Function and Maintenance	Function of peroxisomes	5.70E-03	PPARA	1
+Cellular Development,Connective Tissue Development and Function,Tissue Development	Differentiation of trabecula	5.70E-03	ERBB2	1
+Cancer	Transformation of epithelial cell lines	5.76E-03	ERBB2,GRB2	2
+Organismal Injury and Abnormalities,Renal and Urological Disease	Abnormal renal clearance	5.96E-03	SLC23A1	1
+Cellular Movement	Chemokinesis of macrophage cancer cell lines	5.96E-03	GRB2	1
+Connective Tissue Development and Function,Tissue Development	Metabolism by adipose tissue	5.96E-03	PPARA	1
+Cardiovascular System Development and Function,Embryonic Development,Organ Development,Organismal Development,Reproductive System Development and Function,Tissue Development	Vascularization of mammary gland	5.96E-03	ERBB2	1
+Tissue Morphology	Quantity of segmented filamentous bacterium	5.96E-03	PPARA	1
+Cellular Development	Dedifferentiation of colorectal cancer cell lines	5.96E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Formation of mammary gland adenoma	5.96E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Neoplastic cell transformation of mammary epithelial cells	5.96E-03	ERBB2	1
+Lipid Metabolism,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Production of taurocholic acid	5.96E-03	PPARA	1
+Inflammatory Response	Antibody response	5.98E-03	ERBB2,Flg,PRAP1	3
+Hair and Skin Development and Function,Organ Morphology	Quantity of stratum corneum	6.22E-03	PPARA	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Tumorigenesis of parotid gland tumor	6.22E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Arrest in growth of mammary tumor	6.22E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Recurrent EGFR G719X mutation positive nonsquamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Recurrent EGFR S768I mutation positive nonsquamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease,Tumor Morphology	Metastatic estrogen receptor negative HER2 positive progesterone receptor negative breast cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	EGFR exon 19 insertion positive nonsquamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	EGFR G719A mutation positive non-small cell lung carcinoma	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Stage IB-IIIA resected non-squamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Recurrent EGFR L858R mutation positive nonsquamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cardiovascular System Development and Function,Organismal Development	Re-endothelialization of carotid artery	6.48E-03	PDZK1	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Advanced EGFR S768I mutation positive nonsquamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Advanced estrogen receptor positive HER2 positive progesterone receptor negative breast cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Renal and Urological Disease	Locally advanced EGFR overexpression positive bladder cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Renal and Urological Disease	HER2 positive urinary tract cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease,Tumor Morphology	Stage 4 progressive EGFR mutation negative non-small cell lung cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Advanced triple positive breast cancer	6.48E-03	ERBB2	1
+Cancer,Connective Tissue Disorders,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Recurrent EGFR expressing chordoma	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Refractory non-small cell lung cancer with activating EGFR mutations	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Recurrent metastatic lung adenocarcinoma	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	ALK rearrangement positive EGFR exon 19 deletion positive non-squamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	ALK rearrangement positive EGFR exon 19 deletion positive EGFR T790M mutation negative non-squamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities	Maintenance of carcinoma	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Recurrent EGFR L861Q mutation positive nonsquamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Advanced EGFR G719X mutation positive nonsquamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Advanced EGFR L861Q mutation positive nonsquamous non-small cell lung cancer	6.48E-03	ERBB2	1
+Cellular Movement	Invasion of epithelial cell lines	6.60E-03	ERBB2,GRB2	2
+Protein Degradation,Protein Synthesis	Catabolism of lipoprotein	6.74E-03	PPARA	1
+Gastrointestinal Disease,Organ Morphology,Organismal Injury and Abnormalities	Distension of colon	6.74E-03	ERBB2	1
+Organismal Injury and Abnormalities,Renal and Urological Disease	Urological disorder of kidney	6.90E-03	HNF4A,PPARA	2
+Organismal Injury and Abnormalities	Benign lesion	6.96E-03	DPEP1,ERBB2,GRB2,PBLD,PPARA,SLC23A1,Sprr2d	7
+Carbohydrate Metabolism,Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Depletion of phosphatidylinositol 4,5-diphosphate	7.00E-03	GRB2	1
+Cancer,Cardiovascular System Development and Function,Organismal Injury and Abnormalities,Reproductive System Disease,Tumor Morphology	Vascularization of mammary tumor	7.00E-03	ERBB2	1
+Amino Acid Metabolism,Small Molecule Biochemistry	Metabolism of L-ornithine	7.00E-03	HNF4A	1
+Lipid Metabolism,Molecular Transport,Nucleic Acid Metabolism,Small Molecule Biochemistry	Transport of acyl-coenzyme A	7.00E-03	carnitine	1
+Energy Production,Lipid Metabolism,Small Molecule Biochemistry	Beta-oxidation of octanoic acid	7.00E-03	carnitine	1
+Cardiovascular Disease,Hematological Disease,Metabolic Disease,Organismal Injury and Abnormalities	Hyperlipoproteinemia type V	7.00E-03	PPARA	1
+Nervous System Development and Function,Neurological Disease	Abnormal morphology of superior x cranial ganglion	7.00E-03	ERBB2	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Accumulation of linoleic acid	7.25E-03	PPARA	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Initiation of tumorigenesis of mammary tumor	7.25E-03	ERBB2	1
+Cellular Growth and Proliferation,Endocrine System Development and Function	Colony formation of endocrine cell lines	7.25E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities	Tumorigenesis of adenosquamous carcinoma	7.25E-03	ERBB2	1
+Hair and Skin Development and Function,Organ Morphology	Size of sebaceous glands	7.51E-03	ERBB2	1
+Cellular Response to Therapeutics	Tamoxifen resistance of cells	7.51E-03	ERBB2	1
+Connective Tissue Disorders,Gastrointestinal Disease,Hepatic System Disease,Metabolic Disease,Organismal Injury and Abnormalities	Adiposis of liver	7.51E-03	PPARA	1
+Cardiovascular System Development and Function,Cellular Development,Cellular Growth and Proliferation,Organismal Development,Respiratory System Development and Function	Angiogenesis of lung cell lines	7.51E-03	ERBB2	1
+Cell-To-Cell Signaling and Interaction,Cellular Compromise	Disorganization of tight junctions	7.51E-03	ERBB2	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Transport of fatty acid	7.67E-03	carnitine,PPARA	2
+Molecular Transport,Nucleic Acid Metabolism,Small Molecule Biochemistry	Transport of uric acid	7.77E-03	PDZK1	1
+Ophthalmic Disease,Organismal Injury and Abnormalities	Severe retinopathy	7.77E-03	PPARA	1
+Cellular Movement,Digestive System Development and Function	Cell movement of gastric cells	7.77E-03	ERBB2	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Quantity of ursodeoxycholic acid	7.77E-03	HNF4A	1
+Nervous System Development and Function	Neuroprotection of neuronal hybrid cells	7.77E-03	GRB2	1
+Molecular Transport,Small Molecule Biochemistry	Transport of carnitine	7.77E-03	PDZK1	1
+Small Molecule Biochemistry	Metabolism of glyoxylic acid	7.77E-03	AGXT2	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Metastatic salivary gland cancer	7.77E-03	ERBB2	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Grade 3 colon cancer	8.03E-03	HNF4A	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease,Tissue Morphology	Quantity of breast carcinoma	8.03E-03	ERBB2	1
+Cell Cycle	Arrest in G1/S phase transition of squamous cell carcinoma cell lines	8.03E-03	ERBB2	1
+Nervous System Development and Function	Development of paravertebral sympathetic chain	8.03E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Latency of mammary tumor	8.29E-03	ERBB2	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Accumulation of stearic acid	8.29E-03	PPARA	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	Stage IV MET positive non-small cell lung carcinoma	8.29E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	EGFR mutation negative MET positive non-small cell lung carcinoma	8.29E-03	ERBB2	1
+Cellular Development,Cellular Growth and Proliferation,Renal and Urological System Development and Function,Renal Proliferation	Cell proliferation of kidney cell lines	8.33E-03	ERBB2,GRB2,HNF4A	3
+Cell Cycle	Mitogenesis	8.39E-03	ERBB2,GRB2,PPARA	3
+Drug Metabolism	Metabolism of xenobiotic	8.53E-03	DPEP1,HNF4A	2
+Cancer,Endocrine System Disorders,Organismal Injury and Abnormalities,Reproductive System Disease	Serous low malignant potential tumor	8.54E-03	ERBB2	1
+Cancer,Organismal Injury and Abnormalities,Respiratory Disease	KRAS mutation negative non-small cell lung carcinoma	8.54E-03	ERBB2	1
+Carbohydrate Metabolism,Molecular Transport	Transport of dehydroascorbic acid	8.54E-03	SLC23A1	1
+Tissue Development	Filling of lumen	8.54E-03	ERBB2	1
+Hematological System Development and Function,Tissue Development	Homeostasis of blood	8.59E-03	Apoc3,SLC23A1	2
+Carbohydrate Metabolism,Small Molecule Biochemistry	Production of lactic acid	8.62E-03	ERBB2,PPARA	2
+Carbohydrate Metabolism,Molecular Transport,Small Molecule Biochemistry,Vitamin and Mineral Metabolism	Uptake of ascorbic acid	8.80E-03	SLC23A1	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Hyperplasia of mammary epithelial cells	8.80E-03	ERBB2	1
+Cellular Function and Maintenance	Regulation of chondrocytes	8.80E-03	ERBB2	1
+Nervous System Development and Function,Neurological Disease	Abnormal morphology of prevertebral ganglion	8.80E-03	ERBB2	1
+Cardiovascular Disease,Hematological Disease,Metabolic Disease,Organismal Injury and Abnormalities	Severe hypertriglyceridemia	8.80E-03	PPARA	1
+Hepatocellular Peroxisome Proliferation	Proliferation of peroxisomes in liver	1.06E-02	PPARA	1
+Cardiac Inflammation,Cardiovascular Disease,Inflammatory Disease,Organismal Injury and Abnormalities	Endocarditis	1.11E-02	DPEP1	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular Peroxisome Proliferation,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Development of hepatocellular adenoma	1.16E-02	PPARA	1
+Increased Levels of ALT	Increased activation of ALT	1.45E-02	PPARA	1
+Increased Levels of AST	Increased activation of AST	1.47E-02	PPARA	1
+Biliary Hyperplasia,Cancer,Gastrointestinal Disease,Hepatic System Disease,Organismal Injury and Abnormalities	Development of cholangiocarcinoma	1.68E-02	ERBB2	1
+Cellular Assembly and Organization,Hepatocellular Peroxisome Proliferation	Quantity of peroxisomes	1.70E-02	PPARA	1
+Liver Cirrhosis	Cirrhosis	2.03E-02	DPEP1,HNF4A,PPARA	3
+Gastrointestinal Disease,Hepatic System Disease,Liver Steatosis,Metabolic Disease,Organismal Injury and Abnormalities	Severe hepatic steatosis	2.08E-02	PPARA	1
+Cardiac Damage,Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Damage of myocardium	3.30E-02	PPARA	1
+Cellular Compromise,Gastrointestinal Disease,Hepatic System Disease,Liver Damage,Organismal Injury and Abnormalities	Damage of hepatocytes	3.43E-02	PPARA	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatocellular carcinoma	4.20E-02	AGXT2,ALDOB,ERBB2,HNF4A,PPARA	5
+Cardiac Fibrosis,Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Fibrosis of myocardium	5.15E-02	PPARA	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatitis B surface antigen-negative hepatitis C virus negative hepatocellular carcinoma	5.42E-02	ALDOB	1
+Cell Death and Survival,Gastrointestinal Disease,Hepatic System Disease,Liver Necrosis/Cell Death,Organismal Injury and Abnormalities	Apoptosis of hepatocytes	5.69E-02	HNF4A,PPARA	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Metastatic liver cholangiocarcinoma	5.81E-02	ERBB2	1
+Cellular Development,Cellular Growth and Proliferation,Digestive System Development and Function,Hepatic System Development and Function,Liver Proliferation,Organ Development,Tissue Development	Proliferation of hepatocytes	6.16E-02	HNF4A,PPARA	2
+Cardiac Fibrosis,Cardiovascular Disease,Organismal Injury and Abnormalities	Fibrosis of heart	7.64E-02	GRB2,PPARA	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Hepatitis B virus-related hepatocellular carcinoma	7.90E-02	ALDOB	1
+Cardiac Damage,Cardiovascular Disease,Organismal Injury and Abnormalities	Cardiotoxicity	9.14E-02	ERBB2	1
+Cardiac Inflammation,Cardiovascular Disease,Inflammatory Response,Organismal Injury and Abnormalities	Inflammation of heart	1.05E-01	PPARA	1
+Cardiovascular Disease,Heart Failure,Organismal Injury and Abnormalities	Cardiac death	1.16E-01	PPARA	1
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Inflammatory Disease,Inflammatory Response,Liver Inflammation/Hepatitis,Liver Steatosis,Metabolic Disease,Organ Development,Organismal Injury and Abnormalities	Steatohepatitis	1.22E-01	PPARA	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver metastasis	1.37E-01	ERBB2	1
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Infectious Diseases,Inflammatory Disease,Inflammatory Response,Liver Damage,Liver Inflammation/Hepatitis,Organ Development,Organismal Injury and Abnormalities	Chronic hepatitis C	1.53E-01	PPARA	1
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Enlargement of heart	1.65E-01	ERBB2,GRB2,PPARA	3
+Digestive System Development and Function,Gastrointestinal Disease,Hepatic System Development and Function,Hepatic System Disease,Liver Enlargement,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Hepatomegaly	1.82E-01	PPARA	1
+Gastrointestinal Disease,Hepatic System Disease,Inflammatory Disease,Liver Cirrhosis,Organismal Injury and Abnormalities	Primary biliary cirrhosis	1.83E-01	PPARA	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Development of hepatocellular carcinoma	2.06E-01	PPARA	1
+Cardiac Infarction,Cardiovascular Disease,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Acute myocardial infarction	2.34E-01	PPARA	1
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Hypertrophy of heart	2.36E-01	GRB2,PPARA	2
+Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities	Ventricular hypertrophy	2.76E-01	PPARA	1
+Cardiac Enlargement,Cardiovascular System Development and Function,Cell Morphology,Organ Morphology,Organismal Development,Skeletal and Muscular System Development and Function,Tissue Morphology	Enlargement of cardiomyocytes	2.94E-01	PPARA	1
+Gastrointestinal Disease,Hepatic System Disease,Liver Fibrosis,Organismal Injury and Abnormalities	Fibrosis of liver	2.96E-01	HNF4A	1
+Cardiac Dysfunction,Cardiovascular Disease,Organismal Injury and Abnormalities	Dysfunction of heart	3.96E-01	PPARA	1
+Cell Death and Survival,Organismal Injury and Abnormalities,Renal and Urological Disease,Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	4.63E-01	ERBB2	1
+Cardiac Arteriopathy,Cardiovascular Disease,Organismal Injury and Abnormalities	Disorder of coronary artery	4.75E-01	PPARA	1
+Cardiac Dilation,Cardiac Enlargement,Cardiovascular Disease,Cardiovascular System Development and Function,Organ Morphology,Organismal Development,Organismal Injury and Abnormalities,Skeletal and Muscular Disorders	Dilated cardiomyopathy	4.86E-01	ERBB2	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver carcinoma	1.00E00	AGXT2,ALDOB,ERBB2,GRB2,HNF4A,PBLD,PPARA	7

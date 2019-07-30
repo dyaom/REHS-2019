@@ -1,0 +1,33 @@
+© 2000-2019 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules	
+Carbohydrate Metabolism,Small Molecule Biochemistry	Hydrolysis of sialic acids	1.30E-04	NEU2	1
+Lipid Metabolism,Small Molecule Biochemistry	Metabolism of glycosphingolipid	1.86E-04	GBA3,NEU2	2
+Cancer,Developmental Disorder,Gastrointestinal Disease,Hepatic System Disease,Hereditary Disorder,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Autosomal dominant polycystic liver disease	1.21E-03	PRKCSH	1
+Infectious Diseases	Release of Influenza A virus	1.34E-03	NEU2	1
+Lipid Metabolism,Small Molecule Biochemistry	Hydrolysis of ganglioside	1.43E-03	NEU2	1
+Organ Morphology,Renal and Urological System Development and Function,Renal Dilation	Dilation of collecting tubule	1.52E-03	PRKCSH	1
+Lipid Metabolism,Small Molecule Biochemistry	Catabolism of ganglioside	2.03E-03	NEU2	1
+Carbohydrate Metabolism,Small Molecule Biochemistry	Processing of N-glycan	2.25E-03	PRKCSH	1
+Carbohydrate Metabolism	Catabolism of oligosaccharide	2.38E-03	NEU2	1
+Cell Morphology,Cellular Assembly and Organization,Cellular Development,Cellular Function and Maintenance,Cellular Growth and Proliferation,Nervous System Development and Function,Organismal Development,Tissue Development	Neuritogenesis of neuroblastoma cell lines	3.25E-03	PRKCSH	1
+Organ Morphology,Renal and Urological System Development and Function,Renal Dilation	Dilation of kidney	3.46E-03	PRKCSH	1
+Lipid Metabolism,Molecular Transport,Small Molecule Biochemistry	Quantity of ganglioside GM3	4.50E-03	NEU2	1
+Cancer,Organismal Injury and Abnormalities,Reproductive System Disease	Placental cancer	4.67E-03	NEU2	1
+Cancer,Organismal Injury and Abnormalities	Cancer of head	5.35E-03	GBA3,NEU2,PRKCSH	3
+Cell-To-Cell Signaling and Interaction,Cellular Assembly and Organization	Binding of plasma membrane	1.06E-02	PRKCSH	1
+Cell Death and Survival	Killing of lymphoma cell lines	1.36E-02	NEU2	1
+Organismal Injury and Abnormalities,Renal and Urological Disease	Urological disorder of kidney	2.06E-02	PRKCSH	1
+Embryonic Development,Organismal Development	Development of abdomen	2.26E-02	PRKCSH,TNS2	2
+Cellular Development,Cellular Growth and Proliferation	Cell proliferation of tumor cell lines	2.27E-02	NEU2,PRKCSH,TNS2	3
+Cellular Development,Skeletal and Muscular System Development and Function,Tissue Development	Differentiation of myotube	2.57E-02	NEU2	1
+Protein Synthesis	Hetero-oligomerization of protein	2.81E-02	PRKCSH	1
+Organismal Development	Growth of multicellular organism	3.05E-02	TNS2	1
+Cancer,Neurological Disease,Organismal Injury and Abnormalities	Brain tumor	3.06E-02	NEU2,PRKCSH	2
+Post-Translational Modification,Protein Folding	Folding of protein	3.40E-02	PRKCSH	1
+Cellular Development,Cellular Growth and Proliferation	Proliferation of neuroblastoma cell lines	3.77E-02	PRKCSH	1
+Cancer,Gastrointestinal Disease,Organismal Injury and Abnormalities	Oral squamous cell carcinoma	4.31E-02	GBA3,PRKCSH	2
+Digestive System Development and Function,Embryonic Development,Hepatic System Development and Function,Organ Development,Organismal Development,Tissue Development	Development of liver	4.53E-02	PRKCSH	1
+Cellular Development,Skeletal and Muscular System Development and Function,Tissue Development	Differentiation of myoblasts	4.68E-02	NEU2	1
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver cancer	4.46E-01	NEU2,PRKCSH	2
+Cancer,Gastrointestinal Disease,Hepatic System Disease,Liver Hyperplasia/Hyperproliferation,Organismal Injury and Abnormalities	Liver carcinoma	1.00E00	PRKCSH	1
